@@ -1,0 +1,488 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dental Price Dashboard v3</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        .sidebar-active { background-color: #eff6ff; border-left: 4px solid #3b82f6; color: #1e40af; }
+        .line-clamp-2 { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+        .custom-scrollbar::-webkit-scrollbar { width: 4px; }
+        .custom-scrollbar::-webkit-scrollbar-thumb { background: #e5e7eb; border-radius: 10px; }
+    </style>
+</head>
+<body class="bg-slate-50 text-slate-900 font-sans">
+
+    <div class="flex h-screen overflow-hidden">
+        <!-- Sidebar -->
+        <aside class="w-72 bg-white border-r flex-shrink-0 flex flex-col shadow-sm">
+            <div class="p-6 border-b bg-white sticky top-0 z-10">
+                <h1 class="text-xl font-black text-slate-800 tracking-tight">DENTAL MONITOR</h1>
+                <p class="text-[10px] uppercase tracking-widest text-slate-400 font-bold mt-1" id="update-time">LOADING...</p>
+            </div>
+            <nav class="flex-1 overflow-y-auto custom-scrollbar p-2" id="nav-container">
+                <!-- Injected via JS -->
+            </nav>
+        </aside>
+
+        <!-- Main -->
+        <main class="flex-1 flex flex-col min-w-0 bg-slate-50">
+            <header class="h-16 bg-white border-b flex items-center justify-between px-8 shadow-sm">
+                <nav class="flex text-slate-500 text-sm font-medium" aria-label="Breadcrumb">
+                    <ol class="flex items-center space-x-2">
+                        <li id="breadcrumb-kw" class="font-bold">--</li>
+                        <li id="breadcrumb-arrow"><svg class="w-4 h-4" fill="currentColor" viewBox="0 0 20 20"><path d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z"></path></svg></li>
+                        <li class="text-slate-900" id="breadcrumb-plat">--</li>
+                    </ol>
+                </nav>
+                <div class="relative" id="search-container">
+                    <input type="text" id="search-input" placeholder="按产品或品牌过滤..." 
+                           class="w-64 pl-10 pr-4 py-2 bg-slate-100 border-none rounded-full text-sm focus:ring-2 focus:ring-blue-500 transition-all">
+                    <svg class="w-4 h-4 absolute left-3 top-3 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
+                </div>
+            </header>
+
+            <div class="flex-1 overflow-y-auto p-8 custom-scrollbar" id="grid-container">
+                <!-- Content Injected via JS -->
+            </div>
+        </main>
+    </div>
+
+    <!-- Modal -->
+    <div id="modal" class="fixed inset-0 bg-slate-900/60 backdrop-blur-sm hidden z-50 flex items-center justify-center p-6">
+        <div class="bg-white rounded-2xl shadow-2xl w-full max-w-5xl max-h-[90vh] flex flex-col overflow-hidden">
+            <div class="p-6 border-b flex justify-between items-center">
+                <div class="flex items-center space-x-3">
+                    <span id="modal-tag" class="px-2 py-1 bg-blue-100 text-blue-700 text-[10px] font-bold rounded">PLATFORM</span>
+                    <h3 class="text-lg font-bold text-slate-800 line-clamp-1" id="modal-name">PRODUCT NAME</h3>
+                </div>
+                <button onclick="closeModal()" class="p-2 hover:bg-slate-100 rounded-full transition-colors text-slate-400">
+                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M6 18L18 6M6 6l12 12"></path></svg>
+                </button>
+            </div>
+            <div class="flex-1 overflow-y-auto p-8">
+                <div class="grid grid-cols-1 lg:grid-cols-3 gap-10">
+                    <div class="lg:col-span-1">
+                        <img id="modal-img" src="" class="w-full aspect-square object-contain bg-slate-50 rounded-xl border border-slate-100 p-4">
+                        <div class="mt-6 space-y-3">
+                            <div class="flex justify-between text-sm"><span class="text-slate-400">SKU</span><span class="font-mono text-xs font-bold" id="modal-sku">--</span></div>
+                            <div class="flex justify-between text-sm"><span class="text-slate-400">品牌</span><span class="font-bold" id="modal-brand">--</span></div>
+                            <a id="modal-link" href="#" target="_blank" class="flex items-center justify-center space-x-2 w-full bg-slate-900 text-white py-3 rounded-xl font-bold hover:bg-slate-800 transition-all">
+                                <span>前往商城</span>
+                                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="lg:col-span-2 flex flex-col">
+                        <div class="flex items-end justify-between mb-6">
+                            <h4 class="text-sm font-bold text-slate-400 uppercase tracking-widest">价格变动趋势</h4>
+                            <div class="text-right">
+                                <span class="text-xs text-slate-400">当前价格</span>
+                                <div class="text-3xl font-black text-slate-900" id="modal-price">¥--</div>
+                            </div>
+                        </div>
+                        <div class="h-64 mb-8 bg-slate-50 rounded-xl p-4">
+                            <canvas id="chart"></canvas>
+                        </div>
+                        <h4 class="text-sm font-bold text-slate-400 uppercase tracking-widest mb-4">采集历史</h4>
+                        <div class="flex-1 overflow-hidden rounded-xl border border-slate-100">
+                            <table class="w-full text-left text-sm">
+                                <thead class="bg-slate-50 border-b border-slate-100">
+                                    <tr>
+                                        <th class="px-4 py-2 font-bold text-slate-500">日期</th>
+                                        <th class="px-4 py-2 font-bold text-slate-500">价格</th>
+                                        <th class="px-4 py-2 font-bold text-slate-500">变动</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="modal-history-table">
+                                    <!-- Rows -->
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="./dashboard_data.js"></script>
+    <script>
+        let selectedKw = 'summary';
+        let selectedPlat = null;
+        let chart = null;
+
+        function init() {
+            if (!window.DASHBOARD_DATA) return;
+            document.getElementById('update-time').innerText = `UPDATED: ${window.DASHBOARD_DATA.generated_at}`;
+            
+            // Check if there are any recent changes to default to summary, otherwise pick first platform
+            const hasRecentChanges = getRecentChanges().length > 0;
+            if (!hasRecentChanges && window.DASHBOARD_DATA.tree.length > 0) {
+                selectedKw = window.DASHBOARD_DATA.tree[0].keyword;
+                selectedPlat = window.DASHBOARD_DATA.tree[0].platforms[0].name;
+            }
+            
+            renderNav();
+            renderContent();
+            
+            document.getElementById('search-input').addEventListener('input', () => {
+                if (selectedKw !== 'summary') renderContent();
+            });
+        }
+
+        function getRecentChanges() {
+            const latestDate = window.DASHBOARD_DATA.latest_date;
+            let changedItems = [];
+            window.DASHBOARD_DATA.tree.forEach(kwNode => {
+                kwNode.platforms.forEach(platNode => {
+                    platNode.products.forEach(p => {
+                        // 如果有变动，且最后一次历史记录的日期就是全局的最新日期
+                        if (p.history.length >= 2) {
+                            const lastH = p.history[p.history.length - 1];
+                            const prevH = p.history[p.history.length - 2];
+                            if (lastH.date === latestDate && lastH.price !== prevH.price) {
+                                changedItems.push({
+                                    kw: kwNode.keyword,
+                                    plat: platNode.name,
+                                    product: p
+                                });
+                            }
+                        }
+                    });
+                });
+            });
+            return changedItems;
+        }
+
+        function renderNav() {
+            const container = document.getElementById('nav-container');
+            
+            let html = `
+                <div class="mb-4">
+                    <button onclick="showSummary()" class="w-full text-left px-4 py-3 rounded-xl text-sm font-bold transition-all flex items-center justify-between ${selectedKw === 'summary' ? 'bg-slate-900 text-white shadow-lg' : 'bg-white text-slate-600 hover:bg-slate-50 border border-slate-200 shadow-sm'}">
+                        <div class="flex items-center space-x-2">
+                            <span>⚡️</span>
+                            <span>最新变动汇总</span>
+                        </div>
+                    </button>
+                </div>
+                <div class="text-[10px] font-black tracking-widest text-slate-300 mb-2 px-2 uppercase">品牌浏览</div>
+            `;
+            
+            html += window.DASHBOARD_DATA.tree.map(item => {
+                const isOpen = item.keyword === selectedKw;
+                return `
+                    <div class="mb-2">
+                        <div onclick="toggleKw('${item.keyword}')" class="flex items-center justify-between p-3 rounded-xl cursor-pointer hover:bg-slate-50 transition-colors">
+                            <span class="font-bold text-slate-700">${item.keyword}</span>
+                            <svg class="w-4 h-4 transition-transform text-slate-400 ${isOpen ? 'rotate-180' : ''}" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                        </div>
+                        <div class="${isOpen ? 'block' : 'hidden'} mt-1 space-y-1 pl-4">
+                            ${item.platforms.map(plat => `
+                                <div onclick="selectPlat('${item.keyword}', '${plat.name}')" 
+                                     class="flex items-center justify-between p-2.5 rounded-lg cursor-pointer text-sm font-medium transition-all ${selectedPlat === plat.name && selectedKw === item.keyword ? 'sidebar-active' : 'text-slate-500 hover:text-slate-900 hover:bg-slate-50'}">
+                                    <span>${plat.name}</span>
+                                    <span class="text-[10px] font-bold bg-slate-100 text-slate-400 px-1.5 py-0.5 rounded-md">${plat.count}</span>
+                                </div>
+                            `).join('')}
+                        </div>
+                    </div>
+                `;
+            }).join('');
+            
+            container.innerHTML = html;
+        }
+
+        function showSummary() {
+            selectedKw = 'summary';
+            selectedPlat = null;
+            renderNav();
+            renderContent();
+        }
+
+        function toggleKw(kw) {
+            if (selectedKw === kw) return; // Prevent collapse if selecting same
+            selectedKw = kw;
+            // Select first platform by default
+            const node = window.DASHBOARD_DATA.tree.find(n => n.keyword === kw);
+            if (node && node.platforms.length > 0) {
+                selectedPlat = node.platforms[0].name;
+            }
+            renderNav();
+            renderContent();
+        }
+
+        function selectPlat(kw, plat) {
+            selectedKw = kw;
+            selectedPlat = plat;
+            renderNav();
+            renderContent();
+        }
+
+        function renderContent() {
+            const gridContainer = document.getElementById('grid-container');
+            const breadcrumbKw = document.getElementById('breadcrumb-kw');
+            const breadcrumbPlat = document.getElementById('breadcrumb-plat');
+            const breadcrumbArrow = document.getElementById('breadcrumb-arrow');
+            const searchContainer = document.getElementById('search-container');
+            
+            if (selectedKw === 'summary') {
+                breadcrumbKw.innerText = '⚡️ 最新变动汇总';
+                breadcrumbKw.className = 'font-bold text-rose-500';
+                breadcrumbArrow.classList.add('hidden');
+                breadcrumbPlat.classList.add('hidden');
+                searchContainer.classList.add('hidden');
+                renderSummaryView(gridContainer);
+            } else {
+                breadcrumbKw.innerText = selectedKw;
+                breadcrumbKw.className = 'font-bold text-slate-700';
+                breadcrumbArrow.classList.remove('hidden');
+                breadcrumbPlat.classList.remove('hidden');
+                breadcrumbPlat.innerText = selectedPlat;
+                searchContainer.classList.remove('hidden');
+                renderGridView(gridContainer);
+            }
+        }
+
+        function renderSummaryView(container) {
+            const changes = getRecentChanges();
+            const latestDate = window.DASHBOARD_DATA.latest_date;
+            
+            if (changes.length === 0) {
+                container.innerHTML = `
+                    <div class="flex flex-col items-center justify-center h-full text-slate-400 space-y-4">
+                        <svg class="w-16 h-16 text-slate-200" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+                        <p class="text-lg">在最新数据 (${latestDate}) 中没有发现价格变动</p>
+                    </div>
+                `;
+                return;
+            }
+
+            // Group by KW -> Platform
+            let grouped = {};
+            changes.forEach(c => {
+                if (!grouped[c.kw]) grouped[c.kw] = {};
+                if (!grouped[c.kw][c.plat]) grouped[c.kw][c.plat] = [];
+                grouped[c.kw][c.plat].push(c.product);
+            });
+
+            let html = `<div class="space-y-10 max-w-6xl mx-auto">`;
+            
+            html += Object.keys(grouped).map(kw => {
+                let platHtml = Object.keys(grouped[kw]).map(plat => {
+                    const products = grouped[kw][plat];
+                    return `
+                        <div class="mb-6">
+                            <h4 class="text-sm font-bold text-slate-500 mb-3 flex items-center space-x-2 uppercase tracking-wider">
+                                <span class="w-2 h-2 rounded-full bg-blue-500"></span>
+                                <span>${plat}</span>
+                                <span class="text-[10px] bg-slate-200 text-slate-500 px-2 py-0.5 rounded-full">${products.length} 项变动</span>
+                            </h4>
+                            <div class="bg-white rounded-2xl shadow-sm border border-slate-200 overflow-hidden">
+                                <table class="w-full text-left text-sm">
+                                    <thead class="bg-slate-50 border-b border-slate-100">
+                                        <tr>
+                                            <th class="px-6 py-4 font-bold text-slate-500 w-24">SKU</th>
+                                            <th class="px-6 py-4 font-bold text-slate-500">产品名称</th>
+                                            <th class="px-6 py-4 font-bold text-slate-500 w-32 text-right">旧价格</th>
+                                            <th class="px-6 py-4 font-bold text-slate-500 w-32 text-right">新价格</th>
+                                            <th class="px-6 py-4 font-bold text-slate-500 w-32 text-right">变动</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody class="divide-y divide-slate-100">
+                                        ${products.map(p => {
+                                            const lastH = p.history[p.history.length - 1];
+                                            const prevH = p.history[p.history.length - 2];
+                                            const diff = lastH.price - prevH.price;
+                                            const diffHtml = diff > 0 
+                                                ? `<span class="inline-flex items-center space-x-1 px-2 py-1 bg-rose-50 text-rose-600 rounded-md font-bold"><span>↑</span><span>${diff.toFixed(1)}</span></span>`
+                                                : `<span class="inline-flex items-center space-x-1 px-2 py-1 bg-emerald-50 text-emerald-600 rounded-md font-bold"><span>↓</span><span>${Math.abs(diff).toFixed(1)}</span></span>`;
+                                                
+                                            return `
+                                                <tr class="hover:bg-slate-50 transition-colors cursor-pointer" onclick='openModal(${JSON.stringify(p).replace(/'/g, "&apos;")})'>
+                                                    <td class="px-6 py-4 font-mono text-xs text-slate-400" title="${p.sku}">${p.sku.slice(0,8)}...</td>
+                                                    <td class="px-6 py-4">
+                                                        <div class="font-medium text-slate-800 line-clamp-1">${p.name}</div>
+                                                        <div class="text-[10px] text-slate-400 mt-1 uppercase">${p.brand || '未知品牌'}</div>
+                                                    </td>
+                                                    <td class="px-6 py-4 font-medium text-slate-400 text-right line-through">¥${prevH.price}</td>
+                                                    <td class="px-6 py-4 font-black text-slate-900 text-right">¥${lastH.price}</td>
+                                                    <td class="px-6 py-4 text-right">${diffHtml}</td>
+                                                </tr>
+                                            `;
+                                        }).join('')}
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    `;
+                }).join('');
+                
+                return `
+                    <div class="bg-white rounded-3xl p-8 border border-slate-100 shadow-sm">
+                        <h3 class="text-2xl font-black text-slate-800 mb-8 border-b-2 border-slate-100 pb-4 inline-block">${kw}</h3>
+                        ${platHtml}
+                    </div>
+                `;
+            }).join('');
+            
+            html += `</div>`;
+            container.innerHTML = html;
+        }
+
+        function renderGridView(container) {
+            const search = document.getElementById('search-input').value.toLowerCase();
+            const platformData = window.DASHBOARD_DATA.tree
+                .find(k => k.keyword === selectedKw)
+                ?.platforms.find(p => p.name === selectedPlat);
+
+            if (!platformData) {
+                container.innerHTML = '';
+                return;
+            }
+
+            const filtered = platformData.products.filter(p => 
+                p.name.toLowerCase().includes(search) || (p.brand || '').toLowerCase().includes(search)
+            );
+
+            let gridHtml = `<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">`;
+            
+            gridHtml += filtered.map(p => {
+                const latest = p.history[p.history.length - 1];
+                const change = p.change || 0;
+                const everChanged = p.ever_changed || false;
+                const hasCurrentChange = Math.abs(change) > 0;
+                
+                const changeColor = change < 0 ? 'text-emerald-500' : (change > 0 ? 'text-rose-500' : 'text-slate-300');
+                const changeIcon = change < 0 ? '↓' : (change > 0 ? '↑' : '−');
+                const changeBg = change < 0 ? 'bg-emerald-50' : (change > 0 ? 'bg-rose-50' : 'bg-slate-50');
+                
+                let cardBorder = 'border border-slate-100 shadow-sm hover:border-blue-200';
+                let highlightRibbon = '';
+                
+                if (hasCurrentChange) {
+                    cardBorder = change < 0 ? 'border-2 border-emerald-400 shadow-md shadow-emerald-100' : 'border-2 border-rose-400 shadow-md shadow-rose-100';
+                    highlightRibbon = `<div class="absolute -top-px left-4 px-3 py-1 text-[10px] font-black tracking-widest uppercase rounded-b-lg shadow-sm ${change < 0 ? 'bg-emerald-500 text-white' : 'bg-rose-500 text-white'}">
+                                           ${change < 0 ? '降价' : '涨价'}
+                                       </div>`;
+                } else if (everChanged) {
+                    cardBorder = 'border-2 border-blue-200 shadow-md shadow-blue-50';
+                    highlightRibbon = `<div class="absolute -top-px left-4 px-3 py-1 text-[10px] font-black tracking-widest uppercase rounded-b-lg shadow-sm bg-blue-500 text-white">
+                                           价格波动
+                                       </div>`;
+                }
+
+                return `
+                    <div onclick='openModal(${JSON.stringify(p).replace(/'/g, "&apos;")})' 
+                         class="group bg-white rounded-2xl p-4 ${cardBorder} hover:shadow-xl transition-all cursor-pointer relative mt-2">
+                        ${highlightRibbon}
+                        <div class="aspect-square bg-slate-50 rounded-xl overflow-hidden mb-4 p-2 relative mt-4">
+                            <img src="${p.image_url || 'https://via.placeholder.com/300?text=No+Image'}" 
+                                 class="w-full h-full object-contain group-hover:scale-110 transition-transform duration-500">
+                            <div class="absolute top-2 right-2 ${changeBg} ${changeColor} text-[10px] font-black px-2 py-1 rounded-lg">
+                                ${changeIcon} ${Math.abs(change).toFixed(1)}
+                            </div>
+                        </div>
+                        <div class="space-y-1">
+                            <div class="flex justify-between items-center">
+                                <span class="text-[10px] font-bold text-slate-400 uppercase tracking-widest">${p.brand || 'UNKNOWN'}</span>
+                                <span class="text-[10px] font-bold text-slate-300 truncate w-24 text-right" title="${p.sku}">SKU: ${p.sku}</span>
+                            </div>
+                            <h4 class="text-sm font-bold text-slate-800 line-clamp-2 leading-snug h-10">${p.name}</h4>
+                            <div class="pt-2 flex items-baseline space-x-1">
+                                <span class="text-xs font-bold text-slate-400 font-mono">¥</span>
+                                <span class="text-xl font-black text-slate-900">${latest.price}</span>
+                            </div>
+                        </div>
+                    </div>
+                `;
+            }).join('');
+            
+            gridHtml += `</div>`;
+            container.innerHTML = gridHtml;
+        }
+
+        function openModal(product) {
+            const latest = product.history[product.history.length - 1];
+            document.getElementById('modal-name').innerText = product.name;
+            
+            // If in summary, platform name isn't directly known, but it's passed or stored. Actually we can just show the platform.
+            document.getElementById('modal-tag').innerText = product.platform || selectedPlat || 'PLATFORM';
+            
+            document.getElementById('modal-brand').innerText = product.brand || '未知品牌';
+            document.getElementById('modal-sku').innerText = product.sku;
+            document.getElementById('modal-price').innerText = `¥${latest.price}`;
+            document.getElementById('modal-img').src = product.image_url || 'https://via.placeholder.com/300?text=No+Image';
+            document.getElementById('modal-link').href = product.product_url;
+
+            // History Table
+            const tbody = document.getElementById('modal-history-table');
+            let tableHtml = '';
+            for (let i = product.history.length - 1; i >= 0; i--) {
+                const item = product.history[i];
+                const prev = product.history[i-1];
+                let diff = 0;
+                let diffHtml = '<span class="text-slate-300">−</span>';
+                
+                if (prev) {
+                    diff = item.price - prev.price;
+                    if (diff > 0) diffHtml = `<span class="text-rose-500 font-bold">↑ ${diff.toFixed(1)}</span>`;
+                    else if (diff < 0) diffHtml = `<span class="text-emerald-500 font-bold">↓ ${Math.abs(diff).toFixed(1)}</span>`;
+                }
+                
+                tableHtml += `
+                    <tr class="border-b border-slate-50 hover:bg-slate-50 transition-colors">
+                        <td class="px-4 py-3 font-medium">${item.date}</td>
+                        <td class="px-4 py-3 font-black text-slate-700">¥${item.price}</td>
+                        <td class="px-4 py-3 text-xs">${diffHtml}</td>
+                    </tr>
+                `;
+            }
+            tbody.innerHTML = tableHtml;
+
+            document.getElementById('modal').classList.remove('hidden');
+            renderChart(product.history);
+        }
+
+        function closeModal() {
+            document.getElementById('modal').classList.add('hidden');
+        }
+
+        function renderChart(history) {
+            const ctx = document.getElementById('chart').getContext('2d');
+            if (chart) chart.destroy();
+            chart = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: history.map(h => h.date),
+                    datasets: [{
+                        data: history.map(h => h.price),
+                        borderColor: '#3b82f6',
+                        borderWidth: 4,
+                        backgroundColor: 'rgba(59, 130, 246, 0.05)',
+                        fill: true,
+                        tension: 0.4,
+                        pointRadius: 6,
+                        pointBackgroundColor: '#fff',
+                        pointBorderColor: '#3b82f6',
+                        pointBorderWidth: 2
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: { legend: { display: false } },
+                    scales: {
+                        y: { grid: { borderDash: [5, 5], color: '#e2e8f0' }, ticks: { font: { weight: 'bold' } } },
+                        x: { grid: { display: false } }
+                    }
+                }
+            });
+        }
+
+        init();
+    </script>
+</body>
+</html>
