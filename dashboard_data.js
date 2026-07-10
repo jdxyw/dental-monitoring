@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generated_at": "2026-07-10 14:18:05",
+  "generated_at": "2026-07-10 17:55:41",
   "latest_date": "2026-07-10",
   "tree": [
     {
@@ -7,7 +7,7 @@ window.DASHBOARD_DATA = {
       "platforms": [
         {
           "name": "励齿",
-          "count": 26,
+          "count": 35,
           "products": [
             {
               "sku": "328670",
@@ -1160,6 +1160,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-07-08",
                   "price": 197.6
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 197.6
                 }
               ],
               "change": 0.0,
@@ -1342,6 +1346,141 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-06-29",
                   "price": 53.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "323535",
+              "brand": "3M UNITEK",
+              "name": "3M UNITEK SmartClip SL3自锁金属正畸托槽 MBT 6-6 尖牙带牵引钩 0.22\" 004-130",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/323535_1.jpg?version=1761298739584",
+              "product_url": "https://www.lichidental.com/product/detail?sku=323535",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 1958.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "306266",
+              "brand": "3M UNITEK",
+              "name": "3M UNITEK Transbond Plus正畸光固化变色粘结剂 712-103 4g*4支",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/43ec55259d1f4f55ae0300c1e4f7d650.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=306266",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 917.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "100848",
+              "brand": "3M UNITEK",
+              "name": "3M UNITEK SmartClip正畸钳 自锁托槽卸载钳  804-160",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/74d62973ea144baa9aced51951235390.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=100848",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 850.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "100040",
+              "brand": "3M UNITEK",
+              "name": "3M UNITEK Forsus EZ2 咬合矫治器 推杆弹簧加力圈 885-145 32mm",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/b85ecbd1223a40c49c14009ce61681a5.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=100040",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 662.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "756006",
+              "brand": "3M UNITEK",
+              "name": "3M UNITEK Victory Series 金属正畸托槽(尖牙带钩) 017-552 .022\"",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/244cc7b5c3764fd8a23b2b5df6041245.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=756006",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 618.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "100872",
+              "brand": "3M UNITEK",
+              "name": "3M UNITEK Victory Active SL自锁金属正畸托槽 025-127 0.022 5-5 上345 下45",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/1571115651550.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=100872",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 1568.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "306542",
+              "brand": "3M UNITEK",
+              "name": "3M Unitek Transbond XT 正畸预处理剂 处理液/剂 712-034 6ml/瓶",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/1562893794818.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=306542",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 270.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "100779",
+              "brand": "3M UNITEK",
+              "name": "3M UNITEK TransbondXT光固化正畸粘接剂 712-036 4支装*4g/支",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/100779_1.jpg?version=1766640561057",
+              "product_url": "https://www.lichidental.com/product/detail?sku=100779",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 799.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "300930",
+              "brand": "3M UNITEK",
+              "name": "3M Unitek 牙科正畸橡皮圈 牵引橡皮圈/弹力/筋(医用乳胶) 中-轻力3.5oz,1/4英寸 红色花朵 404-236 小包装",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/db059ebc2cee4891b827b20f82ba196a.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=300930",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 5.0
                 }
               ],
               "change": 0,
@@ -5764,7 +5903,7 @@ window.DASHBOARD_DATA = {
         },
         {
           "name": "牙E在线",
-          "count": 6,
+          "count": 15,
           "products": [
             {
               "sku": "2347",
@@ -6118,6 +6257,141 @@ window.DASHBOARD_DATA = {
                 }
               ],
               "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "3003",
+              "brand": "3M",
+              "name": "3M Z250前后牙通用型光固化复合树脂1370#4g",
+              "image_url": "https://imgs.yae720.com/goods_image/20250409/1744188332481.jpg",
+              "product_url": "https://yae920.com/#/details?goodsId=3003",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 130.7
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "5018",
+              "brand": "3M",
+              "name": "3M 二次枪混型加成硅橡胶印模材料/轻体9378#4*1",
+              "image_url": "https://img.yae920.cn/goods%2Fthumbnail%2F%E4%B8%BB%E5%9B%BE4-rc-upload-1593411499682-31.jpeg?x-oss-process=image/watermark,image_d2F0ZXIucG5nP3gtb3NzLXByb2Nlc3M9aW1hZ2UvcmVzaXplLFBfMjA,t_100,g_center",
+              "product_url": "https://yae920.com/#/details?goodsId=5018",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 296.7
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "3660",
+              "brand": "3M",
+              "name": "3M 绿巨人树脂水门汀初始装56925",
+              "image_url": "https://imgs.yae720.com/goods_image/20250409/1744188287211.jpg",
+              "product_url": "https://yae920.com/#/details?goodsId=3660",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 640.9
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "2525",
+              "brand": "3M",
+              "name": "3M Durelon聚羧酸水门汀",
+              "image_url": "https://img.yae920.cn/goods%2Fthumbnail%2F%E4%B8%BB%E5%9B%BE3-rc-upload-1593328334267-24.jpeg?x-oss-process=image/watermark,image_d2F0ZXIucG5nP3gtb3NzLXByb2Nlc3M9aW1hZ2UvcmVzaXplLFBfMjA,t_100,g_center",
+              "product_url": "https://yae920.com/#/details?goodsId=2525",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 102.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "5093",
+              "brand": "3M",
+              "name": "3M 乳前牙预成冠透明套装915100#120*1",
+              "image_url": "https://img.yae920.cn/goods%2Fthumbnail%2Fgoods%252Fthumbnail%252F%E4%B8%BB%E5%9B%BE-01-rc-upload-1589265146199-268-rc-upload-1593410922106-428.jpeg?x-oss-process=image/watermark,image_d2F0ZXIucG5nP3gtb3NzLXByb2Nlc3M9aW1hZ2UvcmVzaXplLFBfMjA,t_100,g_center",
+              "product_url": "https://yae920.com/#/details?goodsId=5093",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 1729.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "8575",
+              "brand": "3M",
+              "name": "3M Filtek Bulk Fill光固化复合树脂/后牙大块充填树脂胶囊补充装 20*0.2g",
+              "image_url": "https://imgs.yae720.com/goods_image/20250409/1744187939192.jpg",
+              "product_url": "https://yae920.com/#/details?goodsId=8575",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 350.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "8596",
+              "brand": "3M",
+              "name": "3M 压力蒸汽灭菌包内化学指示卡（爬行式）1243A",
+              "image_url": "https://img.yae920.cn/goods%2Fthumbnail%2F%E4%B8%BB%E5%9B%BE-03-rc-upload-1594179587652-5.jpeg?x-oss-process=image/watermark,image_d2F0ZXIucG5nP3gtb3NzLXByb2Nlc3M9aW1hZ2UvcmVzaXplLFBfMjA,t_100,g_center",
+              "product_url": "https://yae920.com/#/details?goodsId=8596",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 407.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "9797",
+              "brand": "3M",
+              "name": "3M 第八代通用粘接系统L-POP补充装/棒棒糖装100*1",
+              "image_url": "https://imgs.yae720.com/goods_image/20250409/1744186903964.jpg",
+              "product_url": "https://yae920.com/#/details?goodsId=9797",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 1179.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "3661",
+              "brand": "3M",
+              "name": "3M 自锁托槽开锁工具/自锁系统弓丝卸载工具",
+              "image_url": "https://img.yae920.cn/goods%2Fthumbnail%2F%E4%B8%BB%E5%9B%BE-05-rc-upload-1599091895791-485.jpeg?x-oss-process=image/watermark,image_d2F0ZXIucG5nP3gtb3NzLXByb2Nlc3M9aW1hZ2UvcmVzaXplLFBfMjA,t_100,g_center",
+              "product_url": "https://yae920.com/#/details?goodsId=3661",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 850.0
+                }
+              ],
+              "change": 0,
               "ever_changed": false
             }
           ]
@@ -7333,11 +7607,4740 @@ window.DASHBOARD_DATA = {
       ]
     },
     {
+      "keyword": "3M ESPE",
+      "platforms": [
+        {
+          "name": "励齿",
+          "count": 103,
+          "products": [
+            {
+              "sku": "333119",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Filtek Z350XT Universal Restorative （国产）光固化复合树脂 膏体纳米树脂 （美学补牙通用） A3 牙体色 7018PA3B",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/4e01a293bff74db287fb1f91763b236b.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=333119",
+              "history": [
+                {
+                  "date": "2026-06-28",
+                  "price": 165.0
+                },
+                {
+                  "date": "2026-06-29",
+                  "price": 165.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 165.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 176.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 176.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 176.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 176.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 176.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 176.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 176.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 176.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 176.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 176.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": true
+            },
+            {
+              "sku": "300420",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Single Bond Universal通用粘接剂 金标准八代粘接剂 万能胶(含硅烷)5ml/瓶 41282 通用粘接系统",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/300420_1.jpg?version=1751281374749",
+              "product_url": "https://www.lichidental.com/product/detail?sku=300420",
+              "history": [
+                {
+                  "date": "2026-06-28",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-06-29",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 389.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 389.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 389.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": true
+            },
+            {
+              "sku": "301921",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Filtek™ P60 光固化复合树脂 后牙充填专用树脂 4g/支 8100 A3色",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/301921_1.jpg?version=1750331152781",
+              "product_url": "https://www.lichidental.com/product/detail?sku=301921",
+              "history": [
+                {
+                  "date": "2026-06-28",
+                  "price": 172.0
+                },
+                {
+                  "date": "2026-06-29",
+                  "price": 172.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 159.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 159.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 159.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 159.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 159.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 159.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 159.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 159.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 172.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 172.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 172.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": true
+            },
+            {
+              "sku": "ZH100589",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Filtek Z350XT A3B+3M UNITEK Transbond Plus正畸光固化变色粘接剂 712-105  促销组合",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/6871775d7a23475d95cb203b06e0f366.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=ZH100589",
+              "history": [
+                {
+                  "date": "2026-06-30",
+                  "price": 408.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 369.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 369.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 369.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 369.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 369.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 369.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 369.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 369.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 369.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 369.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": true
+            },
+            {
+              "sku": "334006",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Ketac Universal 玻璃离子水门汀 充填型 A3初始装 粉:12.5g/瓶 液:8.5mL/瓶 61104",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/334006_1.jpg?version=1770373929902",
+              "product_url": "https://www.lichidental.com/product/detail?sku=334006",
+              "history": [
+                {
+                  "date": "2026-06-28",
+                  "price": 312.0
+                },
+                {
+                  "date": "2026-06-29",
+                  "price": 312.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 312.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 312.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 312.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 312.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 312.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 312.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 312.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 312.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 312.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 312.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 312.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "307254",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Filtek Z350XT Universal光固化复合树脂 纳米树脂 通用美学树脂 单色套装A2B*2,A3B*2 7018S",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/0c576c5fd25a4651a88996929958bffb.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=307254",
+              "history": [
+                {
+                  "date": "2026-06-28",
+                  "price": 690.0
+                },
+                {
+                  "date": "2026-06-29",
+                  "price": 690.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 690.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 690.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 690.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 690.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 690.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 690.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 690.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 690.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 690.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 690.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 690.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "305320",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Filtek Z350XT Universal光固化复合树脂 通用纳米树脂 通用美学树脂 双色套装A3D,A4D,A2E,A3E 7018D",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/ebe37c4ee3964574a27d1c5a84725fdd.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=305320",
+              "history": [
+                {
+                  "date": "2026-06-28",
+                  "price": 690.0
+                },
+                {
+                  "date": "2026-06-29",
+                  "price": 690.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 690.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 690.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 690.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 690.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 690.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 690.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 690.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 690.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 690.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 690.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 690.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "313761",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Filtek Z350XT Universal光固化复合树脂 纳米树脂  通用美学树脂 胶囊树脂 瓶装20粒/瓶 牙体色 7019A3B",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/313761_1.jpg?version=1750332712415",
+              "product_url": "https://www.lichidental.com/product/detail?sku=313761",
+              "history": [
+                {
+                  "date": "2026-06-28",
+                  "price": 223.0
+                },
+                {
+                  "date": "2026-06-29",
+                  "price": 223.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 223.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 223.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 223.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 223.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 223.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 223.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 223.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 223.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 223.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 223.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 223.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "302102",
+              "brand": "3M ESPE",
+              "name": "3M ESPE RelyX™ Luting 2玻璃离子粘固剂 粉巨人树脂加强型玻璃离子水门汀 粘冠种植修复 11g 3525TKA",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/302102_1.jpg?version=1768447190060",
+              "product_url": "https://www.lichidental.com/product/detail?sku=302102",
+              "history": [
+                {
+                  "date": "2026-06-28",
+                  "price": 356.0
+                },
+                {
+                  "date": "2026-06-29",
+                  "price": 356.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 356.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 356.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 356.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 356.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 356.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 356.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 356.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 356.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 356.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 356.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 356.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "309361",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Filtek™ Z350XT流动树脂 流动纳米树脂-不含输送头3700T 光固化流体垫底充填 2g*2/袋 7032A3",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/309361_1.jpg?version=1750332532905",
+              "product_url": "https://www.lichidental.com/product/detail?sku=309361",
+              "history": [
+                {
+                  "date": "2026-06-28",
+                  "price": 184.0
+                },
+                {
+                  "date": "2026-06-29",
+                  "price": 184.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 184.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 184.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 184.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 184.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 184.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 184.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 184.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 184.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 184.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 184.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 184.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "301931",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Filtek Z350XT光固化复合树脂 纳米树脂 膏体(美学补牙通用)牙体色7018A3B 4g",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/aa58936e5dcf4ca182828aca55f2994f.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=301931",
+              "history": [
+                {
+                  "date": "2026-06-28",
+                  "price": 179.5
+                },
+                {
+                  "date": "2026-06-29",
+                  "price": 179.5
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "315313",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Filtek™ Bulk Fill Flowable 流动树脂 (不含输送头3740T) 4mm大块流体 龈壁提升 垫底 2g*2/袋 4862U 通用色",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/2514a0f89bd54061ab8809d37f2a8911.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=315313",
+              "history": [
+                {
+                  "date": "2026-06-28",
+                  "price": 294.0
+                },
+                {
+                  "date": "2026-06-29",
+                  "price": 294.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 294.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 294.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 294.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 294.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 294.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 294.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 294.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 294.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 294.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 294.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 294.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "307203",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Filtek™ Bulk Fill Posterior光固化复合树脂 后牙5mm大块充填树脂 低聚合收缩应力注射装4g/支 4863 A3色",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/307203_1.jpg?version=1752139220781",
+              "product_url": "https://www.lichidental.com/product/detail?sku=307203",
+              "history": [
+                {
+                  "date": "2026-06-28",
+                  "price": 324.0
+                },
+                {
+                  "date": "2026-06-29",
+                  "price": 324.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 324.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 324.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 324.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 324.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 324.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 324.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 324.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 324.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 324.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 324.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 324.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "307966",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Filtek™ Bulk Fill Posterior光固化复合树脂 后牙5mm大块充填树脂 低聚合收缩应力 胶囊 瓶装20粒/瓶 4864 A3色",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/307966_1.jpg?version=1750332352781",
+              "product_url": "https://www.lichidental.com/product/detail?sku=307966",
+              "history": [
+                {
+                  "date": "2026-06-28",
+                  "price": 350.0
+                },
+                {
+                  "date": "2026-06-29",
+                  "price": 350.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 350.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 350.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 350.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 350.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 350.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 350.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 350.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 350.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 350.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 350.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 350.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "100091",
+              "brand": "3M ESPE",
+              "name": "3M ESPE RelyX Ultimate 树脂水门汀 绿巨人手调装 初始套装透明色 56925 Clicker 透明色4.5g 通用粘结剂1.5ml 酸蚀剂3Ml",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/9c1301f461414e3b9bdde1d2f8c0a38e.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=100091",
+              "history": [
+                {
+                  "date": "2026-06-28",
+                  "price": 641.0
+                },
+                {
+                  "date": "2026-06-29",
+                  "price": 641.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 641.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 641.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 641.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 641.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 641.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 641.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 641.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 641.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 641.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 641.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 641.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "301937",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Filtek™ Z250XT 通用树脂 通用纳米树脂 前后牙通用 混合光固化复合纳米树脂 3g/支 1470A3",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/3a4bcb65c484478fbd976310e6a75049.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=301937",
+              "history": [
+                {
+                  "date": "2026-06-28",
+                  "price": 96.0
+                },
+                {
+                  "date": "2026-06-29",
+                  "price": 96.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 96.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 96.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 96.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 96.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 96.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 96.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 96.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 96.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 96.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 96.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 96.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "332220",
+              "brand": "3M ESPE",
+              "name": "3M ESPE 牙科输送头 Filtek Flowable Restorative Dispensing Tips 3700T27 20个/袋",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/332220_1.jpg?version=1766634665879",
+              "product_url": "https://www.lichidental.com/product/detail?sku=332220",
+              "history": [
+                {
+                  "date": "2026-06-28",
+                  "price": 27.9
+                },
+                {
+                  "date": "2026-06-29",
+                  "price": 27.9
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 27.9
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 27.9
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 27.9
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 27.9
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 27.9
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 27.9
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 27.9
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 27.9
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 27.9
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 27.9
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 27.9
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "336165",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Clinpro Clear fluoride treatment, 牙科脱敏剂, 薄荷味, 0.5 mL(g)/支, 50 支/盒，7200M",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/336165_1.jpg?version=1772076922036",
+              "product_url": "https://www.lichidental.com/product/detail?sku=336165",
+              "history": [
+                {
+                  "date": "2026-06-28",
+                  "price": 888.0
+                },
+                {
+                  "date": "2026-06-29",
+                  "price": 888.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 888.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 888.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 888.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 888.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 888.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 888.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 888.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 888.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 888.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 888.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 888.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "315265",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Scotchbond Universal Etchant 通用粘结系统 通用酸蚀剂 41263 补充装 3ml*2支",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/315265_1.jpg?version=1750332772402",
+              "product_url": "https://www.lichidental.com/product/detail?sku=315265",
+              "history": [
+                {
+                  "date": "2026-06-28",
+                  "price": 159.0
+                },
+                {
+                  "date": "2026-06-29",
+                  "price": 159.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 159.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 159.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 159.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 159.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 159.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 159.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 159.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 159.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 159.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 159.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 159.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "315488",
+              "brand": "3M ESPE",
+              "name": "3M ESPE 牙科输送头 Bulk Fill 大块 流体树脂 绿色注射头 20个/袋 3740T",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/315488_1.jpg?version=1750332832401",
+              "product_url": "https://www.lichidental.com/product/detail?sku=315488",
+              "history": [
+                {
+                  "date": "2026-06-28",
+                  "price": 39.9
+                },
+                {
+                  "date": "2026-06-29",
+                  "price": 39.9
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 39.9
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 39.9
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 39.9
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 39.9
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 39.9
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 39.9
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 39.9
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 39.9
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 39.9
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 39.9
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 39.9
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "100095",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Impregum™ Penta Soft聚醚印膜材料 软质机混型 亲水性 精细种植印模 紫色 31792",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/f5addf6500d44498bd976c75f5eba310.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=100095",
+              "history": [
+                {
+                  "date": "2026-06-28",
+                  "price": 649.0
+                },
+                {
+                  "date": "2026-06-29",
+                  "price": 649.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 649.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 649.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 649.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 649.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 649.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 649.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 649.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 649.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 649.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 649.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 649.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "302100",
+              "brand": "3M ESPE",
+              "name": "3M ESPE RelyX™ Luting 玻璃离子粘固剂 树脂加强型玻璃离子水门汀 粘冠 粉16g+液9ml 3515",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/302100_1.jpg?version=1750331214164",
+              "product_url": "https://www.lichidental.com/product/detail?sku=302100",
+              "history": [
+                {
+                  "date": "2026-06-28",
+                  "price": 346.0
+                },
+                {
+                  "date": "2026-06-29",
+                  "price": 346.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 346.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 346.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 346.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 346.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 346.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 346.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 346.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 346.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 346.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 346.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "300964",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Clinpro™ Sealant窝沟封闭剂 可变色 氟离子释放 光固化补充装 1.2ml/支 12647",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/40fc14a5a3b947a588e67d2b9f5690d1.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=300964",
+              "history": [
+                {
+                  "date": "2026-06-28",
+                  "price": 147.3
+                },
+                {
+                  "date": "2026-06-29",
+                  "price": 147.3
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 147.3
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 147.3
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 147.3
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 147.3
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 147.3
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 147.3
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 147.3
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 147.3
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 147.3
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 147.3
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 147.3
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "100087",
+              "brand": "3M ESPE",
+              "name": "3M ESPE RelyX™ Unicem自粘接树脂粘固剂 小胶囊小蜜蜂自粘接双固化粘冠粘桩 50个/盒 56816TR",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/fa9599aee4cc4329980070f865fd0382.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=100087",
+              "history": [
+                {
+                  "date": "2026-06-28",
+                  "price": 1465.0
+                },
+                {
+                  "date": "2026-06-29",
+                  "price": 1465.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 1465.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 1465.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 1465.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 1465.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 1465.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 1465.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 1465.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 1465.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 1465.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 1465.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 1465.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "306201",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Filtek™ Z250 光固化复合树脂 通用纳米树脂 前后牙通用高性价比 4g/支 1370A2",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/306201_1.jpg?version=1750332172397",
+              "product_url": "https://www.lichidental.com/product/detail?sku=306201",
+              "history": [
+                {
+                  "date": "2026-06-28",
+                  "price": 130.7
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 130.7
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 130.7
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 130.7
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 130.7
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 130.7
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "311502",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Lava™ Ultimate 预成树脂牙科材料 优韧瓷 瓷块 CAD/CAM 嵌体高嵌体 5块/盒 2914A3-HT",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/3062fa37f2a34b9d83844b438027ce5d.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=311502",
+              "history": [
+                {
+                  "date": "2026-06-28",
+                  "price": 929.0
+                },
+                {
+                  "date": "2026-06-29",
+                  "price": 929.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 929.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 929.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 929.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 929.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 929.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 929.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 929.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 929.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 929.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 929.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 929.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "313408",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Sof-Lex 打磨抛光清洁器具 打磨抛光套装 超薄抛光碟补充装 4931SF Superfine 超细碟 1/2〞(12.7mm)30个碟",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/92942ec978eb4b8e8819d3274d193d56.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=313408",
+              "history": [
+                {
+                  "date": "2026-06-28",
+                  "price": 79.0
+                },
+                {
+                  "date": "2026-06-29",
+                  "price": 79.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 79.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 79.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 79.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 79.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 79.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 79.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 79.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 79.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 79.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 79.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 79.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "302088",
+              "brand": "3M ESPE",
+              "name": "3M ESPE RelyX™ Unicem Aplicap延长头 小蜜蜂输送头 根管延长头10*1 77550   纤维根管桩修复系统",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/1486110587719.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=302088",
+              "history": [
+                {
+                  "date": "2026-06-28",
+                  "price": 55.0
+                },
+                {
+                  "date": "2026-06-29",
+                  "price": 55.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 55.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 55.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 55.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 55.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 55.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 55.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 55.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 55.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 55.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 55.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 55.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "100083",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Ketac™ Cem Easymix 玻璃离子水门汀 粘冠 速调粘固型 速调灵 30g粉*3 12ml液*3 56906",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/100083_1.jpg?version=1768442829935",
+              "product_url": "https://www.lichidental.com/product/detail?sku=100083",
+              "history": [
+                {
+                  "date": "2026-06-28",
+                  "price": 804.0
+                },
+                {
+                  "date": "2026-06-29",
+                  "price": 804.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 804.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 804.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 804.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 804.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 804.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 804.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 804.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 804.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 804.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 804.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 804.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "305873",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Astringent Retraction Paste排龈膏 氯化铝止血胶囊装 25粒装 56944",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/305873_1.jpg?version=1750332114425",
+              "product_url": "https://www.lichidental.com/product/detail?sku=305873",
+              "history": [
+                {
+                  "date": "2026-06-28",
+                  "price": 442.0
+                },
+                {
+                  "date": "2026-06-29",
+                  "price": 442.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 442.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 442.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 442.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 442.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 442.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 442.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 442.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 442.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 442.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 442.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 442.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "302115",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Imprint™ II Garant硅橡胶印模材料-低粘度流动型 加聚 枪混二印 黄色 50ml*4 9378",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/302115_1.png?version=1779672485240",
+              "product_url": "https://www.lichidental.com/product/detail?sku=302115",
+              "history": [
+                {
+                  "date": "2026-06-28",
+                  "price": 296.7
+                },
+                {
+                  "date": "2026-06-29",
+                  "price": 296.7
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 296.7
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 296.7
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 296.7
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 296.7
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 296.7
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 296.7
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 296.7
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 296.7
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 296.7
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 296.7
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 296.7
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "307185",
+              "brand": "3M ESPE",
+              "name": "3M ESPE ImprintⅡ Penta Heavy Body机混型加成硅橡胶 9371P 补充装 硅橡胶印模材料",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/307185_1.jpg?version=1779679940529",
+              "product_url": "https://www.lichidental.com/product/detail?sku=307185",
+              "history": [
+                {
+                  "date": "2026-06-28",
+                  "price": 820.0
+                },
+                {
+                  "date": "2026-06-29",
+                  "price": 820.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 820.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 820.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 820.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 820.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 820.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 820.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 820.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 820.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 820.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 820.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 820.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "100981",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Clinpro™ White Varnish氟保护剂保护漆 防龋脱敏 蜜瓜味100支/盒 12246L",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/38d0153fb4cf408cb7befe044cdc7b0d.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=100981",
+              "history": [
+                {
+                  "date": "2026-06-28",
+                  "price": 1210.0
+                },
+                {
+                  "date": "2026-06-29",
+                  "price": 1210.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 1210.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 1210.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 1210.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 1210.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 1210.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 1210.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 1210.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 1210.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 1210.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 1210.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 1210.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "100724",
+              "brand": "3M ESPE",
+              "name": "3M ESPE RelyX™ Ultimate 树脂水门汀 绿巨人自动混配 双固化嵌体高嵌体粘结 补充装透明色 8.5g 56890",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/100724_1.jpg?version=1750331032811",
+              "product_url": "https://www.lichidental.com/product/detail?sku=100724",
+              "history": [
+                {
+                  "date": "2026-06-28",
+                  "price": 920.0
+                },
+                {
+                  "date": "2026-06-29",
+                  "price": 920.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 920.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 920.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 920.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 920.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 920.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 920.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 920.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 920.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 920.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 920.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 920.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "100096",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Imprint Bite加聚硅橡胶咬合记录材料 36850 50ml*4 20个混合头 浅蓝色",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/100096_1.jpg?version=1750330912860",
+              "product_url": "https://www.lichidental.com/product/detail?sku=100096",
+              "history": [
+                {
+                  "date": "2026-06-28",
+                  "price": 999.0
+                },
+                {
+                  "date": "2026-06-29",
+                  "price": 999.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 999.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 999.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 999.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 999.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 999.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 999.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 999.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 999.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 999.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 999.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 999.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "100074",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Strip Crown Form-Pedo乳牙预成冠 前牙透明冠 915100",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/4acf51b0ca0749a8b6c0229fc98b1056.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=100074",
+              "history": [
+                {
+                  "date": "2026-06-29",
+                  "price": 1729.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 1729.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 1729.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 1729.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 1729.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 1729.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 1729.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 1729.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 1729.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 1729.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 1729.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 1729.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "300981",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Clinpro™ Tooth Crème 可美诺防龋牙膏  含氟牙膏 香草薄荷味 113g 12216",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/300981_1.jpg?version=1750331092399",
+              "product_url": "https://www.lichidental.com/product/detail?sku=300981",
+              "history": [
+                {
+                  "date": "2026-06-29",
+                  "price": 68.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 68.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 68.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 68.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 68.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 68.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 68.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 68.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 68.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 68.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 68.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 68.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "900265",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Elipar DEEPCURE-S LED光固化机 光固化灯（极光） 76975",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/0dc27f4f3dd64807a9c318390c672e87.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=900265",
+              "history": [
+                {
+                  "date": "2026-06-29",
+                  "price": 9999.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 9999.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 9999.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 9999.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 9999.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 9999.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 9999.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 9999.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 9999.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 9999.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 9999.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "300419",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Adper™ Single Bond 2 牙科树脂粘接剂 五代全酸蚀粘结剂 6g 51202",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/ba9208d1655d4bac885aad19977530f3.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=300419",
+              "history": [
+                {
+                  "date": "2026-06-29",
+                  "price": 274.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 274.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 274.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 274.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 274.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 274.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 274.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 274.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 274.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 274.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 274.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 274.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "300963",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Concise光凝光固化窝沟封闭剂 1930W 补充装 6ml",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/bf529030afb2416c806fc443536b55d9.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=300963",
+              "history": [
+                {
+                  "date": "2026-06-29",
+                  "price": 136.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 136.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 136.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 136.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 136.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 136.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 136.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 136.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 136.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 136.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 136.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 136.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "306497",
+              "brand": "3M ESPE",
+              "name": "3M ESPE RelyX Temp NE 牙科临时粘固材料  临时水门汀 56660",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/306497_1.jpg?version=1779679660642",
+              "product_url": "https://www.lichidental.com/product/detail?sku=306497",
+              "history": [
+                {
+                  "date": "2026-06-29",
+                  "price": 266.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 266.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 266.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 266.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 266.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 266.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 266.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 266.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 266.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 266.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 266.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 266.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "306467",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Express XT Light Body高流体常规固化补充装 亲水加聚型硅橡胶印模材料 36974",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/306467_1.jpg?version=1750332174432",
+              "product_url": "https://www.lichidental.com/product/detail?sku=306467",
+              "history": [
+                {
+                  "date": "2026-06-29",
+                  "price": 276.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 276.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 276.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 276.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 276.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 276.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 276.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 276.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 276.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 276.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 276.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 276.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "307700",
+              "brand": "3M ESPE",
+              "name": "3M ESPE RelyX Veneer光固化美学树脂水门汀 贴面粘接剂粘结剂 超轻量SN组合 7614 TR 透明色 贴面粘固剂和试色糊剂",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/307700_1.jpeg?version=1779681515750",
+              "product_url": "https://www.lichidental.com/product/detail?sku=307700",
+              "history": [
+                {
+                  "date": "2026-06-29",
+                  "price": 249.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 249.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 249.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 249.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 249.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 249.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 249.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 249.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 249.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 249.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 249.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 249.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "900336",
+              "brand": "3M ESPE",
+              "name": "3M ESPE ROTOMIX 胶囊混配机 76301",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/b87e38736f22441dac5ad45a6c99c575.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=900336",
+              "history": [
+                {
+                  "date": "2026-06-29",
+                  "price": 4500.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 4500.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 4500.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 4500.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 4500.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 4500.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 4500.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 4500.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 4500.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 4500.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 4500.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 4500.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "302104",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Vitremer 光固化玻璃离子水门汀 修复材料  三固化光固化自固化暗固化玻璃离子 充填垫底 8ml液 3303L",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/302104_1.png?version=1779672475256",
+              "product_url": "https://www.lichidental.com/product/detail?sku=302104",
+              "history": [
+                {
+                  "date": "2026-06-29",
+                  "price": 282.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 282.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 282.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 282.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 282.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 282.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 282.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 282.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 282.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 282.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 282.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 282.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "302182",
+              "brand": "3M ESPE",
+              "name": "3M ESPE RelyX™ Fiber Post纤维根管桩修复系统 配套耐用钻头补充装蓝色 大号 3# 56866",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/302182_1.jpg?version=1768447784907",
+              "product_url": "https://www.lichidental.com/product/detail?sku=302182",
+              "history": [
+                {
+                  "date": "2026-06-29",
+                  "price": 133.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 133.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 133.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 133.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 133.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 133.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 133.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 133.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 133.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 133.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 133.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 133.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "322340",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Bioclear 前牙黑三角修 BT牙科测量杆 500111",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/322340_1.jpg?version=1765766826972",
+              "product_url": "https://www.lichidental.com/product/detail?sku=322340",
+              "history": [
+                {
+                  "date": "2026-06-29",
+                  "price": 745.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 745.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 745.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 745.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 745.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 745.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 745.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 745.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 745.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 745.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 745.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 745.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "100105",
+              "brand": "3M ESPE",
+              "name": "3M ESPE RelyX™ Fiber Post纤维根管桩修复系统 高强度双锥度纤维桩入门套装 56860",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/100105_1.jpg?version=1750330972396",
+              "product_url": "https://www.lichidental.com/product/detail?sku=100105",
+              "history": [
+                {
+                  "date": "2026-06-29",
+                  "price": 1399.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 1399.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 1399.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 1399.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 1399.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 1399.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 1399.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 1399.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 1399.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 1399.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 1399.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 1399.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "ZH100200",
+              "brand": "3M ESPE",
+              "name": "3M ESPE RelyX Fiber Post 高强度双锥度纤维桩补充装1号(10*1.3Mm/支)黄 56861 +  U200 自粘接树脂水门汀 黄巨人自粘接双固化粘冠粘桩 自动混配8.5g 56897TR透明色 组合",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/ZH100200_1.jpg?version=1779774422385",
+              "product_url": "https://www.lichidental.com/product/detail?sku=ZH100200",
+              "history": [
+                {
+                  "date": "2026-06-29",
+                  "price": 1091.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 1091.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 1091.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 1091.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 1091.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 1091.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 1091.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 1091.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 1091.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 1091.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 1091.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 1091.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "319612",
+              "brand": "3M ESPE",
+              "name": "3M ESPE RelyX™ Veneer Try-In Paste 贴面试色糊剂 光固化美学树脂贴面水门汀 透明色 2g/支 7614 TRT 贴面粘固剂和试色糊剂",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/319612_1.jpg?version=1761298904557",
+              "product_url": "https://www.lichidental.com/product/detail?sku=319612",
+              "history": [
+                {
+                  "date": "2026-06-29",
+                  "price": 210.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 210.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 210.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 210.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 210.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 210.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 210.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 210.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 210.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 210.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 210.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 210.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "085874",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Clinpro™ XT Varnish 玻璃离子保护膜 抗敏再矿化 长效释氟 10g 12248",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/0970fd71c8f649a7b80579736ccf5400.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=085874",
+              "history": [
+                {
+                  "date": "2026-06-29",
+                  "price": 56.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 56.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 56.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 56.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 56.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 56.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 56.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 56.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 56.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 56.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 56.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 56.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "100502",
+              "brand": "3M ESPE",
+              "name": "3M ESPE RelyX™ U200 自粘接树脂水门汀 黄巨人自粘接双固化粘冠粘桩 自动混配8.5g 56897TR透明色",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/aaa14cdb58e74e57a0a3c8b810995e27.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=100502",
+              "history": [
+                {
+                  "date": "2026-06-29",
+                  "price": 575.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 575.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 575.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 575.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 575.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 575.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 575.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 575.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 575.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 575.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 575.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 575.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "302108",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Durelon聚羧酸水门汀 聚羧酸粘固剂 38236 粉剂 20g*3",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/1bfc870d7a6241a4911e5778280eb3ec.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=302108",
+              "history": [
+                {
+                  "date": "2026-06-29",
+                  "price": 245.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 245.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 245.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 245.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 245.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 245.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 245.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 245.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 245.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 245.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 245.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 245.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "306465",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Express XT Putty Soft油泥型常规固化补充装 亲水加聚型硅橡胶印模材料 36972",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/1605518247712.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=306465",
+              "history": [
+                {
+                  "date": "2026-06-29",
+                  "price": 346.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 346.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 346.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 346.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 346.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 346.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 346.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 346.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 346.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 346.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 346.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 346.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "302172",
+              "brand": "3M ESPE",
+              "name": "3M ESPE RelyX? Fiber Post纤维根管桩修复系统 高强度双锥度纤维桩补充装2号(10*1.6mm/支)红 56862",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/462e8f38ac4e4e6e8946b289ece87343.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=302172",
+              "history": [
+                {
+                  "date": "2026-06-29",
+                  "price": 517.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 517.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 517.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 517.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 517.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 517.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 517.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 517.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 517.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 517.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 517.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 517.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "327560",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Elipar DeepCure-L LED光固化机 76973",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/a49603c2de3c42bc905f08188ad7ed6f.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=327560",
+              "history": [
+                {
+                  "date": "2026-06-29",
+                  "price": 5999.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 5999.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 5999.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 5999.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 5999.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 5999.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 5999.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 5999.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 5999.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 5999.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 5999.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 5999.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "312597",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Impregum 机混印模材专用混合头 聚醚专用30个/包 77919  牙科输送头",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/03f5d1a2027349ab9b262754b0cc7af6.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=312597",
+              "history": [
+                {
+                  "date": "2026-06-29",
+                  "price": 108.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 108.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 108.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 108.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 108.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 108.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 108.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 108.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 108.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 108.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 108.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 108.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "100088",
+              "brand": "3M ESPE",
+              "name": "3M ESPE RelyX™ U200 自粘接树脂水门汀 黄巨人自粘接双固化粘冠粘桩 手调装11g 56877TR透明色",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/f5dd780663ae4580b2dc02c9899e396a.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=100088",
+              "history": [
+                {
+                  "date": "2026-06-29",
+                  "price": 758.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 758.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 758.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 758.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 758.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 758.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 758.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 758.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 758.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 758.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 758.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 758.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "302101",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Ketac™ Molar玻璃离子水门汀-速调充填型 后牙高强度易混型 12.5g粉+8.5ml液 56633",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/7bb1d98e15cb4ace89fe7bb146c1761c.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=302101",
+              "history": [
+                {
+                  "date": "2026-06-29",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 199.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "306202",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Filtek™ Z250 光固化复合树脂 通用纳米树脂 前后牙通用高性价比 4g/支 1370A3",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/19ed52bc05c94453a5dde8e466ec022a.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=306202",
+              "history": [
+                {
+                  "date": "2026-06-29",
+                  "price": 130.7
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 130.7
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 130.7
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 130.7
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 130.7
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 130.7
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 130.7
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "309363",
+              "brand": "3M ESPE",
+              "name": "3M ESPE 分配头 Z350XT流动纳米树脂 流体树脂 灰色注射头 20个/袋 3700T  牙科输送头",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/50cc4cd25f2f49e78ecbb5a51edebbdb.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=309363",
+              "history": [
+                {
+                  "date": "2026-06-29",
+                  "price": 27.9
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "ZH100559",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Protemp™ 4 临时冠桥树脂材料 枪混自凝 补充装 A3色67g 46957 *2+3M 原装临时冠混配枪 1：4/1：10 促销组合",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/44d6b24ce9b5432cbab8027ac7cf24a8.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=ZH100559",
+              "history": [
+                {
+                  "date": "2026-06-29",
+                  "price": 1049.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "313642",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Protemp 4 混合头 临时冠桥树脂专用 蓝色 50个/包 71453  牙科输送头",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/eff51ea961764194a9875a9db181944d.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=313642",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 207.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "318749",
+              "brand": "3M ESPE",
+              "name": "3M ESPE 细滑牙线棒 36+4支装",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/318749_1.jpg?version=1761298757699",
+              "product_url": "https://www.lichidental.com/product/detail?sku=318749",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 11.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "331844",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Bioclear Evolve成形片补充装 327032.25 成形片7mm蓝、25片/盒",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/331844_1.jpg?version=1782204330800",
+              "product_url": "https://www.lichidental.com/product/detail?sku=331844",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 599.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "322698",
+              "brand": "3M ESPE",
+              "name": "3M ESPE U200自动常规混配头 粘结冠用 56913 （30个/包） 牙科输送头",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/f31fdf0c4b0542df8f17c53b6debab68.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=322698",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 159.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "306499",
+              "brand": "3M ESPE",
+              "name": "3M ESPE 儿童安全牙线棒 38支装",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/306499_1.jpg?version=1751280954056",
+              "product_url": "https://www.lichidental.com/product/detail?sku=306499",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 18.5
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "302116",
+              "brand": "3M ESPE",
+              "name": "3M ESPE -ImprintⅡGarant枪混硅橡胶印模材料- 9371 重体 50ml*4",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/302116_1.jpg?version=1779672500369",
+              "product_url": "https://www.lichidental.com/product/detail?sku=302116",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 469.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "100969",
+              "brand": "3M ESPE",
+              "name": "3M ESPE 不锈钢预制临时牙冠 恒磨牙套装 PO-96",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/b45d65a498b54ef39fb91779027d2885.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=100969",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 3185.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "311288",
+              "brand": "3M ESPE",
+              "name": "3M ESPE U200混合头短款+根管延长头 56914 每款各15个/包  牙科输送头",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/bb64b92c303e41cfb1ba575c42d37166.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=311288",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 178.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "310239",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Sof-lex 打磨抛光清洁器具 钻石光轮 替换装 5091紫色",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/310239_1.jpg?version=1779697725948",
+              "product_url": "https://www.lichidental.com/product/detail?sku=310239",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 352.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "100094",
+              "brand": "3M ESPE",
+              "name": "3M ESPE RelyX 陶瓷表面处理剂  陶瓷前处理剂 2721 5ml",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/1482295788655.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=100094",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 1100.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "307201",
+              "brand": "3M ESPE",
+              "name": "3M ESPE 印模材料输送器 聚醚注射器 71210",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/562070f4c7e34dbc8f8da65440537149.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=307201",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 297.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "755041",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Filtek™ Bulk Fill Flowable 流动树脂 (不含输送头3740T) 4mm大块流体 龈壁提升 垫底 2g*2/袋 4862 A3色",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/8365ca691ab449be892d77a9709979dc.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=755041",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 294.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "319888",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Bioclear牙科成形片套装 后牙修复成型片套装",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/319888_1.jpg?version=1763539466226",
+              "product_url": "https://www.lichidental.com/product/detail?sku=319888",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 10086.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "331843",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Bioclear牙科成形片套装 后牙II类洞 827061",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/331843_1.png?version=1763968874553",
+              "product_url": "https://www.lichidental.com/product/detail?sku=331843",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 2999.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "309813",
+              "brand": "3M ESPE",
+              "name": "3M ESPE 小胶囊小蜜蜂工具 1个输送器1个激活器 37160 牙科输送器",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/1608886451230.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=309813",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 288.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "306369",
+              "brand": "3M ESPE",
+              "name": "3M ESPE 乳牙预成冠 前牙透明冠 补充装 零配 UR-C-3(右上中切牙3号) 914013",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/1561524823791.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=306369",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 115.8
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "333292",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Bioclear Evolve后牙II类洞牙科测量杆 500122 1个/盒",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/333292_1.jpg?version=1758186049177",
+              "product_url": "https://www.lichidental.com/product/detail?sku=333292",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 618.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "323025",
+              "brand": "3M ESPE",
+              "name": "3M ESPE 不锈钢预制临时牙冠 乳磨牙补充装 零配 第二乳磨牙 左上 E-UL-3 5只/盒",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/ca7eb75eb3c1432fbeb412cbcfc11c42.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=323025",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 195.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "307133",
+              "brand": "3M ESPE",
+              "name": "3M ESPE 不锈钢预制临时牙冠 恒牙补充装双尖牙磨牙(左上，3号)5只/盒 6-UL-3",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/1574322266949.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=307133",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 185.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "333291",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Bioclear Evolve后牙II类洞成形片夹-磨牙 208021.2 2个/盒",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/333291_1.png?version=1781769981842",
+              "product_url": "https://www.lichidental.com/product/detail?sku=333291",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 3390.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "313113",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Sof-Lex 打磨抛光清洁器具 打磨抛光套装 抛光碟补充装 4851C Coarse 粗碟(12.7mm)30个碟",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/313113_1.jpg?version=1761298803269",
+              "product_url": "https://www.lichidental.com/product/detail?sku=313113",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 85.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "322910",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Protemp 4临时冠混配枪 1：4/1：10 牙科输送器 77581",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/545043bce17e470a866d3e732ad72ee5.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=322910",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 400.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "759183",
+              "brand": "3M ESPE",
+              "name": "3M ESPE 亲水加聚型硅橡胶印模材料 36891 机混重体型",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/1b7f81750fc2494f91713a35b15d1e2b.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=759183",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 351.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "310240",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Sof-lex 打磨抛光清洁器具 抛光系统 RA 轴柄补充装 1983RA 3只/包",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/3e38192d43ae4967907b15d460f21a99.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=310240",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 135.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "304935",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Valux Plus 光固化复合树脂 唯美前后牙通用型复合树脂 光固化 5540A3 4g A3",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/1ab52214525f4910922ca66b65e97cda.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=304935",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 69.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "330812",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Bioclear楔子套装 812001",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/330812_1.jpg?version=1758185929452",
+              "product_url": "https://www.lichidental.com/product/detail?sku=330812",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 1199.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "309712",
+              "brand": "3M ESPE",
+              "name": "3M ESPE 丝滑牙线棒 DFH4 150支装",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/0628254a904c4c19ad0423775066f42f.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=309712",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 39.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "311504",
+              "brand": "3M ESPE",
+              "name": "3M ESPE 牙科器械钳 儿牙器械 不锈钢儿牙冠剪 精修剪刀 801203",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/311504_1.jpg?version=1761298844476",
+              "product_url": "https://www.lichidental.com/product/detail?sku=311504",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 670.38
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "318252",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Sof-lex 打磨抛光清洁器具 打磨抛光条 1954N 窄 米色/白色 透明 100条/包",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/1395f8a38d204fb7a16f76f116d8b295.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=318252",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 151.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "309832",
+              "brand": "3M ESPE",
+              "name": "3M ESPE RelyX Veneer光固化美学树脂水门汀 贴面粘接剂粘结剂 超轻量SN组合 7614 A3 黄色不透明3g/支 贴面粘固剂和试色糊剂",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/309832_1.jpg?version=1750332592704",
+              "product_url": "https://www.lichidental.com/product/detail?sku=309832",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 249.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "900361",
+              "brand": "3M ESPE",
+              "name": "3M ESPE 聚醚混配机套装（含聚醚通用套筒） 77874+71545",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/3c1218ec968a42889967991a40157fe4.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=900361",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 17800.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "100829",
+              "brand": "3M ESPE",
+              "name": "3M ESPE RelyX™ Unicem自粘接树脂粘固剂 小胶囊小蜜蜂自粘接双固化粘冠粘桩 50个/盒 56817A3",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/f94d4284b220465ca12c1ff33c9d9672.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=100829",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 1465.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "100085",
+              "brand": "3M ESPE",
+              "name": "3M ESPE RelyX™ Veneer 贴面粘固剂和试色糊剂 光固化美学树脂贴面水门汀套装 8718",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/100085_1.jpg?version=1750330792402",
+              "product_url": "https://www.lichidental.com/product/detail?sku=100085",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 2370.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "311809",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Sof-lex™打磨抛光清洁器具 打磨抛光套装 超薄抛光碟系统套装直径为1/2\"(12.7mm) 120个碟+1个轴柄 4931",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/ae226fb9336c450b9bc2fa701ab1a110.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=311809",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 759.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "321844",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Bioclear牙科成形片套装 前牙黑三角修复成型片补充装 大号 黄色 20个/盒 301082",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/97d068d47ae142b9ae9fc10749840063.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=321844",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 1399.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "315303",
+              "brand": "3M ESPE",
+              "name": "3M ESPE 胶囊内牙科材料推送器 树脂胶囊输送枪 排龈膏枪 5850RD  牙科输送器",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/315303_1.jpg?version=1750332774606",
+              "product_url": "https://www.lichidental.com/product/detail?sku=315303",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 130.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "100681",
+              "brand": "3M ESPE",
+              "name": "3M ESPE 不锈钢预制临时牙冠 乳牙不锈钢预成冠（后牙）临时牙冠 ND-96 96个冠",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/62c1857534794ab0ab83d84a46c6a094.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=100681",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 2489.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "311505",
+              "brand": "3M ESPE",
+              "name": "3M 缩颈钳 牙科器械钳 800417",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/311505_1.jpg?version=1761298769508",
+              "product_url": "https://www.lichidental.com/product/detail?sku=311505",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 1300.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "311506",
+              "brand": "3M ESPE",
+              "name": "3M 成形钳 牙科器械钳 800112",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/311506_1.jpg?version=1761298786250",
+              "product_url": "https://www.lichidental.com/product/detail?sku=311506",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 1200.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "313116",
+              "brand": "3M ESPE",
+              "name": "3M 小缩颈钳 牙科器械钳 800421",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/313116_1.jpg?version=1761298814490",
+              "product_url": "https://www.lichidental.com/product/detail?sku=313116",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 1399.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "312377",
+              "brand": "3M ESPE",
+              "name": "3M 窝沟封闭剂注射头 分配头 12626T",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/4c05bfce707d4d17ac3e6d7268f9506e.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=312377",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 29.88
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            }
+          ]
+        },
+        {
+          "name": "梅苗苗",
+          "count": 1,
+          "products": [
+            {
+              "sku": "3M ESPE Lava™ Ultimate 优韧瓷 预成树脂牙科材料 /高透明度瓷块 5颗/盒 2914a3-lt",
+              "brand": "3M",
+              "name": "3M ESPE Lava™ Ultimate 优韧瓷 预成树脂牙科材料 /高透明度瓷块 5颗/盒 2914a3-lt",
+              "image_url": "",
+              "product_url": "https://www.mmm920.com/products?keyword=3M Unitek",
+              "history": [
+                {
+                  "date": "2026-06-28",
+                  "price": 929
+                },
+                {
+                  "date": "2026-06-29",
+                  "price": 929
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 929
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 929
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 929
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 929
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 929
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 929
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 929
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 929
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 929
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 929
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 929
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            }
+          ]
+        },
+        {
+          "name": "牙E在线",
+          "count": 8,
+          "products": [
+            {
+              "sku": "10710",
+              "brand": "3M",
+              "name": "3M ESPE 流动树脂分配头20*1",
+              "image_url": "https://img.yae920.cn/goods%2Fthumbnail%2F%E4%B8%BB%E5%9B%BE-03-rc-upload-1614561773287-68.jpeg?x-oss-process=image/watermark,image_d2F0ZXIucG5nP3gtb3NzLXByb2Nlc3M9aW1hZ2UvcmVzaXplLFBfMjA,t_100,g_center",
+              "product_url": "https://yae920.com/#/details?goodsId=10710",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 27.9
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "11423",
+              "brand": "3M",
+              "name": "3M ESPE RelyX™ Veneer贴面粘固剂/水门汀补充装3g",
+              "image_url": "https://imgs.yae720.com/goods_image/20210712/1626054925047.jpg",
+              "product_url": "https://yae920.com/#/details?goodsId=11423",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 249.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "20285",
+              "brand": "3M",
+              "name": "3M ESPE U200混合头短款+根管延长头（各15个）",
+              "image_url": "https://imgs.yae720.com/goods_image/20250313/1741834350748.jpg",
+              "product_url": "https://yae920.com/#/details?goodsId=20285",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 178.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "12601",
+              "brand": "3M",
+              "name": "3M ESPE RelyX™ Veneer 贴面试色糊剂/光固化美学树脂贴面水门汀2g",
+              "image_url": "https://imgs.yae720.com/goods_image/20240318/1710746900911.jpg",
+              "product_url": "https://yae920.com/#/details?goodsId=12601",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 206.95
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "18772",
+              "brand": "3M",
+              "name": "3M ESPE RelyX Temp NE 临时粘固材料临时水门汀",
+              "image_url": "https://imgs.yae720.com/goods_image/20250409/1744187465925.jpg",
+              "product_url": "https://yae920.com/#/details?goodsId=18772",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 249.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "20284",
+              "brand": "3M",
+              "name": "3M ESPE U200自动常规混配头（粘结冠用）30*1",
+              "image_url": "https://imgs.yae720.com/goods_image/20250313/1741834751759.jpg",
+              "product_url": "https://yae920.com/#/details?goodsId=20284",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 159.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "17902",
+              "brand": "3M",
+              "name": "3M ESPE Bioclear前牙黑三角修复成型片套装",
+              "image_url": "https://imgs.yae720.com/goods_image/20231120/1700444499296.jpg",
+              "product_url": "https://yae920.com/#/details?goodsId=17902",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 2399.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "20633",
+              "brand": "3M",
+              "name": "3M ESPE Elipar DeepCure-L LED光固化机",
+              "image_url": "https://imgs.yae720.com/goods_image/20240920/1726799723169.jpg",
+              "product_url": "https://yae920.com/#/details?goodsId=20633",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 5999.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            }
+          ]
+        },
+        {
+          "name": "领健",
+          "count": 20,
+          "products": [
+            {
+              "sku": "10167",
+              "brand": "3M",
+              "name": "3M ESPE Filtek™ 光固化复合树脂（P60 后牙专用膏体光固化复合树脂） A3 4g/支",
+              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/8287%2F13ac319343441b2626e946e753eeeced.png?x-oss-process=image/resize,h_300,w_300,m_lfit",
+              "product_url": "https://linkedcarefuture.com/#/search/list?text=3M ESPE",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 172.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "10131",
+              "brand": "3M",
+              "name": "3M ESPE Filtek Z350XT Universal 光固化复合树脂（纳米膏体/美学补牙通用树脂） 牙体色-A3B 4g",
+              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/8275%2F83bc6ccd45351a362aea07c6d353a9de.jpg?x-oss-process=image/resize,h_300,w_300,m_lfit",
+              "product_url": "https://linkedcarefuture.com/#/search/list?text=3M ESPE",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 179.5
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "10168",
+              "brand": "3M",
+              "name": "3M ESPE Filtek Z350XT流动树脂（光固化纳米流动流体树脂） A3 2g*2支",
+              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/34912%2F2931eecfa8dd75191e07cf4acd68b8d5.png?x-oss-process=image/resize,h_300,w_300,m_lfit",
+              "product_url": "https://linkedcarefuture.com/#/search/list?text=3M ESPE",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 184.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "13267",
+              "brand": "3M",
+              "name": "3M ESPE（八代粘接剂/通用型）Single Bond Universal金标准 万能胶（含硅烷） 1.5ml/瓶",
+              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/21941%2F8b22dde6e7fe4fed2612b714b0355a05.jpg?x-oss-process=image/resize,h_300,w_300,m_lfit",
+              "product_url": "https://linkedcarefuture.com/#/search/list?text=3M ESPE",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 153.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "12410",
+              "brand": "3M",
+              "name": "3M ESPE RelyX™ U200 通用双固化自粘结树脂水门汀（冠粘桩小蜜蜂黄巨人） TR透明色 8.5g（自动混配装）",
+              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/12749%2F28d964cda770a10bc6dc9d996902140d.png?x-oss-process=image/resize,h_300,w_300,m_lfit",
+              "product_url": "https://linkedcarefuture.com/#/search/list?text=3M ESPE",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 575.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "10159",
+              "brand": "3M",
+              "name": "3M ESPE RelyX™ Fiber Post纤维根管桩修复系统 高强度双锥度纤维桩补充装 2号 红色1.6mm 10支/盒（新老包装随机发货）",
+              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/8264%2F85dc225c3a16c9df7f394401476d2d38.jpg?x-oss-process=image/resize,h_300,w_300,m_lfit",
+              "product_url": "https://linkedcarefuture.com/#/search/list?text=3M ESPE",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 502.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "12406",
+              "brand": "3M",
+              "name": "3M ESPE Filtek Z250XT 纳米混合光固化复合树脂（前后牙通用 ，3g/支） A3",
+              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/10101%2Fb1f8a6753a62755710d1286b6aa2fb5f.png?x-oss-process=image/resize,h_300,w_300,m_lfit",
+              "product_url": "https://linkedcarefuture.com/#/search/list?text=3M ESPE",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 96.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "14593",
+              "brand": "3M",
+              "name": "3M ESPE Clinpro™ White Varnish氟保护剂/漆 防龋脱敏 樱桃味 50粒（每粒含0.50ml和1个小毛刷）",
+              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/41531%2F344f20fc94e9cb003dcfb2ef2054b05d.png?x-oss-process=image/resize,h_300,w_300,m_lfit",
+              "product_url": "https://linkedcarefuture.com/#/search/list?text=3M ESPE",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 815.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "12415",
+              "brand": "3M",
+              "name": "3M ESPE Clinpro™ Sealant窝沟封闭剂（可变色 氟离子释放 光固化） 补充装 1.2ml*1支，黑色注射头*10个",
+              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/10114%2F72e7ba6dbdc303a1e7c444b583452842.png?x-oss-process=image/resize,h_300,w_300,m_lfit",
+              "product_url": "https://linkedcarefuture.com/#/search/list?text=3M ESPE",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 147.3
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "13260",
+              "brand": "3M",
+              "name": "3M ESPE Z250 光固化复合树脂（前后牙通用，4g/支） A3",
+              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/12744%2F58a89649c5503c189d9752565ee5cdb7.jpg?x-oss-process=image/resize,h_300,w_300,m_lfit",
+              "product_url": "https://linkedcarefuture.com/#/search/list?text=3M ESPE",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 130.7
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "13001",
+              "brand": "3M",
+              "name": "3M ESPE Protemp™  4 临时冠桥树脂材料 枪混自凝补充装 A3 67g/支，混合头*16",
+              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/12209%2Ffe34fba9a07be5c00bf940e98024636b.png?x-oss-process=image/resize,h_300,w_300,m_lfit",
+              "product_url": "https://linkedcarefuture.com/#/search/list?text=3M ESPE",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 480.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "10160",
+              "brand": "3M",
+              "name": "3M ESPE RelyX™ Fiber Post纤维根管桩修复系统（纤维桩）配套耐用钻头（P钻） 补充装 根管桩钻 1号，小号，1.3mm（黄色）",
+              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/15923%2F7da9dae57c0bd6096d0b3767d1f10d72.png?x-oss-process=image/resize,h_300,w_300,m_lfit",
+              "product_url": "https://linkedcarefuture.com/#/search/list?text=3M ESPE",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 133.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "13265",
+              "brand": "3M",
+              "name": "3M ESPE RelyX™ Ultimate 树脂水门汀(绿巨人自动混配/双固化嵌体高嵌体粘结/补充装） TR透明色 8.5g/支",
+              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/22389%2F08d7ff2f1a827d260a8397569569c559.png?x-oss-process=image/resize,h_300,w_300,m_lfit",
+              "product_url": "https://linkedcarefuture.com/#/search/list?text=3M ESPE",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 920.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "10146",
+              "brand": "3M",
+              "name": "3M ESPE Ketac™ Molar玻璃离子水门汀-速调充填型套装 后牙高强度易混型 12.5克粉,8.5ml液,1个药匙,1本调和垫",
+              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/8249%2F08838aa563024c8ed5a70597b7ee4152.png?x-oss-process=image/resize,h_300,w_300,m_lfit",
+              "product_url": "https://linkedcarefuture.com/#/search/list?text=3M ESPE",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 199.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "10154",
+              "brand": "3M",
+              "name": "3M ESPE RelyX™ Luting 玻璃离子粘固剂 树脂加强型 粘冠 自固化套装 16g粉剂*1，9ml液体*1，取勺粉*1，调和垫*1",
+              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/8258%2Faa2ffc5288777fb07a79b5842711e537.png?x-oss-process=image/resize,h_300,w_300,m_lfit",
+              "product_url": "https://linkedcarefuture.com/#/search/list?text=3M ESPE",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 346.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "13263",
+              "brand": "3M",
+              "name": "3M ESPE 乳牙透明冠（补充装） ULC-3(上中切牙，左侧3号 7.4)（5个）",
+              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/15470%2F4465fe616b1a0c9ad407daefb3eab1a6.png?x-oss-process=image/resize,h_300,w_300,m_lfit",
+              "product_url": "https://linkedcarefuture.com/#/search/list?text=3M ESPE",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 115.8
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "10174",
+              "brand": "3M",
+              "name": "3M ESPE RelyX™ Luting 2玻璃离子粘固剂 粉巨人树脂加强型玻璃离子水门汀 粘冠种植修复 Clicker 11g/支",
+              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/43809%2Fd5cd36611b6f55b8659e793bf657e924.png?x-oss-process=image/resize,h_300,w_300,m_lfit",
+              "product_url": "https://linkedcarefuture.com/#/search/list?text=3M ESPE",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 356.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "10169",
+              "brand": "3M",
+              "name": "3M ESPE（五代/全酸蚀）Adper Single Bond 2 牙科树脂纳米粘接剂 6g/瓶",
+              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/8290%2F399236b1a748f000a792baf7fcb685f4.png?x-oss-process=image/resize,h_300,w_300,m_lfit",
+              "product_url": "https://linkedcarefuture.com/#/search/list?text=3M ESPE",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 274.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "13264",
+              "brand": "3M",
+              "name": "3M ESPE 乳牙不锈钢预成 预制 临时冠 乳磨牙 D-UL-5左上（2个）",
+              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/15994%2Fe12157293c15d490de20e9ebe6b8f1bb.png?x-oss-process=image/resize,h_300,w_300,m_lfit",
+              "product_url": "https://linkedcarefuture.com/#/search/list?text=3M ESPE",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 103.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "12409",
+              "brand": "3M",
+              "name": "3M ESPE Express™ STD硅橡胶印模材-托盘型重体 经典加成加聚 手调初印 橘色 基质、催化剂各305mL",
+              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/10104%2Fe00ae4386cf814b87d8479abc81d4af9.png?x-oss-process=image/resize,h_300,w_300,m_lfit",
+              "product_url": "https://linkedcarefuture.com/#/search/list?text=3M ESPE",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 274.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "keyword": "奥美科 (Ormco, Damon)",
       "platforms": [
         {
           "name": "励齿",
-          "count": 14,
+          "count": 15,
           "products": [
             {
               "sku": "308571",
@@ -7984,6 +12987,21 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-07-10",
                   "price": 100.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "337562",
+              "brand": "纳通·naton",
+              "name": "纳通 正畸支抗钉 OAN L051.1406  φ1.4×6mm（奥美科工具通用 OAS无菌1个/袋）",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/337562_1.png?version=1781751151652",
+              "product_url": "https://www.lichidental.com/product/detail?sku=337562",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 120.0
                 }
               ],
               "change": 0,
@@ -13315,7 +18333,7 @@ window.DASHBOARD_DATA = {
       "platforms": [
         {
           "name": "励齿",
-          "count": 113,
+          "count": 116,
           "products": [
             {
               "sku": "317622",
@@ -16140,6 +21158,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-07-09",
                   "price": 135.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 135.0
                 }
               ],
               "change": 0.0,
@@ -18468,6 +23490,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-07-09",
                   "price": 25.5
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 25.5
                 }
               ],
               "change": 0.0,
@@ -18583,6 +23609,51 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-07-10",
                   "price": 135.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "317723",
+              "brand": "新亚·SHINYE",
+              "name": "新亚 PIM直丝弓带环UR10*1 0.022/第二磨牙52B2-20B-114",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/082646f501d14b469326f5fed7b84e37.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=317723",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 59.01
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "317689",
+              "brand": "新亚·SHINYE",
+              "name": "新亚 标准直丝弓带环 第一磨牙 LL6 10*1 52B1-20F-335-10",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/871f1bd2793e4d4d9a0134f4fb2a8b52.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=317689",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 58.5
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "316820",
+              "brand": "新亚·SHINYE",
+              "name": "新亚 镍钛拉簧 2号中力 11mm 10*1  9102-209",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/edda595643ad4a46b38b14417542fb30.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=316820",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 42.9
                 }
               ],
               "change": 0,
@@ -23153,6 +28224,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-07-09",
                   "price": 40.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 40.0
                 }
               ],
               "change": 0.0,
@@ -26001,6 +31076,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-07-06",
+                  "price": 301.0
+                },
+                {
+                  "date": "2026-07-10",
                   "price": 301.0
                 }
               ],
