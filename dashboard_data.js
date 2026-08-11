@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generated_at": "2026-08-11 10:43:53",
+  "generated_at": "2026-08-11 13:53:34",
   "latest_date": "2026-08-11",
   "tree": [
     {
@@ -4101,7 +4101,7 @@ window.DASHBOARD_DATA = {
         },
         {
           "name": "梅苗苗",
-          "count": 157,
+          "count": 161,
           "products": [
             {
               "sku": "3M Transbond PLUS 正畸光固化变色粘接剂 712-103  4g*4支/包",
@@ -16351,6 +16351,66 @@ window.DASHBOARD_DATA = {
               "ever_changed": false
             },
             {
+              "sku": "3M 门诊预约记录本2026",
+              "brand": "3M",
+              "name": "3M 门诊预约记录本2026",
+              "image_url": "",
+              "product_url": "https://www.mmm920.com/products?keyword=3M Unitek",
+              "history": [
+                {
+                  "date": "2026-08-11",
+                  "price": 1.9
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "伊斯拜 口腔治疗器具/牙挺/常规牙挺 etc-307\t 8# 3mm 弯",
+              "brand": "3M",
+              "name": "伊斯拜 口腔治疗器具/牙挺/常规牙挺 etc-307\t 8# 3mm 弯",
+              "image_url": "https://image.mmm920.com/upload/product/132296/104663/400x400/20260622162807923a6.jpg",
+              "product_url": "https://www.mmm920.com/products?keyword=3M Unitek",
+              "history": [
+                {
+                  "date": "2026-08-11",
+                  "price": 50
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "鹿宝医疗 金属柄微创牙挺 拔牙刀 lb3#直刃头 3mm",
+              "brand": "3M",
+              "name": "鹿宝医疗 金属柄微创牙挺 拔牙刀 lb3#直刃头 3mm",
+              "image_url": "https://image.mmm920.com/upload/product/120307/65754/400x400/2023032713382297377.jpg",
+              "product_url": "https://www.mmm920.com/products?keyword=3M Unitek",
+              "history": [
+                {
+                  "date": "2026-08-11",
+                  "price": 175
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "安萨/ASA 牙挺/不锈钢手柄牙根挺 0201-1 刃宽3mm",
+              "brand": "3M",
+              "name": "安萨/ASA 牙挺/不锈钢手柄牙根挺 0201-1 刃宽3mm",
+              "image_url": "https://image.mmm920.com/upload/product/112450/47989/400x400/2023092611354783172.png",
+              "product_url": "https://www.mmm920.com/products?keyword=3M ESPE",
+              "history": [
+                {
+                  "date": "2026-08-11",
+                  "price": 266
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
               "sku": "3M Pentamix3 通用套筒包  1个装 71545",
               "brand": "3M",
               "name": "3M Pentamix3 通用套筒包  1个装 71545",
@@ -20647,7 +20707,7 @@ window.DASHBOARD_DATA = {
       "platforms": [
         {
           "name": "励齿",
-          "count": 113,
+          "count": 114,
           "products": [
             {
               "sku": "100502",
@@ -33614,6 +33674,21 @@ window.DASHBOARD_DATA = {
               "ever_changed": false
             },
             {
+              "sku": "302171",
+              "brand": "3M ESPE",
+              "name": "3M ESPE RelyX™ Fiber Post纤维根管桩修复系统 高强度双锥度纤维桩补充装1号(10*1.3Mm/支)黄 56861",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/df679ab02ca34acda7885f99d78f18af.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=302171",
+              "history": [
+                {
+                  "date": "2026-08-11",
+                  "price": 517.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
               "sku": "100980",
               "brand": "3M ESPE",
               "name": "3M ESPE Clinpro™ White Varnish氟保护剂保护漆 防龋脱敏 樱桃味100支/盒 12246C",
@@ -39336,6 +39411,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-08-07",
                   "price": 18.9
+                },
+                {
+                  "date": "2026-08-11",
+                  "price": 18.9
                 }
               ],
               "change": 0.0,
@@ -42681,6 +42760,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-08-04",
+                  "price": 137
+                },
+                {
+                  "date": "2026-08-11",
                   "price": 137
                 }
               ],
