@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generated_at": "2026-10-18 10:23:04",
+  "generated_at": "2026-10-18 22:11:29",
   "latest_date": "2026-10-18",
   "tree": [
     {
@@ -100756,6 +100756,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-15",
+                  "price": 40.0
+                },
+                {
+                  "date": "2026-10-18",
                   "price": 40.0
                 }
               ],
