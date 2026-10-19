@@ -1,6 +1,6 @@
 window.DASHBOARD_DATA = {
-  "generated_at": "2026-10-18 22:11:29",
-  "latest_date": "2026-10-18",
+  "generated_at": "2026-10-19 09:21:04",
+  "latest_date": "2026-10-19",
   "tree": [
     {
       "keyword": "3M (3M Unitek)",
@@ -239,6 +239,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 149.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 149.0
                 }
               ],
               "change": 0.0,
@@ -474,6 +478,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 785.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 785.0
                 }
               ],
               "change": 0.0,
@@ -660,6 +668,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 799.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 799.0
                 }
               ],
@@ -848,6 +860,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 5.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 5.0
                 }
               ],
               "change": 0.0,
@@ -1027,6 +1043,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 989.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 989.0
                 }
               ],
               "change": 0.0,
@@ -1153,6 +1173,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 441.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 441.0
                 }
               ],
@@ -1377,6 +1401,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 81.94
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 81.94
                 }
               ],
               "change": 0.0,
@@ -1599,6 +1627,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 213.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 213.0
                 }
               ],
@@ -1835,6 +1867,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 3495.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 3495.0
                 }
               ],
               "change": 0.0,
@@ -2069,6 +2105,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 1799.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 1799.0
                 }
               ],
@@ -2305,6 +2345,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 1499.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 1499.0
                 }
               ],
               "change": 0.0,
@@ -2535,6 +2579,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 134.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 134.0
                 }
               ],
@@ -2771,6 +2819,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 161.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 161.0
                 }
               ],
               "change": 0.0,
@@ -3005,6 +3057,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 266.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 266.0
                 }
               ],
@@ -3348,6 +3404,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 266.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 266.0
                 }
               ],
               "change": 0.0,
@@ -3582,6 +3642,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 215.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 215.0
                 }
               ],
@@ -3921,6 +3985,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 215.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 215.0
                 }
               ],
               "change": 0.0,
@@ -4156,6 +4224,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 76.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 76.0
                 }
               ],
               "change": 0.0,
@@ -4387,6 +4459,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 7500.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 7500.0
                 }
               ],
               "change": 0.0,
@@ -4610,6 +4686,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 78.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 78.0
                 }
               ],
               "change": 0.0,
@@ -4831,6 +4911,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 1958.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 1958.0
                 }
               ],
@@ -5090,6 +5174,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 850.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 850.0
                 }
               ],
               "change": 0.0,
@@ -5276,6 +5364,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 662.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 662.0
                 }
               ],
@@ -5464,6 +5556,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 618.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 618.0
                 }
               ],
               "change": 0.0,
@@ -5650,6 +5746,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 1568.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 1568.0
                 }
               ],
@@ -5838,6 +5938,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 270.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 270.0
                 }
               ],
               "change": 0.0,
@@ -5980,6 +6084,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 197.6
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 197.6
                 }
               ],
@@ -6231,6 +6339,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 252.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 252.0
                 }
               ],
               "change": 0.0,
@@ -6341,6 +6453,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 215.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 215.0
                 }
               ],
@@ -6621,6 +6737,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 266.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 266.0
                 }
               ],
@@ -30689,744 +30809,6 @@ window.DASHBOARD_DATA = {
           "count": 25,
           "products": [
             {
-              "sku": "10183",
-              "brand": "3M",
-              "name": "3M UNITEK Transbond XT光固化粘结剂（补充装） 4g*2支装（白色）",
-              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/8304%2F28470f92b2d2c2e8d2f83414f2c0dfa7.png?x-oss-process=image/resize,h_300,w_300,m_lfit",
-              "product_url": "https://linkedcarefuture.com/#/search/list?text=3M Unitek",
-              "history": [
-                {
-                  "date": "2026-06-28",
-                  "price": 520.0
-                },
-                {
-                  "date": "2026-06-29",
-                  "price": 520.0
-                },
-                {
-                  "date": "2026-06-30",
-                  "price": 520.0
-                },
-                {
-                  "date": "2026-07-01",
-                  "price": 520.0
-                },
-                {
-                  "date": "2026-07-02",
-                  "price": 449.0
-                },
-                {
-                  "date": "2026-07-04",
-                  "price": 449.0
-                },
-                {
-                  "date": "2026-07-05",
-                  "price": 449.0
-                },
-                {
-                  "date": "2026-07-06",
-                  "price": 449.0
-                },
-                {
-                  "date": "2026-07-07",
-                  "price": 449.0
-                },
-                {
-                  "date": "2026-07-08",
-                  "price": 449.0
-                },
-                {
-                  "date": "2026-07-09",
-                  "price": 449.0
-                },
-                {
-                  "date": "2026-07-10",
-                  "price": 449.0
-                },
-                {
-                  "date": "2026-07-11",
-                  "price": 449.0
-                },
-                {
-                  "date": "2026-07-12",
-                  "price": 449.0
-                },
-                {
-                  "date": "2026-07-13",
-                  "price": 449.0
-                },
-                {
-                  "date": "2026-07-14",
-                  "price": 449.0
-                },
-                {
-                  "date": "2026-07-16",
-                  "price": 449.0
-                },
-                {
-                  "date": "2026-07-17",
-                  "price": 449.0
-                },
-                {
-                  "date": "2026-07-20",
-                  "price": 449.0
-                },
-                {
-                  "date": "2026-07-21",
-                  "price": 449.0
-                },
-                {
-                  "date": "2026-07-22",
-                  "price": 449.0
-                },
-                {
-                  "date": "2026-07-23",
-                  "price": 449.0
-                },
-                {
-                  "date": "2026-07-24",
-                  "price": 449.0
-                },
-                {
-                  "date": "2026-08-04",
-                  "price": 449.0
-                },
-                {
-                  "date": "2026-08-06",
-                  "price": 449.0
-                },
-                {
-                  "date": "2026-08-07",
-                  "price": 449.0
-                },
-                {
-                  "date": "2026-09-01",
-                  "price": 449.0
-                },
-                {
-                  "date": "2026-10-18",
-                  "price": 520.0
-                }
-              ],
-              "change": 71.0,
-              "ever_changed": true
-            },
-            {
-              "sku": "16387",
-              "brand": "3M",
-              "name": "3M UNITEK Transbond XT光固化正畸粘结剂（注射装） 4g/支 4支/包",
-              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/21023%2Fdfabfd4253a5e5c259cc88f5ef7474ad.png?x-oss-process=image/resize,h_300,w_300,m_lfit",
-              "product_url": "https://linkedcarefuture.com/#/search/list?text=3M Unitek",
-              "history": [
-                {
-                  "date": "2026-06-28",
-                  "price": 930.0
-                },
-                {
-                  "date": "2026-06-29",
-                  "price": 930.0
-                },
-                {
-                  "date": "2026-06-30",
-                  "price": 930.0
-                },
-                {
-                  "date": "2026-07-01",
-                  "price": 930.0
-                },
-                {
-                  "date": "2026-07-02",
-                  "price": 799.0
-                },
-                {
-                  "date": "2026-07-04",
-                  "price": 799.0
-                },
-                {
-                  "date": "2026-07-05",
-                  "price": 799.0
-                },
-                {
-                  "date": "2026-07-06",
-                  "price": 799.0
-                },
-                {
-                  "date": "2026-07-07",
-                  "price": 799.0
-                },
-                {
-                  "date": "2026-07-08",
-                  "price": 799.0
-                },
-                {
-                  "date": "2026-07-09",
-                  "price": 799.0
-                },
-                {
-                  "date": "2026-07-10",
-                  "price": 799.0
-                },
-                {
-                  "date": "2026-07-11",
-                  "price": 799.0
-                },
-                {
-                  "date": "2026-07-12",
-                  "price": 799.0
-                },
-                {
-                  "date": "2026-07-13",
-                  "price": 799.0
-                },
-                {
-                  "date": "2026-07-14",
-                  "price": 799.0
-                },
-                {
-                  "date": "2026-07-16",
-                  "price": 799.0
-                },
-                {
-                  "date": "2026-07-17",
-                  "price": 799.0
-                },
-                {
-                  "date": "2026-07-20",
-                  "price": 799.0
-                },
-                {
-                  "date": "2026-07-21",
-                  "price": 799.0
-                },
-                {
-                  "date": "2026-07-22",
-                  "price": 799.0
-                },
-                {
-                  "date": "2026-07-23",
-                  "price": 799.0
-                },
-                {
-                  "date": "2026-07-24",
-                  "price": 799.0
-                },
-                {
-                  "date": "2026-08-04",
-                  "price": 799.0
-                },
-                {
-                  "date": "2026-08-06",
-                  "price": 799.0
-                },
-                {
-                  "date": "2026-08-07",
-                  "price": 799.0
-                },
-                {
-                  "date": "2026-09-01",
-                  "price": 749.0
-                },
-                {
-                  "date": "2026-10-18",
-                  "price": 799.0
-                }
-              ],
-              "change": 50.0,
-              "ever_changed": true
-            },
-            {
-              "sku": "10177",
-              "brand": "3M",
-              "name": "3M UNITEK Gemini MBT金属网底托槽（经典MBT） 5-5 .022 (20粒/套) 3带钩",
-              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/8298%2Fde6e51ae0fed0eabfb26263fe459939c.jpg?x-oss-process=image/resize,h_300,w_300,m_lfit",
-              "product_url": "https://linkedcarefuture.com/#/search/list?text=3M Unitek",
-              "history": [
-                {
-                  "date": "2026-06-28",
-                  "price": 370.0
-                },
-                {
-                  "date": "2026-06-29",
-                  "price": 370.0
-                },
-                {
-                  "date": "2026-06-30",
-                  "price": 370.0
-                },
-                {
-                  "date": "2026-07-01",
-                  "price": 370.0
-                },
-                {
-                  "date": "2026-07-02",
-                  "price": 370.0
-                },
-                {
-                  "date": "2026-07-04",
-                  "price": 370.0
-                },
-                {
-                  "date": "2026-07-05",
-                  "price": 370.0
-                },
-                {
-                  "date": "2026-07-06",
-                  "price": 370.0
-                },
-                {
-                  "date": "2026-07-07",
-                  "price": 370.0
-                },
-                {
-                  "date": "2026-07-08",
-                  "price": 370.0
-                },
-                {
-                  "date": "2026-07-09",
-                  "price": 370.0
-                },
-                {
-                  "date": "2026-07-10",
-                  "price": 370.0
-                },
-                {
-                  "date": "2026-07-11",
-                  "price": 370.0
-                },
-                {
-                  "date": "2026-07-12",
-                  "price": 370.0
-                },
-                {
-                  "date": "2026-07-13",
-                  "price": 370.0
-                },
-                {
-                  "date": "2026-07-14",
-                  "price": 370.0
-                },
-                {
-                  "date": "2026-07-16",
-                  "price": 370.0
-                },
-                {
-                  "date": "2026-07-17",
-                  "price": 370.0
-                },
-                {
-                  "date": "2026-07-20",
-                  "price": 370.0
-                },
-                {
-                  "date": "2026-07-21",
-                  "price": 370.0
-                },
-                {
-                  "date": "2026-07-22",
-                  "price": 370.0
-                },
-                {
-                  "date": "2026-07-23",
-                  "price": 370.0
-                },
-                {
-                  "date": "2026-07-24",
-                  "price": 370.0
-                },
-                {
-                  "date": "2026-08-04",
-                  "price": 370.0
-                },
-                {
-                  "date": "2026-08-06",
-                  "price": 370.0
-                },
-                {
-                  "date": "2026-08-07",
-                  "price": 370.0
-                },
-                {
-                  "date": "2026-09-01",
-                  "price": 370.0
-                },
-                {
-                  "date": "2026-10-18",
-                  "price": 330.0
-                }
-              ],
-              "change": -40.0,
-              "ever_changed": true
-            },
-            {
-              "sku": "13988",
-              "brand": "3M",
-              "name": "3M UNITEK AlastiK链状橡皮圈C-1 中矩 超薄 3.6mm 透明色 457cm/卷",
-              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/14133%2Fc281efddd5c5f66ab43623604d1a5b18.jpg?x-oss-process=image/resize,h_300,w_300,m_lfit",
-              "product_url": "https://linkedcarefuture.com/#/search/list?text=3M Unitek",
-              "history": [
-                {
-                  "date": "2026-06-28",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-06-29",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-06-30",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-01",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-02",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-04",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-05",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-06",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-07",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-08",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-09",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-10",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-11",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-12",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-13",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-14",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-16",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-17",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-20",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-21",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-22",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-23",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-24",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-08-04",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-08-06",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-08-07",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-09-01",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-10-18",
-                  "price": 210.0
-                }
-              ],
-              "change": 11.0,
-              "ever_changed": true
-            },
-            {
-              "sku": "13989",
-              "brand": "3M",
-              "name": "3M UNITEK AlastiK链状橡皮圈CK（不含乳胶） 透明 短距 1卷/包",
-              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/14134%2Fb549bca39e140def64736a3e6faf829f.png?x-oss-process=image/resize,h_300,w_300,m_lfit",
-              "product_url": "https://linkedcarefuture.com/#/search/list?text=3M Unitek",
-              "history": [
-                {
-                  "date": "2026-06-28",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-06-29",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-06-30",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-01",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-02",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-04",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-05",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-06",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-07",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-08",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-09",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-10",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-11",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-12",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-13",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-14",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-16",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-17",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-20",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-21",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-22",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-23",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-24",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-08-04",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-08-06",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-08-07",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-09-01",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-10-18",
-                  "price": 210.0
-                }
-              ],
-              "change": 11.0,
-              "ever_changed": true
-            },
-            {
-              "sku": "29451",
-              "brand": "3M",
-              "name": "3M Unitek 正畸橡皮圈（医用乳胶 100个/包 5包/袋） 3.5OZ 99.2g 1/4英寸",
-              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/60908%2F0bd3c239fafe44d7b6d75bdf51474f3f.png?x-oss-process=image/resize,h_300,w_300,m_lfit",
-              "product_url": "https://linkedcarefuture.com/#/search/list?text=3M Unitek",
-              "history": [
-                {
-                  "date": "2026-06-28",
-                  "price": 25.0
-                },
-                {
-                  "date": "2026-06-29",
-                  "price": 25.0
-                },
-                {
-                  "date": "2026-06-30",
-                  "price": 25.0
-                },
-                {
-                  "date": "2026-07-01",
-                  "price": 25.0
-                },
-                {
-                  "date": "2026-07-02",
-                  "price": 25.0
-                },
-                {
-                  "date": "2026-07-04",
-                  "price": 25.0
-                },
-                {
-                  "date": "2026-07-05",
-                  "price": 25.0
-                },
-                {
-                  "date": "2026-07-06",
-                  "price": 25.0
-                },
-                {
-                  "date": "2026-07-07",
-                  "price": 25.0
-                },
-                {
-                  "date": "2026-07-08",
-                  "price": 25.0
-                },
-                {
-                  "date": "2026-07-09",
-                  "price": 25.0
-                },
-                {
-                  "date": "2026-07-10",
-                  "price": 25.0
-                },
-                {
-                  "date": "2026-07-11",
-                  "price": 25.0
-                },
-                {
-                  "date": "2026-07-12",
-                  "price": 25.0
-                },
-                {
-                  "date": "2026-07-13",
-                  "price": 25.0
-                },
-                {
-                  "date": "2026-07-14",
-                  "price": 25.0
-                },
-                {
-                  "date": "2026-07-16",
-                  "price": 25.0
-                },
-                {
-                  "date": "2026-07-17",
-                  "price": 25.0
-                },
-                {
-                  "date": "2026-07-20",
-                  "price": 25.0
-                },
-                {
-                  "date": "2026-07-21",
-                  "price": 25.0
-                },
-                {
-                  "date": "2026-07-22",
-                  "price": 25.0
-                },
-                {
-                  "date": "2026-07-23",
-                  "price": 25.0
-                },
-                {
-                  "date": "2026-07-24",
-                  "price": 25.0
-                },
-                {
-                  "date": "2026-08-04",
-                  "price": 25.0
-                },
-                {
-                  "date": "2026-08-06",
-                  "price": 25.0
-                },
-                {
-                  "date": "2026-08-07",
-                  "price": 25.0
-                },
-                {
-                  "date": "2026-09-01",
-                  "price": 25.0
-                },
-                {
-                  "date": "2026-10-18",
-                  "price": 31.0
-                }
-              ],
-              "change": 6.0,
-              "ever_changed": true
-            },
-            {
               "sku": "13995",
               "brand": "3M",
               "name": "3M Unitek 正畸橡皮圈（医用乳胶，100个/袋，30袋/盒）新老包装随机发货 8OZ 226.8g 1/8英寸",
@@ -31543,6 +30925,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 185.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 185.0
                 }
               ],
@@ -31667,6 +31053,772 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 688.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 688.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": true
+            },
+            {
+              "sku": "16387",
+              "brand": "3M",
+              "name": "3M UNITEK Transbond XT光固化正畸粘结剂（注射装） 4g/支 4支/包",
+              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/21023%2Fdfabfd4253a5e5c259cc88f5ef7474ad.png?x-oss-process=image/resize,h_300,w_300,m_lfit",
+              "product_url": "https://linkedcarefuture.com/#/search/list?text=3M Unitek",
+              "history": [
+                {
+                  "date": "2026-06-28",
+                  "price": 930.0
+                },
+                {
+                  "date": "2026-06-29",
+                  "price": 930.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 930.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 930.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 799.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 799.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 799.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 799.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 799.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 799.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 799.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 799.0
+                },
+                {
+                  "date": "2026-07-11",
+                  "price": 799.0
+                },
+                {
+                  "date": "2026-07-12",
+                  "price": 799.0
+                },
+                {
+                  "date": "2026-07-13",
+                  "price": 799.0
+                },
+                {
+                  "date": "2026-07-14",
+                  "price": 799.0
+                },
+                {
+                  "date": "2026-07-16",
+                  "price": 799.0
+                },
+                {
+                  "date": "2026-07-17",
+                  "price": 799.0
+                },
+                {
+                  "date": "2026-07-20",
+                  "price": 799.0
+                },
+                {
+                  "date": "2026-07-21",
+                  "price": 799.0
+                },
+                {
+                  "date": "2026-07-22",
+                  "price": 799.0
+                },
+                {
+                  "date": "2026-07-23",
+                  "price": 799.0
+                },
+                {
+                  "date": "2026-07-24",
+                  "price": 799.0
+                },
+                {
+                  "date": "2026-08-04",
+                  "price": 799.0
+                },
+                {
+                  "date": "2026-08-06",
+                  "price": 799.0
+                },
+                {
+                  "date": "2026-08-07",
+                  "price": 799.0
+                },
+                {
+                  "date": "2026-09-01",
+                  "price": 749.0
+                },
+                {
+                  "date": "2026-10-18",
+                  "price": 799.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 799.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": true
+            },
+            {
+              "sku": "29451",
+              "brand": "3M",
+              "name": "3M Unitek 正畸橡皮圈（医用乳胶 100个/包 5包/袋） 3.5OZ 99.2g 1/4英寸",
+              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/60908%2F0bd3c239fafe44d7b6d75bdf51474f3f.png?x-oss-process=image/resize,h_300,w_300,m_lfit",
+              "product_url": "https://linkedcarefuture.com/#/search/list?text=3M Unitek",
+              "history": [
+                {
+                  "date": "2026-06-28",
+                  "price": 25.0
+                },
+                {
+                  "date": "2026-06-29",
+                  "price": 25.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 25.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 25.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 25.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 25.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 25.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 25.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 25.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 25.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 25.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 25.0
+                },
+                {
+                  "date": "2026-07-11",
+                  "price": 25.0
+                },
+                {
+                  "date": "2026-07-12",
+                  "price": 25.0
+                },
+                {
+                  "date": "2026-07-13",
+                  "price": 25.0
+                },
+                {
+                  "date": "2026-07-14",
+                  "price": 25.0
+                },
+                {
+                  "date": "2026-07-16",
+                  "price": 25.0
+                },
+                {
+                  "date": "2026-07-17",
+                  "price": 25.0
+                },
+                {
+                  "date": "2026-07-20",
+                  "price": 25.0
+                },
+                {
+                  "date": "2026-07-21",
+                  "price": 25.0
+                },
+                {
+                  "date": "2026-07-22",
+                  "price": 25.0
+                },
+                {
+                  "date": "2026-07-23",
+                  "price": 25.0
+                },
+                {
+                  "date": "2026-07-24",
+                  "price": 25.0
+                },
+                {
+                  "date": "2026-08-04",
+                  "price": 25.0
+                },
+                {
+                  "date": "2026-08-06",
+                  "price": 25.0
+                },
+                {
+                  "date": "2026-08-07",
+                  "price": 25.0
+                },
+                {
+                  "date": "2026-09-01",
+                  "price": 25.0
+                },
+                {
+                  "date": "2026-10-18",
+                  "price": 31.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 31.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": true
+            },
+            {
+              "sku": "13988",
+              "brand": "3M",
+              "name": "3M UNITEK AlastiK链状橡皮圈C-1 中矩 超薄 3.6mm 透明色 457cm/卷",
+              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/14133%2Fc281efddd5c5f66ab43623604d1a5b18.jpg?x-oss-process=image/resize,h_300,w_300,m_lfit",
+              "product_url": "https://linkedcarefuture.com/#/search/list?text=3M Unitek",
+              "history": [
+                {
+                  "date": "2026-06-28",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-06-29",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-11",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-12",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-13",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-14",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-16",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-17",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-20",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-21",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-22",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-23",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-24",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-08-04",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-08-06",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-08-07",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-09-01",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-10-18",
+                  "price": 210.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 210.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": true
+            },
+            {
+              "sku": "10177",
+              "brand": "3M",
+              "name": "3M UNITEK Gemini MBT金属网底托槽（经典MBT） 5-5 .022 (20粒/套) 3带钩",
+              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/8298%2Fde6e51ae0fed0eabfb26263fe459939c.jpg?x-oss-process=image/resize,h_300,w_300,m_lfit",
+              "product_url": "https://linkedcarefuture.com/#/search/list?text=3M Unitek",
+              "history": [
+                {
+                  "date": "2026-06-28",
+                  "price": 370.0
+                },
+                {
+                  "date": "2026-06-29",
+                  "price": 370.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 370.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 370.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 370.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 370.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 370.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 370.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 370.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 370.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 370.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 370.0
+                },
+                {
+                  "date": "2026-07-11",
+                  "price": 370.0
+                },
+                {
+                  "date": "2026-07-12",
+                  "price": 370.0
+                },
+                {
+                  "date": "2026-07-13",
+                  "price": 370.0
+                },
+                {
+                  "date": "2026-07-14",
+                  "price": 370.0
+                },
+                {
+                  "date": "2026-07-16",
+                  "price": 370.0
+                },
+                {
+                  "date": "2026-07-17",
+                  "price": 370.0
+                },
+                {
+                  "date": "2026-07-20",
+                  "price": 370.0
+                },
+                {
+                  "date": "2026-07-21",
+                  "price": 370.0
+                },
+                {
+                  "date": "2026-07-22",
+                  "price": 370.0
+                },
+                {
+                  "date": "2026-07-23",
+                  "price": 370.0
+                },
+                {
+                  "date": "2026-07-24",
+                  "price": 370.0
+                },
+                {
+                  "date": "2026-08-04",
+                  "price": 370.0
+                },
+                {
+                  "date": "2026-08-06",
+                  "price": 370.0
+                },
+                {
+                  "date": "2026-08-07",
+                  "price": 370.0
+                },
+                {
+                  "date": "2026-09-01",
+                  "price": 370.0
+                },
+                {
+                  "date": "2026-10-18",
+                  "price": 330.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 330.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": true
+            },
+            {
+              "sku": "10183",
+              "brand": "3M",
+              "name": "3M UNITEK Transbond XT光固化粘结剂（补充装） 4g*2支装（白色）",
+              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/8304%2F28470f92b2d2c2e8d2f83414f2c0dfa7.png?x-oss-process=image/resize,h_300,w_300,m_lfit",
+              "product_url": "https://linkedcarefuture.com/#/search/list?text=3M Unitek",
+              "history": [
+                {
+                  "date": "2026-06-28",
+                  "price": 520.0
+                },
+                {
+                  "date": "2026-06-29",
+                  "price": 520.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 520.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 520.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 449.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 449.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 449.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 449.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 449.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 449.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 449.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 449.0
+                },
+                {
+                  "date": "2026-07-11",
+                  "price": 449.0
+                },
+                {
+                  "date": "2026-07-12",
+                  "price": 449.0
+                },
+                {
+                  "date": "2026-07-13",
+                  "price": 449.0
+                },
+                {
+                  "date": "2026-07-14",
+                  "price": 449.0
+                },
+                {
+                  "date": "2026-07-16",
+                  "price": 449.0
+                },
+                {
+                  "date": "2026-07-17",
+                  "price": 449.0
+                },
+                {
+                  "date": "2026-07-20",
+                  "price": 449.0
+                },
+                {
+                  "date": "2026-07-21",
+                  "price": 449.0
+                },
+                {
+                  "date": "2026-07-22",
+                  "price": 449.0
+                },
+                {
+                  "date": "2026-07-23",
+                  "price": 449.0
+                },
+                {
+                  "date": "2026-07-24",
+                  "price": 449.0
+                },
+                {
+                  "date": "2026-08-04",
+                  "price": 449.0
+                },
+                {
+                  "date": "2026-08-06",
+                  "price": 449.0
+                },
+                {
+                  "date": "2026-08-07",
+                  "price": 449.0
+                },
+                {
+                  "date": "2026-09-01",
+                  "price": 449.0
+                },
+                {
+                  "date": "2026-10-18",
+                  "price": 520.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 520.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": true
+            },
+            {
+              "sku": "13989",
+              "brand": "3M",
+              "name": "3M UNITEK AlastiK链状橡皮圈CK（不含乳胶） 透明 短距 1卷/包",
+              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/14134%2Fb549bca39e140def64736a3e6faf829f.png?x-oss-process=image/resize,h_300,w_300,m_lfit",
+              "product_url": "https://linkedcarefuture.com/#/search/list?text=3M Unitek",
+              "history": [
+                {
+                  "date": "2026-06-28",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-06-29",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-11",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-12",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-13",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-14",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-16",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-17",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-20",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-21",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-22",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-23",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-24",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-08-04",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-08-06",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-08-07",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-09-01",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-10-18",
+                  "price": 210.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 210.0
                 }
               ],
               "change": 0.0,
@@ -31790,6 +31942,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 213.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 213.0
                 }
               ],
               "change": 0.0,
@@ -31908,6 +32064,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 210.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 210.0
                 }
               ],
@@ -32032,6 +32192,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 229.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 229.0
                 }
               ],
               "change": 0.0,
@@ -32154,6 +32318,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 1550.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 1550.0
                 }
               ],
@@ -32278,6 +32446,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 1568.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 1568.0
                 }
               ],
               "change": 0.0,
@@ -32400,6 +32572,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 215.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 215.0
                 }
               ],
@@ -32524,6 +32700,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 215.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 215.0
                 }
               ],
               "change": 0.0,
@@ -32647,6 +32827,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 134.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 134.0
                 }
               ],
               "change": 0.0,
@@ -32757,6 +32941,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 161.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 161.0
                 }
               ],
@@ -32940,6 +33128,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 270.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 270.0
                 }
               ],
               "change": 0.0,
@@ -33030,6 +33222,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-08-06",
+                  "price": 1958.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 1958.0
                 }
               ],
@@ -33168,6 +33364,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 1950.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 1950.0
                 }
               ],
               "change": 0.0,
@@ -33214,6 +33414,33 @@ window.DASHBOARD_DATA = {
           "name": "励齿",
           "count": 121,
           "products": [
+            {
+              "sku": "ZH100445",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Filtek™ P60 光固化复合树脂 后牙充填专用树脂 4g/支 8100 A3色+Z350XT Universal Restorative （国产）膏体纳米树脂 （美学补牙通用） A3 牙体色 7018PA3B 组合",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/0c0e5c1b24cc4a8286851dfa2b3de5d8.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=ZH100445",
+              "history": [
+                {
+                  "date": "2026-10-12",
+                  "price": 319.0
+                },
+                {
+                  "date": "2026-10-15",
+                  "price": 319.0
+                },
+                {
+                  "date": "2026-10-18",
+                  "price": 319.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 340.0
+                }
+              ],
+              "change": 21.0,
+              "ever_changed": true
+            },
             {
               "sku": "306202",
               "brand": "3M ESPE",
@@ -33271,468 +33498,6 @@ window.DASHBOARD_DATA = {
                 }
               ],
               "change": 20.0,
-              "ever_changed": true
-            },
-            {
-              "sku": "300420",
-              "brand": "3M ESPE",
-              "name": "3M ESPE Single Bond Universal通用粘接剂 金标准八代粘接剂 万能胶(含硅烷)5ml/瓶 41282 通用粘接系统",
-              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/300420_1.jpg?version=1751281374749",
-              "product_url": "https://www.lichidental.com/product/detail?sku=300420",
-              "history": [
-                {
-                  "date": "2026-06-28",
-                  "price": 420.0
-                },
-                {
-                  "date": "2026-06-29",
-                  "price": 420.0
-                },
-                {
-                  "date": "2026-06-30",
-                  "price": 420.0
-                },
-                {
-                  "date": "2026-07-01",
-                  "price": 420.0
-                },
-                {
-                  "date": "2026-07-02",
-                  "price": 420.0
-                },
-                {
-                  "date": "2026-07-03",
-                  "price": 420.0
-                },
-                {
-                  "date": "2026-07-04",
-                  "price": 420.0
-                },
-                {
-                  "date": "2026-07-05",
-                  "price": 420.0
-                },
-                {
-                  "date": "2026-07-06",
-                  "price": 420.0
-                },
-                {
-                  "date": "2026-07-07",
-                  "price": 420.0
-                },
-                {
-                  "date": "2026-07-08",
-                  "price": 389.0
-                },
-                {
-                  "date": "2026-07-09",
-                  "price": 389.0
-                },
-                {
-                  "date": "2026-07-10",
-                  "price": 389.0
-                },
-                {
-                  "date": "2026-07-11",
-                  "price": 389.0
-                },
-                {
-                  "date": "2026-07-12",
-                  "price": 389.0
-                },
-                {
-                  "date": "2026-07-13",
-                  "price": 389.0
-                },
-                {
-                  "date": "2026-07-14",
-                  "price": 389.0
-                },
-                {
-                  "date": "2026-07-15",
-                  "price": 420.0
-                },
-                {
-                  "date": "2026-07-16",
-                  "price": 420.0
-                },
-                {
-                  "date": "2026-07-17",
-                  "price": 420.0
-                },
-                {
-                  "date": "2026-07-20",
-                  "price": 420.0
-                },
-                {
-                  "date": "2026-07-21",
-                  "price": 420.0
-                },
-                {
-                  "date": "2026-07-22",
-                  "price": 420.0
-                },
-                {
-                  "date": "2026-07-23",
-                  "price": 420.0
-                },
-                {
-                  "date": "2026-07-24",
-                  "price": 420.0
-                },
-                {
-                  "date": "2026-07-29",
-                  "price": 420.0
-                },
-                {
-                  "date": "2026-07-30",
-                  "price": 420.0
-                },
-                {
-                  "date": "2026-07-31",
-                  "price": 420.0
-                },
-                {
-                  "date": "2026-08-03",
-                  "price": 420.0
-                },
-                {
-                  "date": "2026-08-04",
-                  "price": 420.0
-                },
-                {
-                  "date": "2026-08-05",
-                  "price": 420.0
-                },
-                {
-                  "date": "2026-08-06",
-                  "price": 420.0
-                },
-                {
-                  "date": "2026-08-07",
-                  "price": 420.0
-                },
-                {
-                  "date": "2026-08-08",
-                  "price": 420.0
-                },
-                {
-                  "date": "2026-08-11",
-                  "price": 420.0
-                },
-                {
-                  "date": "2026-08-12",
-                  "price": 420.0
-                },
-                {
-                  "date": "2026-08-13",
-                  "price": 420.0
-                },
-                {
-                  "date": "2026-08-14",
-                  "price": 420.0
-                },
-                {
-                  "date": "2026-08-17",
-                  "price": 420.0
-                },
-                {
-                  "date": "2026-08-19",
-                  "price": 420.0
-                },
-                {
-                  "date": "2026-08-20",
-                  "price": 420.0
-                },
-                {
-                  "date": "2026-08-21",
-                  "price": 420.0
-                },
-                {
-                  "date": "2026-08-25",
-                  "price": 420.0
-                },
-                {
-                  "date": "2026-08-26",
-                  "price": 420.0
-                },
-                {
-                  "date": "2026-08-28",
-                  "price": 420.0
-                },
-                {
-                  "date": "2026-09-01",
-                  "price": 395.0
-                },
-                {
-                  "date": "2026-09-03",
-                  "price": 395.0
-                },
-                {
-                  "date": "2026-09-08",
-                  "price": 420.0
-                },
-                {
-                  "date": "2026-09-09",
-                  "price": 420.0
-                },
-                {
-                  "date": "2026-09-10",
-                  "price": 420.0
-                },
-                {
-                  "date": "2026-09-11",
-                  "price": 420.0
-                },
-                {
-                  "date": "2026-09-14",
-                  "price": 420.0
-                },
-                {
-                  "date": "2026-10-08",
-                  "price": 420.0
-                },
-                {
-                  "date": "2026-10-12",
-                  "price": 395.0
-                },
-                {
-                  "date": "2026-10-15",
-                  "price": 395.0
-                },
-                {
-                  "date": "2026-10-18",
-                  "price": 395.0
-                }
-              ],
-              "change": 0.0,
-              "ever_changed": true
-            },
-            {
-              "sku": "ZH100589",
-              "brand": "3M ESPE",
-              "name": "3M ESPE Filtek Z350XT A3B+3M UNITEK Transbond Plus正畸光固化变色粘接剂 712-105  促销组合",
-              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/787ae6df78f944a2b82d7cf824c7191c.jpg",
-              "product_url": "https://www.lichidental.com/product/detail?sku=ZH100589",
-              "history": [
-                {
-                  "date": "2026-06-30",
-                  "price": 408.0
-                },
-                {
-                  "date": "2026-07-01",
-                  "price": 369.0
-                },
-                {
-                  "date": "2026-07-02",
-                  "price": 369.0
-                },
-                {
-                  "date": "2026-07-03",
-                  "price": 369.0
-                },
-                {
-                  "date": "2026-07-04",
-                  "price": 369.0
-                },
-                {
-                  "date": "2026-07-05",
-                  "price": 369.0
-                },
-                {
-                  "date": "2026-07-06",
-                  "price": 369.0
-                },
-                {
-                  "date": "2026-07-07",
-                  "price": 369.0
-                },
-                {
-                  "date": "2026-07-08",
-                  "price": 369.0
-                },
-                {
-                  "date": "2026-07-09",
-                  "price": 369.0
-                },
-                {
-                  "date": "2026-07-10",
-                  "price": 369.0
-                },
-                {
-                  "date": "2026-07-11",
-                  "price": 369.0
-                },
-                {
-                  "date": "2026-07-12",
-                  "price": 369.0
-                },
-                {
-                  "date": "2026-07-13",
-                  "price": 369.0
-                },
-                {
-                  "date": "2026-07-14",
-                  "price": 369.0
-                },
-                {
-                  "date": "2026-07-15",
-                  "price": 369.0
-                },
-                {
-                  "date": "2026-07-16",
-                  "price": 369.0
-                },
-                {
-                  "date": "2026-07-17",
-                  "price": 369.0
-                },
-                {
-                  "date": "2026-07-20",
-                  "price": 369.0
-                },
-                {
-                  "date": "2026-07-21",
-                  "price": 369.0
-                },
-                {
-                  "date": "2026-07-22",
-                  "price": 369.0
-                },
-                {
-                  "date": "2026-07-23",
-                  "price": 369.0
-                },
-                {
-                  "date": "2026-07-24",
-                  "price": 369.0
-                },
-                {
-                  "date": "2026-07-29",
-                  "price": 369.0
-                },
-                {
-                  "date": "2026-07-30",
-                  "price": 369.0
-                },
-                {
-                  "date": "2026-07-31",
-                  "price": 369.0
-                },
-                {
-                  "date": "2026-08-03",
-                  "price": 412.0
-                },
-                {
-                  "date": "2026-08-04",
-                  "price": 412.0
-                },
-                {
-                  "date": "2026-08-05",
-                  "price": 412.0
-                },
-                {
-                  "date": "2026-08-06",
-                  "price": 412.0
-                },
-                {
-                  "date": "2026-08-07",
-                  "price": 412.0
-                },
-                {
-                  "date": "2026-08-08",
-                  "price": 412.0
-                },
-                {
-                  "date": "2026-08-11",
-                  "price": 412.0
-                },
-                {
-                  "date": "2026-08-12",
-                  "price": 412.0
-                },
-                {
-                  "date": "2026-08-13",
-                  "price": 412.0
-                },
-                {
-                  "date": "2026-08-14",
-                  "price": 412.0
-                },
-                {
-                  "date": "2026-08-17",
-                  "price": 412.0
-                },
-                {
-                  "date": "2026-08-19",
-                  "price": 412.0
-                },
-                {
-                  "date": "2026-08-20",
-                  "price": 412.0
-                },
-                {
-                  "date": "2026-08-21",
-                  "price": 412.0
-                },
-                {
-                  "date": "2026-08-25",
-                  "price": 412.0
-                },
-                {
-                  "date": "2026-08-26",
-                  "price": 412.0
-                },
-                {
-                  "date": "2026-08-28",
-                  "price": 412.0
-                },
-                {
-                  "date": "2026-09-01",
-                  "price": 412.0
-                },
-                {
-                  "date": "2026-09-03",
-                  "price": 412.0
-                },
-                {
-                  "date": "2026-09-08",
-                  "price": 412.0
-                },
-                {
-                  "date": "2026-09-09",
-                  "price": 412.0
-                },
-                {
-                  "date": "2026-09-10",
-                  "price": 412.0
-                },
-                {
-                  "date": "2026-09-11",
-                  "price": 412.0
-                },
-                {
-                  "date": "2026-09-14",
-                  "price": 412.0
-                },
-                {
-                  "date": "2026-10-08",
-                  "price": 412.0
-                },
-                {
-                  "date": "2026-10-12",
-                  "price": 412.0
-                },
-                {
-                  "date": "2026-10-15",
-                  "price": 412.0
-                },
-                {
-                  "date": "2026-10-18",
-                  "price": 412.0
-                }
-              ],
-              "change": 0.0,
               "ever_changed": true
             },
             {
@@ -33965,6 +33730,480 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 169.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 165.0
+                }
+              ],
+              "change": -4.0,
+              "ever_changed": true
+            },
+            {
+              "sku": "300420",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Single Bond Universal通用粘接剂 金标准八代粘接剂 万能胶(含硅烷)5ml/瓶 41282 通用粘接系统",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/300420_1.jpg?version=1751281374749",
+              "product_url": "https://www.lichidental.com/product/detail?sku=300420",
+              "history": [
+                {
+                  "date": "2026-06-28",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-06-29",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 389.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 389.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 389.0
+                },
+                {
+                  "date": "2026-07-11",
+                  "price": 389.0
+                },
+                {
+                  "date": "2026-07-12",
+                  "price": 389.0
+                },
+                {
+                  "date": "2026-07-13",
+                  "price": 389.0
+                },
+                {
+                  "date": "2026-07-14",
+                  "price": 389.0
+                },
+                {
+                  "date": "2026-07-15",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-07-16",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-07-17",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-07-20",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-07-21",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-07-22",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-07-23",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-07-24",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-07-29",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-07-30",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-07-31",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-08-03",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-08-04",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-08-05",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-08-06",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-08-07",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-08-08",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-08-11",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-08-12",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-08-13",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-08-14",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-08-17",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-08-19",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-08-20",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-08-21",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-08-25",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-08-26",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-08-28",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-09-01",
+                  "price": 395.0
+                },
+                {
+                  "date": "2026-09-03",
+                  "price": 395.0
+                },
+                {
+                  "date": "2026-09-08",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-09-09",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-09-10",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-09-11",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-09-14",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-10-08",
+                  "price": 420.0
+                },
+                {
+                  "date": "2026-10-12",
+                  "price": 395.0
+                },
+                {
+                  "date": "2026-10-15",
+                  "price": 395.0
+                },
+                {
+                  "date": "2026-10-18",
+                  "price": 395.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 395.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": true
+            },
+            {
+              "sku": "ZH100589",
+              "brand": "3M ESPE",
+              "name": "3M ESPE Filtek Z350XT A3B+3M UNITEK Transbond Plus正畸光固化变色粘接剂 712-105  促销组合",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/787ae6df78f944a2b82d7cf824c7191c.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=ZH100589",
+              "history": [
+                {
+                  "date": "2026-06-30",
+                  "price": 408.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 369.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 369.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 369.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 369.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 369.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 369.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 369.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 369.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 369.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 369.0
+                },
+                {
+                  "date": "2026-07-11",
+                  "price": 369.0
+                },
+                {
+                  "date": "2026-07-12",
+                  "price": 369.0
+                },
+                {
+                  "date": "2026-07-13",
+                  "price": 369.0
+                },
+                {
+                  "date": "2026-07-14",
+                  "price": 369.0
+                },
+                {
+                  "date": "2026-07-15",
+                  "price": 369.0
+                },
+                {
+                  "date": "2026-07-16",
+                  "price": 369.0
+                },
+                {
+                  "date": "2026-07-17",
+                  "price": 369.0
+                },
+                {
+                  "date": "2026-07-20",
+                  "price": 369.0
+                },
+                {
+                  "date": "2026-07-21",
+                  "price": 369.0
+                },
+                {
+                  "date": "2026-07-22",
+                  "price": 369.0
+                },
+                {
+                  "date": "2026-07-23",
+                  "price": 369.0
+                },
+                {
+                  "date": "2026-07-24",
+                  "price": 369.0
+                },
+                {
+                  "date": "2026-07-29",
+                  "price": 369.0
+                },
+                {
+                  "date": "2026-07-30",
+                  "price": 369.0
+                },
+                {
+                  "date": "2026-07-31",
+                  "price": 369.0
+                },
+                {
+                  "date": "2026-08-03",
+                  "price": 412.0
+                },
+                {
+                  "date": "2026-08-04",
+                  "price": 412.0
+                },
+                {
+                  "date": "2026-08-05",
+                  "price": 412.0
+                },
+                {
+                  "date": "2026-08-06",
+                  "price": 412.0
+                },
+                {
+                  "date": "2026-08-07",
+                  "price": 412.0
+                },
+                {
+                  "date": "2026-08-08",
+                  "price": 412.0
+                },
+                {
+                  "date": "2026-08-11",
+                  "price": 412.0
+                },
+                {
+                  "date": "2026-08-12",
+                  "price": 412.0
+                },
+                {
+                  "date": "2026-08-13",
+                  "price": 412.0
+                },
+                {
+                  "date": "2026-08-14",
+                  "price": 412.0
+                },
+                {
+                  "date": "2026-08-17",
+                  "price": 412.0
+                },
+                {
+                  "date": "2026-08-19",
+                  "price": 412.0
+                },
+                {
+                  "date": "2026-08-20",
+                  "price": 412.0
+                },
+                {
+                  "date": "2026-08-21",
+                  "price": 412.0
+                },
+                {
+                  "date": "2026-08-25",
+                  "price": 412.0
+                },
+                {
+                  "date": "2026-08-26",
+                  "price": 412.0
+                },
+                {
+                  "date": "2026-08-28",
+                  "price": 412.0
+                },
+                {
+                  "date": "2026-09-01",
+                  "price": 412.0
+                },
+                {
+                  "date": "2026-09-03",
+                  "price": 412.0
+                },
+                {
+                  "date": "2026-09-08",
+                  "price": 412.0
+                },
+                {
+                  "date": "2026-09-09",
+                  "price": 412.0
+                },
+                {
+                  "date": "2026-09-10",
+                  "price": 412.0
+                },
+                {
+                  "date": "2026-09-11",
+                  "price": 412.0
+                },
+                {
+                  "date": "2026-09-14",
+                  "price": 412.0
+                },
+                {
+                  "date": "2026-10-08",
+                  "price": 412.0
+                },
+                {
+                  "date": "2026-10-12",
+                  "price": 412.0
+                },
+                {
+                  "date": "2026-10-15",
+                  "price": 412.0
+                },
+                {
+                  "date": "2026-10-18",
+                  "price": 412.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 412.0
                 }
               ],
               "change": 0.0,
@@ -34195,6 +34434,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 575.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 575.0
                 }
               ],
@@ -34427,6 +34670,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 255.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 255.0
                 }
               ],
               "change": 0.0,
@@ -34657,6 +34904,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 139.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 139.0
                 }
               ],
@@ -34893,6 +35144,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 186.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 186.0
                 }
               ],
               "change": 0.0,
@@ -35127,6 +35382,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 172.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 172.0
                 }
               ],
@@ -35363,6 +35622,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 367.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 367.0
                 }
               ],
               "change": 0.0,
@@ -35598,6 +35861,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 688.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 688.0
                 }
               ],
               "change": 0.0,
@@ -35829,6 +36096,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 157.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 157.0
                 }
               ],
               "change": 0.0,
@@ -36015,6 +36286,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 139.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 139.0
                 }
               ],
@@ -36251,6 +36526,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 456.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 456.0
                 }
               ],
               "change": 0.0,
@@ -36486,6 +36765,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 982.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 982.0
                 }
               ],
               "change": 0.0,
@@ -36672,6 +36955,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 22.2
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 22.2
                 }
               ],
@@ -36904,6 +37191,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 1729.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 1729.0
                 }
               ],
               "change": 0.0,
@@ -37134,6 +37425,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 68.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 68.0
                 }
               ],
@@ -37370,6 +37665,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 312.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 312.0
                 }
               ],
               "change": 0.0,
@@ -37604,6 +37903,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 690.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 690.0
                 }
               ],
@@ -37840,6 +38143,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 690.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 690.0
                 }
               ],
               "change": 0.0,
@@ -38074,6 +38381,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 223.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 223.0
                 }
               ],
@@ -38341,6 +38652,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 210.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 210.0
                 }
               ],
               "change": 0.0,
@@ -38487,6 +38802,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 470.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 470.0
                 }
               ],
@@ -38719,6 +39038,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 245.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 245.0
                 }
               ],
               "change": 0.0,
@@ -38950,6 +39273,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 346.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 346.0
                 }
               ],
               "change": 0.0,
@@ -39180,6 +39507,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 5999.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 5999.0
                 }
               ],
@@ -39627,6 +39958,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 108.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 108.0
                 }
               ],
               "change": 0.0,
@@ -39858,6 +40193,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 758.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 758.0
                 }
               ],
               "change": 0.0,
@@ -40084,6 +40423,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 9999.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 9999.0
                 }
               ],
@@ -40316,6 +40659,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 274.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 274.0
                 }
               ],
               "change": 0.0,
@@ -40546,6 +40893,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 266.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 266.0
                 }
               ],
@@ -40778,6 +41129,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 276.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 276.0
                 }
               ],
               "change": 0.0,
@@ -41008,6 +41363,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 249.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 249.0
                 }
               ],
@@ -41240,6 +41599,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 4500.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 4500.0
                 }
               ],
               "change": 0.0,
@@ -41470,6 +41833,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 282.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 282.0
                 }
               ],
@@ -41702,6 +42069,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 133.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 133.0
                 }
               ],
               "change": 0.0,
@@ -41933,6 +42304,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 745.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 745.0
                 }
               ],
               "change": 0.0,
@@ -42163,6 +42538,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 1399.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 1399.0
                 }
               ],
@@ -42399,6 +42778,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 356.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 356.0
                 }
               ],
               "change": 0.0,
@@ -42633,6 +43016,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 294.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 294.0
                 }
               ],
@@ -42869,6 +43256,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 324.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 324.0
                 }
               ],
               "change": 0.0,
@@ -43103,6 +43494,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 641.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 641.0
                 }
               ],
@@ -43339,6 +43734,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 96.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 96.0
                 }
               ],
               "change": 0.0,
@@ -43573,6 +43972,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 27.9
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 27.9
                 }
               ],
@@ -43956,6 +44359,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 159.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 159.0
                 }
               ],
               "change": 0.0,
@@ -44191,6 +44598,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 39.9
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 39.9
                 }
               ],
               "change": 0.0,
@@ -44421,6 +44832,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 346.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 346.0
                 }
               ],
@@ -44657,6 +45072,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 1465.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 1465.0
                 }
               ],
               "change": 0.0,
@@ -44891,6 +45310,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 929.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 929.0
                 }
               ],
@@ -45127,6 +45550,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 79.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 79.0
                 }
               ],
               "change": 0.0,
@@ -45361,6 +45788,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 55.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 55.0
                 }
               ],
@@ -45597,6 +46028,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 804.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 804.0
                 }
               ],
               "change": 0.0,
@@ -45831,6 +46266,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 820.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 820.0
                 }
               ],
@@ -46067,6 +46506,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 296.7
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 296.7
                 }
               ],
               "change": 0.0,
@@ -46302,6 +46745,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 920.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 920.0
                 }
               ],
               "change": 0.0,
@@ -46533,6 +46980,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 1091.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 1091.0
                 }
               ],
               "change": 0.0,
@@ -46720,6 +47171,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 599.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 599.0
                 }
               ],
               "change": 0.0,
@@ -46903,6 +47358,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 400.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 400.0
                 }
               ],
               "change": 0.0,
@@ -47082,6 +47541,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 1199.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 1199.0
                 }
               ],
               "change": 0.0,
@@ -47260,6 +47723,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 469.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 469.0
                 }
               ],
@@ -47547,6 +48014,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 207.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 207.0
                 }
               ],
               "change": 0.0,
@@ -47729,6 +48200,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 11.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 11.0
                 }
               ],
@@ -47917,6 +48392,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 69.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 69.0
                 }
               ],
               "change": 0.0,
@@ -48104,6 +48583,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 135.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 135.0
                 }
               ],
               "change": 0.0,
@@ -48290,6 +48773,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 39.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 39.0
                 }
               ],
@@ -48625,6 +49112,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 85.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 85.0
                 }
               ],
               "change": 0.0,
@@ -48807,6 +49298,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 618.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 618.0
                 }
               ],
@@ -48995,6 +49490,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 2370.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 2370.0
                 }
               ],
               "change": 0.0,
@@ -49177,6 +49676,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 288.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 288.0
                 }
               ],
@@ -49365,6 +49868,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 670.38
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 670.38
                 }
               ],
               "change": 0.0,
@@ -49547,6 +50054,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 115.8
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 115.8
                 }
               ],
@@ -49734,6 +50245,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 1399.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 1399.0
                 }
               ],
@@ -50089,6 +50604,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 195.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 195.0
                 }
               ],
               "change": 0.0,
@@ -50276,6 +50795,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 759.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 759.0
                 }
               ],
               "change": 0.0,
@@ -50354,6 +50877,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 185.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 185.0
                 }
               ],
@@ -50542,6 +51069,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 130.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 130.0
                 }
               ],
               "change": 0.0,
@@ -50728,6 +51259,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 2489.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 2489.0
                 }
               ],
@@ -50916,6 +51451,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 1300.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 1300.0
                 }
               ],
               "change": 0.0,
@@ -51102,6 +51641,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 1200.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 1200.0
                 }
               ],
@@ -51290,6 +51833,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 1399.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 1399.0
                 }
               ],
               "change": 0.0,
@@ -51477,6 +52024,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 29.88
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 29.88
                 }
               ],
               "change": 0.0,
@@ -51655,6 +52206,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 2999.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 2999.0
                 }
               ],
@@ -51842,6 +52397,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 352.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 352.0
                 }
               ],
@@ -52125,6 +52684,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 297.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 297.0
                 }
               ],
               "change": 0.0,
@@ -52312,6 +52875,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 3185.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 3185.0
                 }
               ],
               "change": 0.0,
@@ -52494,6 +53061,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 351.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 351.0
                 }
               ],
@@ -52682,6 +53253,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 10086.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 10086.0
                 }
               ],
               "change": 0.0,
@@ -52869,6 +53444,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 294.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 294.0
                 }
               ],
               "change": 0.0,
@@ -53051,6 +53630,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 17800.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 17800.0
                 }
               ],
@@ -53235,6 +53818,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 1465.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 1465.0
                 }
               ],
               "change": 0.0,
@@ -53417,6 +54004,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 151.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 151.0
                 }
               ],
@@ -53628,6 +54219,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 1210.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 1210.0
                 }
               ],
@@ -53900,6 +54495,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 3390.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 3390.0
                 }
               ],
@@ -54208,6 +54807,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 888.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 888.0
                 }
               ],
               "change": 0.0,
@@ -54452,6 +55055,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 517.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 517.0
                 }
               ],
               "change": 0.0,
@@ -54479,29 +55086,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 537.0
-                }
-              ],
-              "change": 0.0,
-              "ever_changed": false
-            },
-            {
-              "sku": "ZH100445",
-              "brand": "3M ESPE",
-              "name": "3M ESPE Filtek™ P60 光固化复合树脂 后牙充填专用树脂 4g/支 8100 A3色+Z350XT Universal Restorative （国产）膏体纳米树脂 （美学补牙通用） A3 牙体色 7018PA3B 组合",
-              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/0c0e5c1b24cc4a8286851dfa2b3de5d8.jpg",
-              "product_url": "https://www.lichidental.com/product/detail?sku=ZH100445",
-              "history": [
-                {
-                  "date": "2026-10-12",
-                  "price": 319.0
                 },
                 {
-                  "date": "2026-10-15",
-                  "price": 319.0
-                },
-                {
-                  "date": "2026-10-18",
-                  "price": 319.0
+                  "date": "2026-10-19",
+                  "price": 537.0
                 }
               ],
               "change": 0.0,
@@ -54528,6 +55116,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 249.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 249.0
                 }
               ],
@@ -57307,7 +57899,7 @@ window.DASHBOARD_DATA = {
         },
         {
           "name": "领健",
-          "count": 28,
+          "count": 29,
           "products": [
             {
               "sku": "10146",
@@ -57370,243 +57962,6 @@ window.DASHBOARD_DATA = {
                 }
               ],
               "change": 27.0,
-              "ever_changed": true
-            },
-            {
-              "sku": "13001",
-              "brand": "3M",
-              "name": "3M ESPE Protemp™  4 临时冠桥树脂材料 枪混自凝补充装 A3 67g/支，混合头*16",
-              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/12209%2Ffe34fba9a07be5c00bf940e98024636b.png?x-oss-process=image/resize,h_300,w_300,m_lfit",
-              "product_url": "https://linkedcarefuture.com/#/search/list?text=3M ESPE",
-              "history": [
-                {
-                  "date": "2026-07-10",
-                  "price": 480.0
-                },
-                {
-                  "date": "2026-07-11",
-                  "price": 480.0
-                },
-                {
-                  "date": "2026-07-12",
-                  "price": 480.0
-                },
-                {
-                  "date": "2026-07-13",
-                  "price": 480.0
-                },
-                {
-                  "date": "2026-07-14",
-                  "price": 480.0
-                },
-                {
-                  "date": "2026-07-16",
-                  "price": 480.0
-                },
-                {
-                  "date": "2026-07-17",
-                  "price": 480.0
-                },
-                {
-                  "date": "2026-07-20",
-                  "price": 480.0
-                },
-                {
-                  "date": "2026-07-21",
-                  "price": 480.0
-                },
-                {
-                  "date": "2026-07-22",
-                  "price": 480.0
-                },
-                {
-                  "date": "2026-07-23",
-                  "price": 480.0
-                },
-                {
-                  "date": "2026-07-24",
-                  "price": 480.0
-                },
-                {
-                  "date": "2026-08-04",
-                  "price": 480.0
-                },
-                {
-                  "date": "2026-08-06",
-                  "price": 480.0
-                },
-                {
-                  "date": "2026-08-07",
-                  "price": 480.0
-                },
-                {
-                  "date": "2026-09-01",
-                  "price": 480.0
-                },
-                {
-                  "date": "2026-10-18",
-                  "price": 499.0
-                }
-              ],
-              "change": 19.0,
-              "ever_changed": true
-            },
-            {
-              "sku": "12415",
-              "brand": "3M",
-              "name": "3M ESPE Clinpro™ Sealant窝沟封闭剂（可变色 氟离子释放 光固化） 补充装 1.2ml*1支，黑色注射头*10个",
-              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/10114%2F72e7ba6dbdc303a1e7c444b583452842.png?x-oss-process=image/resize,h_300,w_300,m_lfit",
-              "product_url": "https://linkedcarefuture.com/#/search/list?text=3M ESPE",
-              "history": [
-                {
-                  "date": "2026-07-10",
-                  "price": 147.3
-                },
-                {
-                  "date": "2026-07-11",
-                  "price": 147.3
-                },
-                {
-                  "date": "2026-07-12",
-                  "price": 147.3
-                },
-                {
-                  "date": "2026-07-13",
-                  "price": 147.3
-                },
-                {
-                  "date": "2026-07-14",
-                  "price": 147.3
-                },
-                {
-                  "date": "2026-07-16",
-                  "price": 147.3
-                },
-                {
-                  "date": "2026-07-17",
-                  "price": 147.3
-                },
-                {
-                  "date": "2026-07-20",
-                  "price": 147.3
-                },
-                {
-                  "date": "2026-07-21",
-                  "price": 147.3
-                },
-                {
-                  "date": "2026-07-22",
-                  "price": 147.3
-                },
-                {
-                  "date": "2026-07-23",
-                  "price": 147.3
-                },
-                {
-                  "date": "2026-07-24",
-                  "price": 147.3
-                },
-                {
-                  "date": "2026-08-04",
-                  "price": 147.3
-                },
-                {
-                  "date": "2026-08-06",
-                  "price": 147.3
-                },
-                {
-                  "date": "2026-08-07",
-                  "price": 147.3
-                },
-                {
-                  "date": "2026-09-01",
-                  "price": 147.3
-                },
-                {
-                  "date": "2026-10-18",
-                  "price": 157.0
-                }
-              ],
-              "change": 9.7,
-              "ever_changed": true
-            },
-            {
-              "sku": "10168",
-              "brand": "3M",
-              "name": "3M ESPE Filtek Z350XT流动树脂（光固化纳米流动流体树脂） A3 2g*2支",
-              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/34912%2F2931eecfa8dd75191e07cf4acd68b8d5.png?x-oss-process=image/resize,h_300,w_300,m_lfit",
-              "product_url": "https://linkedcarefuture.com/#/search/list?text=3M ESPE",
-              "history": [
-                {
-                  "date": "2026-07-10",
-                  "price": 184.0
-                },
-                {
-                  "date": "2026-07-11",
-                  "price": 184.0
-                },
-                {
-                  "date": "2026-07-12",
-                  "price": 184.0
-                },
-                {
-                  "date": "2026-07-13",
-                  "price": 184.0
-                },
-                {
-                  "date": "2026-07-14",
-                  "price": 184.0
-                },
-                {
-                  "date": "2026-07-16",
-                  "price": 184.0
-                },
-                {
-                  "date": "2026-07-17",
-                  "price": 184.0
-                },
-                {
-                  "date": "2026-07-20",
-                  "price": 184.0
-                },
-                {
-                  "date": "2026-07-21",
-                  "price": 184.0
-                },
-                {
-                  "date": "2026-07-22",
-                  "price": 184.0
-                },
-                {
-                  "date": "2026-07-23",
-                  "price": 184.0
-                },
-                {
-                  "date": "2026-07-24",
-                  "price": 184.0
-                },
-                {
-                  "date": "2026-08-04",
-                  "price": 184.0
-                },
-                {
-                  "date": "2026-08-06",
-                  "price": 184.0
-                },
-                {
-                  "date": "2026-08-07",
-                  "price": 184.0
-                },
-                {
-                  "date": "2026-09-01",
-                  "price": 184.0
-                },
-                {
-                  "date": "2026-10-18",
-                  "price": 186.0
-                }
-              ],
-              "change": 2.0,
               "ever_changed": true
             },
             {
@@ -57683,6 +58038,176 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 184.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 184.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": true
+            },
+            {
+              "sku": "10168",
+              "brand": "3M",
+              "name": "3M ESPE Filtek Z350XT流动树脂（光固化纳米流动流体树脂） A3 2g*2支",
+              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/34912%2F2931eecfa8dd75191e07cf4acd68b8d5.png?x-oss-process=image/resize,h_300,w_300,m_lfit",
+              "product_url": "https://linkedcarefuture.com/#/search/list?text=3M ESPE",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 184.0
+                },
+                {
+                  "date": "2026-07-11",
+                  "price": 184.0
+                },
+                {
+                  "date": "2026-07-12",
+                  "price": 184.0
+                },
+                {
+                  "date": "2026-07-13",
+                  "price": 184.0
+                },
+                {
+                  "date": "2026-07-14",
+                  "price": 184.0
+                },
+                {
+                  "date": "2026-07-16",
+                  "price": 184.0
+                },
+                {
+                  "date": "2026-07-17",
+                  "price": 184.0
+                },
+                {
+                  "date": "2026-07-20",
+                  "price": 184.0
+                },
+                {
+                  "date": "2026-07-21",
+                  "price": 184.0
+                },
+                {
+                  "date": "2026-07-22",
+                  "price": 184.0
+                },
+                {
+                  "date": "2026-07-23",
+                  "price": 184.0
+                },
+                {
+                  "date": "2026-07-24",
+                  "price": 184.0
+                },
+                {
+                  "date": "2026-08-04",
+                  "price": 184.0
+                },
+                {
+                  "date": "2026-08-06",
+                  "price": 184.0
+                },
+                {
+                  "date": "2026-08-07",
+                  "price": 184.0
+                },
+                {
+                  "date": "2026-09-01",
+                  "price": 184.0
+                },
+                {
+                  "date": "2026-10-18",
+                  "price": 186.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 186.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": true
+            },
+            {
+              "sku": "12415",
+              "brand": "3M",
+              "name": "3M ESPE Clinpro™ Sealant窝沟封闭剂（可变色 氟离子释放 光固化） 补充装 1.2ml*1支，黑色注射头*10个",
+              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/10114%2F72e7ba6dbdc303a1e7c444b583452842.png?x-oss-process=image/resize,h_300,w_300,m_lfit",
+              "product_url": "https://linkedcarefuture.com/#/search/list?text=3M ESPE",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 147.3
+                },
+                {
+                  "date": "2026-07-11",
+                  "price": 147.3
+                },
+                {
+                  "date": "2026-07-12",
+                  "price": 147.3
+                },
+                {
+                  "date": "2026-07-13",
+                  "price": 147.3
+                },
+                {
+                  "date": "2026-07-14",
+                  "price": 147.3
+                },
+                {
+                  "date": "2026-07-16",
+                  "price": 147.3
+                },
+                {
+                  "date": "2026-07-17",
+                  "price": 147.3
+                },
+                {
+                  "date": "2026-07-20",
+                  "price": 147.3
+                },
+                {
+                  "date": "2026-07-21",
+                  "price": 147.3
+                },
+                {
+                  "date": "2026-07-22",
+                  "price": 147.3
+                },
+                {
+                  "date": "2026-07-23",
+                  "price": 147.3
+                },
+                {
+                  "date": "2026-07-24",
+                  "price": 147.3
+                },
+                {
+                  "date": "2026-08-04",
+                  "price": 147.3
+                },
+                {
+                  "date": "2026-08-06",
+                  "price": 147.3
+                },
+                {
+                  "date": "2026-08-07",
+                  "price": 147.3
+                },
+                {
+                  "date": "2026-09-01",
+                  "price": 147.3
+                },
+                {
+                  "date": "2026-10-18",
+                  "price": 157.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 157.0
                 }
               ],
               "change": 0.0,
@@ -57762,6 +58287,93 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 139.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 139.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": true
+            },
+            {
+              "sku": "13001",
+              "brand": "3M",
+              "name": "3M ESPE Protemp™  4 临时冠桥树脂材料 枪混自凝补充装 A3 67g/支，混合头*16",
+              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/12209%2Ffe34fba9a07be5c00bf940e98024636b.png?x-oss-process=image/resize,h_300,w_300,m_lfit",
+              "product_url": "https://linkedcarefuture.com/#/search/list?text=3M ESPE",
+              "history": [
+                {
+                  "date": "2026-07-10",
+                  "price": 480.0
+                },
+                {
+                  "date": "2026-07-11",
+                  "price": 480.0
+                },
+                {
+                  "date": "2026-07-12",
+                  "price": 480.0
+                },
+                {
+                  "date": "2026-07-13",
+                  "price": 480.0
+                },
+                {
+                  "date": "2026-07-14",
+                  "price": 480.0
+                },
+                {
+                  "date": "2026-07-16",
+                  "price": 480.0
+                },
+                {
+                  "date": "2026-07-17",
+                  "price": 480.0
+                },
+                {
+                  "date": "2026-07-20",
+                  "price": 480.0
+                },
+                {
+                  "date": "2026-07-21",
+                  "price": 480.0
+                },
+                {
+                  "date": "2026-07-22",
+                  "price": 480.0
+                },
+                {
+                  "date": "2026-07-23",
+                  "price": 480.0
+                },
+                {
+                  "date": "2026-07-24",
+                  "price": 480.0
+                },
+                {
+                  "date": "2026-08-04",
+                  "price": 480.0
+                },
+                {
+                  "date": "2026-08-06",
+                  "price": 480.0
+                },
+                {
+                  "date": "2026-08-07",
+                  "price": 480.0
+                },
+                {
+                  "date": "2026-09-01",
+                  "price": 480.0
+                },
+                {
+                  "date": "2026-10-18",
+                  "price": 499.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 499.0
                 }
               ],
               "change": 0.0,
@@ -57812,6 +58424,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 641.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 641.0
                 }
               ],
@@ -57892,6 +58508,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 172.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 172.0
                 }
               ],
               "change": 0.0,
@@ -57970,6 +58590,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 153.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 153.0
                 }
               ],
@@ -58050,6 +58674,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 502.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 502.0
                 }
               ],
               "change": 0.0,
@@ -58128,6 +58756,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 575.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 575.0
                 }
               ],
@@ -58208,6 +58840,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 96.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 96.0
                 }
               ],
               "change": 0.0,
@@ -58287,6 +58923,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 815.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 815.0
                 }
               ],
               "change": 0.0,
@@ -58341,6 +58981,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 356.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 356.0
                 }
               ],
@@ -58420,6 +59064,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 133.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 133.0
                 }
               ],
@@ -58626,6 +59274,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 115.8
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 115.8
                 }
               ],
               "change": 0.0,
@@ -58783,6 +59435,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-09-01",
                   "price": 1465.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 1465.0
                 }
               ],
               "change": 0.0,
@@ -58809,6 +59465,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-07-24",
+                  "price": 189.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 189.0
                 }
               ],
@@ -58860,6 +59520,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-08-06",
+                  "price": 69.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 69.0
                 }
               ],
@@ -58972,9 +59636,28 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 888.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 888.0
                 }
               ],
               "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "10173",
+              "brand": "3M",
+              "name": "3M ESPE Ketac™ Cem Easymix 玻璃离子水门汀 粘冠 化学固化 粉剂补充装 补充装（粉剂30g）",
+              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/43811%2F20240520052550373wHhjIl.jpg?x-oss-process=image/resize,h_300,w_300,m_lfit",
+              "product_url": "https://linkedcarefuture.com/#/search/list?text=3M ESPE",
+              "history": [
+                {
+                  "date": "2026-10-19",
+                  "price": 260.0
+                }
+              ],
+              "change": 0,
               "ever_changed": false
             }
           ]
@@ -59285,6 +59968,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 233.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 233.0
                 }
               ],
               "change": 0.0,
@@ -59519,6 +60206,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 137.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 137.0
                 }
               ],
@@ -59755,6 +60446,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 320.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 320.0
                 }
               ],
               "change": 0.0,
@@ -59893,6 +60588,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 80.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 80.0
                 }
               ],
@@ -60296,6 +60995,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 180.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 180.0
                 }
               ],
               "change": 0.0,
@@ -60530,6 +61233,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 570.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 570.0
                 }
               ],
@@ -60825,6 +61532,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 600.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 600.0
                 }
               ],
               "change": 0.0,
@@ -61047,6 +61758,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 63.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 63.0
                 }
               ],
@@ -61358,6 +62073,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 120.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 120.0
                 }
               ],
               "change": 0.0,
@@ -61412,6 +62131,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 148.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 148.0
                 }
               ],
               "change": 0.0,
@@ -61427,9 +62150,13 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 310.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 310.0
                 }
               ],
-              "change": 0,
+              "change": 0.0,
               "ever_changed": false
             },
             {
@@ -61442,9 +62169,13 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 330.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 330.0
                 }
               ],
-              "change": 0,
+              "change": 0.0,
               "ever_changed": false
             }
           ]
@@ -75225,410 +75956,6 @@ window.DASHBOARD_DATA = {
           "count": 33,
           "products": [
             {
-              "sku": "30158",
-              "brand": "奥美科",
-              "name": "奥美科/Ormco 正畸金属托槽（Damon Q2 / DQ2）（非电商款） 上/下5-5标准转矩",
-              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/63841%2F20260717053105930LAH9cx.png?x-oss-process=image/resize,h_300,w_300,m_lfit",
-              "product_url": "https://linkedcarefuture.com/#/search/list?text=Ormco",
-              "history": [
-                {
-                  "date": "2026-07-20",
-                  "price": 1800.0
-                },
-                {
-                  "date": "2026-07-21",
-                  "price": 1800.0
-                },
-                {
-                  "date": "2026-07-22",
-                  "price": 1800.0
-                },
-                {
-                  "date": "2026-07-23",
-                  "price": 1800.0
-                },
-                {
-                  "date": "2026-07-24",
-                  "price": 1800.0
-                },
-                {
-                  "date": "2026-08-04",
-                  "price": 1800.0
-                },
-                {
-                  "date": "2026-08-06",
-                  "price": 1800.0
-                },
-                {
-                  "date": "2026-08-07",
-                  "price": 1800.0
-                },
-                {
-                  "date": "2026-09-01",
-                  "price": 1800.0
-                },
-                {
-                  "date": "2026-10-18",
-                  "price": 1599.0
-                }
-              ],
-              "change": -201.0,
-              "ever_changed": true
-            },
-            {
-              "sku": "6818",
-              "brand": "奥美科",
-              "name": "奥美科/Ormco GRENGLOO双变色粘接剂（绿胶） 补充装:注射装Grengloo粘接剂（4g/支*1）",
-              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/36352%2Fd76df804b81d046aa2b9cf828e7b4754.png?x-oss-process=image/resize,h_300,w_300,m_lfit",
-              "product_url": "https://linkedcarefuture.com/#/search/list?text=奥美科",
-              "history": [
-                {
-                  "date": "2026-06-28",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-06-29",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-06-30",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-01",
-                  "price": 189.0
-                },
-                {
-                  "date": "2026-07-02",
-                  "price": 189.0
-                },
-                {
-                  "date": "2026-07-04",
-                  "price": 169.0
-                },
-                {
-                  "date": "2026-07-05",
-                  "price": 169.0
-                },
-                {
-                  "date": "2026-07-06",
-                  "price": 169.0
-                },
-                {
-                  "date": "2026-07-07",
-                  "price": 169.0
-                },
-                {
-                  "date": "2026-07-08",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-09",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-10",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-11",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-12",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-13",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-14",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-16",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-17",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-20",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-21",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-22",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-23",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-07-24",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-08-04",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-08-06",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-08-07",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-09-01",
-                  "price": 199.0
-                },
-                {
-                  "date": "2026-10-18",
-                  "price": 225.0
-                }
-              ],
-              "change": 26.0,
-              "ever_changed": true
-            },
-            {
-              "sku": "29826",
-              "brand": "奥美科",
-              "name": "奥美科/Ormco Damon Q 金属自锁托槽(不含颊面管)+牵引圈套装 标准转矩 5-5+兔子牵引圈50包",
-              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/62112%2Fc2abaaf93506039aa77c29826b1785e2.png?x-oss-process=image/resize,h_300,w_300,m_lfit",
-              "product_url": "https://linkedcarefuture.com/#/search/list?text=Damon",
-              "history": [
-                {
-                  "date": "2026-07-01",
-                  "price": 1768.0
-                },
-                {
-                  "date": "2026-07-02",
-                  "price": 1768.0
-                },
-                {
-                  "date": "2026-07-04",
-                  "price": 1768.0
-                },
-                {
-                  "date": "2026-07-05",
-                  "price": 1768.0
-                },
-                {
-                  "date": "2026-07-06",
-                  "price": 1768.0
-                },
-                {
-                  "date": "2026-07-07",
-                  "price": 1768.0
-                },
-                {
-                  "date": "2026-07-08",
-                  "price": 1768.0
-                },
-                {
-                  "date": "2026-07-09",
-                  "price": 1768.0
-                },
-                {
-                  "date": "2026-07-10",
-                  "price": 1768.0
-                },
-                {
-                  "date": "2026-07-11",
-                  "price": 1768.0
-                },
-                {
-                  "date": "2026-07-12",
-                  "price": 1768.0
-                },
-                {
-                  "date": "2026-07-13",
-                  "price": 1768.0
-                },
-                {
-                  "date": "2026-07-14",
-                  "price": 1768.0
-                },
-                {
-                  "date": "2026-07-16",
-                  "price": 1768.0
-                },
-                {
-                  "date": "2026-07-17",
-                  "price": 1768.0
-                },
-                {
-                  "date": "2026-07-20",
-                  "price": 1768.0
-                },
-                {
-                  "date": "2026-07-21",
-                  "price": 1768.0
-                },
-                {
-                  "date": "2026-07-22",
-                  "price": 1768.0
-                },
-                {
-                  "date": "2026-07-23",
-                  "price": 1768.0
-                },
-                {
-                  "date": "2026-07-24",
-                  "price": 1768.0
-                },
-                {
-                  "date": "2026-08-04",
-                  "price": 1768.0
-                },
-                {
-                  "date": "2026-08-06",
-                  "price": 1768.0
-                },
-                {
-                  "date": "2026-08-07",
-                  "price": 1768.0
-                },
-                {
-                  "date": "2026-09-01",
-                  "price": 1809.0
-                },
-                {
-                  "date": "2026-10-18",
-                  "price": 1788.0
-                }
-              ],
-              "change": -21.0,
-              "ever_changed": true
-            },
-            {
-              "sku": "6859",
-              "brand": "奥美科",
-              "name": "奥美科 正畸橡皮圈（Ⅱ代 链状橡皮圈） 短距 Closed Space（密 4m/卷）",
-              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/3656%2F9472c2e6274a7511ad2136e38d4e39bf.png?x-oss-process=image/resize,h_300,w_300,m_lfit",
-              "product_url": "https://linkedcarefuture.com/#/search/list?text=奥美科",
-              "history": [
-                {
-                  "date": "2026-06-28",
-                  "price": 175.0
-                },
-                {
-                  "date": "2026-06-29",
-                  "price": 175.0
-                },
-                {
-                  "date": "2026-06-30",
-                  "price": 175.0
-                },
-                {
-                  "date": "2026-07-01",
-                  "price": 175.0
-                },
-                {
-                  "date": "2026-07-02",
-                  "price": 175.0
-                },
-                {
-                  "date": "2026-07-04",
-                  "price": 175.0
-                },
-                {
-                  "date": "2026-07-05",
-                  "price": 175.0
-                },
-                {
-                  "date": "2026-07-06",
-                  "price": 175.0
-                },
-                {
-                  "date": "2026-07-07",
-                  "price": 175.0
-                },
-                {
-                  "date": "2026-07-08",
-                  "price": 175.0
-                },
-                {
-                  "date": "2026-07-09",
-                  "price": 175.0
-                },
-                {
-                  "date": "2026-07-10",
-                  "price": 175.0
-                },
-                {
-                  "date": "2026-07-11",
-                  "price": 175.0
-                },
-                {
-                  "date": "2026-07-12",
-                  "price": 175.0
-                },
-                {
-                  "date": "2026-07-13",
-                  "price": 175.0
-                },
-                {
-                  "date": "2026-07-14",
-                  "price": 175.0
-                },
-                {
-                  "date": "2026-07-16",
-                  "price": 175.0
-                },
-                {
-                  "date": "2026-07-17",
-                  "price": 175.0
-                },
-                {
-                  "date": "2026-07-20",
-                  "price": 175.0
-                },
-                {
-                  "date": "2026-07-21",
-                  "price": 175.0
-                },
-                {
-                  "date": "2026-07-22",
-                  "price": 175.0
-                },
-                {
-                  "date": "2026-07-24",
-                  "price": 175.0
-                },
-                {
-                  "date": "2026-08-04",
-                  "price": 175.0
-                },
-                {
-                  "date": "2026-08-06",
-                  "price": 175.0
-                },
-                {
-                  "date": "2026-08-07",
-                  "price": 175.0
-                },
-                {
-                  "date": "2026-09-01",
-                  "price": 175.0
-                },
-                {
-                  "date": "2026-10-18",
-                  "price": 195.0
-                }
-              ],
-              "change": 20.0,
-              "ever_changed": true
-            },
-            {
               "sku": "6808",
               "brand": "奥美科",
               "name": "奥美科/Ormco Damon Q 金属自锁托槽（不含颊面管） 标准转矩 5-5，740-1503",
@@ -75745,6 +76072,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 1599.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 1599.0
                 }
               ],
@@ -75869,6 +76200,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 179.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 179.0
                 }
               ],
               "change": 0.0,
@@ -75991,6 +76326,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 1599.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 1599.0
                 }
               ],
@@ -76115,6 +76454,260 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 2380.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 2380.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": true
+            },
+            {
+              "sku": "6818",
+              "brand": "奥美科",
+              "name": "奥美科/Ormco GRENGLOO双变色粘接剂（绿胶） 补充装:注射装Grengloo粘接剂（4g/支*1）",
+              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/36352%2Fd76df804b81d046aa2b9cf828e7b4754.png?x-oss-process=image/resize,h_300,w_300,m_lfit",
+              "product_url": "https://linkedcarefuture.com/#/search/list?text=奥美科",
+              "history": [
+                {
+                  "date": "2026-06-28",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-06-29",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 189.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 189.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 169.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 169.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 169.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 169.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-11",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-12",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-13",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-14",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-16",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-17",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-20",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-21",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-22",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-23",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-07-24",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-08-04",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-08-06",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-08-07",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-09-01",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-10-18",
+                  "price": 225.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 225.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": true
+            },
+            {
+              "sku": "6859",
+              "brand": "奥美科",
+              "name": "奥美科 正畸橡皮圈（Ⅱ代 链状橡皮圈） 短距 Closed Space（密 4m/卷）",
+              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/3656%2F9472c2e6274a7511ad2136e38d4e39bf.png?x-oss-process=image/resize,h_300,w_300,m_lfit",
+              "product_url": "https://linkedcarefuture.com/#/search/list?text=奥美科",
+              "history": [
+                {
+                  "date": "2026-06-28",
+                  "price": 175.0
+                },
+                {
+                  "date": "2026-06-29",
+                  "price": 175.0
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 175.0
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 175.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 175.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 175.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 175.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 175.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 175.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 175.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 175.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 175.0
+                },
+                {
+                  "date": "2026-07-11",
+                  "price": 175.0
+                },
+                {
+                  "date": "2026-07-12",
+                  "price": 175.0
+                },
+                {
+                  "date": "2026-07-13",
+                  "price": 175.0
+                },
+                {
+                  "date": "2026-07-14",
+                  "price": 175.0
+                },
+                {
+                  "date": "2026-07-16",
+                  "price": 175.0
+                },
+                {
+                  "date": "2026-07-17",
+                  "price": 175.0
+                },
+                {
+                  "date": "2026-07-20",
+                  "price": 175.0
+                },
+                {
+                  "date": "2026-07-21",
+                  "price": 175.0
+                },
+                {
+                  "date": "2026-07-22",
+                  "price": 175.0
+                },
+                {
+                  "date": "2026-07-24",
+                  "price": 175.0
+                },
+                {
+                  "date": "2026-08-04",
+                  "price": 175.0
+                },
+                {
+                  "date": "2026-08-06",
+                  "price": 175.0
+                },
+                {
+                  "date": "2026-08-07",
+                  "price": 175.0
+                },
+                {
+                  "date": "2026-09-01",
+                  "price": 175.0
+                },
+                {
+                  "date": "2026-10-18",
+                  "price": 195.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 195.0
                 }
               ],
               "change": 0.0,
@@ -76238,6 +76831,180 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 330.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 330.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": true
+            },
+            {
+              "sku": "29826",
+              "brand": "奥美科",
+              "name": "奥美科/Ormco Damon Q 金属自锁托槽(不含颊面管)+牵引圈套装 标准转矩 5-5+兔子牵引圈50包",
+              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/62112%2Fc2abaaf93506039aa77c29826b1785e2.png?x-oss-process=image/resize,h_300,w_300,m_lfit",
+              "product_url": "https://linkedcarefuture.com/#/search/list?text=Damon",
+              "history": [
+                {
+                  "date": "2026-07-01",
+                  "price": 1768.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 1768.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 1768.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 1768.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 1768.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 1768.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 1768.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 1768.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 1768.0
+                },
+                {
+                  "date": "2026-07-11",
+                  "price": 1768.0
+                },
+                {
+                  "date": "2026-07-12",
+                  "price": 1768.0
+                },
+                {
+                  "date": "2026-07-13",
+                  "price": 1768.0
+                },
+                {
+                  "date": "2026-07-14",
+                  "price": 1768.0
+                },
+                {
+                  "date": "2026-07-16",
+                  "price": 1768.0
+                },
+                {
+                  "date": "2026-07-17",
+                  "price": 1768.0
+                },
+                {
+                  "date": "2026-07-20",
+                  "price": 1768.0
+                },
+                {
+                  "date": "2026-07-21",
+                  "price": 1768.0
+                },
+                {
+                  "date": "2026-07-22",
+                  "price": 1768.0
+                },
+                {
+                  "date": "2026-07-23",
+                  "price": 1768.0
+                },
+                {
+                  "date": "2026-07-24",
+                  "price": 1768.0
+                },
+                {
+                  "date": "2026-08-04",
+                  "price": 1768.0
+                },
+                {
+                  "date": "2026-08-06",
+                  "price": 1768.0
+                },
+                {
+                  "date": "2026-08-07",
+                  "price": 1768.0
+                },
+                {
+                  "date": "2026-09-01",
+                  "price": 1809.0
+                },
+                {
+                  "date": "2026-10-18",
+                  "price": 1788.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 1788.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": true
+            },
+            {
+              "sku": "30158",
+              "brand": "奥美科",
+              "name": "奥美科/Ormco 正畸金属托槽（Damon Q2 / DQ2）（非电商款） 上/下5-5标准转矩",
+              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/63841%2F20260717053105930LAH9cx.png?x-oss-process=image/resize,h_300,w_300,m_lfit",
+              "product_url": "https://linkedcarefuture.com/#/search/list?text=Ormco",
+              "history": [
+                {
+                  "date": "2026-07-20",
+                  "price": 1800.0
+                },
+                {
+                  "date": "2026-07-21",
+                  "price": 1800.0
+                },
+                {
+                  "date": "2026-07-22",
+                  "price": 1800.0
+                },
+                {
+                  "date": "2026-07-23",
+                  "price": 1800.0
+                },
+                {
+                  "date": "2026-07-24",
+                  "price": 1800.0
+                },
+                {
+                  "date": "2026-08-04",
+                  "price": 1800.0
+                },
+                {
+                  "date": "2026-08-06",
+                  "price": 1800.0
+                },
+                {
+                  "date": "2026-08-07",
+                  "price": 1800.0
+                },
+                {
+                  "date": "2026-09-01",
+                  "price": 1800.0
+                },
+                {
+                  "date": "2026-10-18",
+                  "price": 1599.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 1599.0
                 }
               ],
               "change": 0.0,
@@ -76360,6 +77127,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 1632.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 1632.0
                 }
               ],
@@ -76484,6 +77255,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 94.9
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 94.9
                 }
               ],
               "change": 0.0,
@@ -76606,6 +77381,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 122.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 122.0
                 }
               ],
@@ -76730,6 +77509,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 60.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 60.0
                 }
               ],
               "change": 0.0,
@@ -76848,6 +77631,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 120.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 120.0
                 }
               ],
@@ -76972,6 +77759,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 137.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 137.0
                 }
               ],
               "change": 0.0,
@@ -77094,6 +77885,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 99.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 99.0
                 }
               ],
@@ -77218,6 +78013,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 600.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 600.0
                 }
               ],
               "change": 0.0,
@@ -77332,6 +78131,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 140.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 140.0
                 }
               ],
@@ -77547,6 +78350,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 110.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 110.0
                 }
               ],
               "change": 0.0,
@@ -77670,6 +78477,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 256.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 256.0
                 }
               ],
               "change": 0.0,
@@ -77789,6 +78600,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 277.1
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 277.1
                 }
               ],
               "change": 0.0,
@@ -77904,6 +78719,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 233.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 233.0
                 }
               ],
               "change": 0.0,
@@ -78015,6 +78834,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 63.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 63.0
                 }
               ],
               "change": 0.0,
@@ -78125,6 +78948,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 2380.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 2380.0
                 }
               ],
@@ -78308,6 +79135,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 2380.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 2380.0
                 }
               ],
               "change": 0.0,
@@ -78419,6 +79250,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 1063.2
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 1063.2
                 }
               ],
               "change": 0.0,
@@ -78526,9 +79361,13 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 138.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 138.0
                 }
               ],
-              "change": 0,
+              "change": 0.0,
               "ever_changed": false
             }
           ]
@@ -78540,7 +79379,7 @@ window.DASHBOARD_DATA = {
       "platforms": [
         {
           "name": "励齿",
-          "count": 149,
+          "count": 151,
           "products": [
             {
               "sku": "300890",
@@ -78759,6 +79598,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 28.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 28.0
                 }
               ],
@@ -78983,6 +79826,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 14.9
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 14.9
                 }
               ],
               "change": 0.0,
@@ -79129,6 +79976,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 50.0
                 }
               ],
@@ -79353,6 +80204,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 63.5
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 63.5
                 }
               ],
               "change": 0.0,
@@ -79575,6 +80430,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 250.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 250.0
                 }
               ],
@@ -79799,6 +80658,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 355.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 355.0
                 }
               ],
               "change": 0.0,
@@ -80021,6 +80884,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 330.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 330.0
                 }
               ],
@@ -80245,6 +81112,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 613.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 613.0
                 }
               ],
               "change": 0.0,
@@ -80467,6 +81338,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 303.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 303.0
                 }
               ],
@@ -80691,6 +81566,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 350.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 350.0
                 }
               ],
               "change": 0.0,
@@ -80913,6 +81792,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 330.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 330.0
                 }
               ],
@@ -81137,6 +82020,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 28.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 28.0
                 }
               ],
               "change": 0.0,
@@ -81359,6 +82246,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 41.9
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 41.9
                 }
               ],
@@ -81583,6 +82474,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 340.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 340.0
                 }
               ],
               "change": 0.0,
@@ -81805,6 +82700,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 31.8
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 31.8
                 }
               ],
@@ -82029,6 +82928,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 330.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 330.0
                 }
               ],
               "change": 0.0,
@@ -82251,6 +83154,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 328.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 328.0
                 }
               ],
@@ -82475,6 +83382,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 21.5
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 21.5
                 }
               ],
               "change": 0.0,
@@ -82697,6 +83608,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 71.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 71.0
                 }
               ],
@@ -82921,6 +83836,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 321.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 321.0
                 }
               ],
               "change": 0.0,
@@ -83144,6 +84063,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 67.9
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 67.9
                 }
               ],
               "change": 0.0,
@@ -83362,6 +84285,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 35.9
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 35.9
                 }
               ],
@@ -83585,6 +84512,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 25.8
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 25.8
                 }
               ],
@@ -84050,6 +84981,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 28.64
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 28.64
                 }
               ],
               "change": 0.0,
@@ -84096,6 +85031,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 58.5
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 58.5
                 }
               ],
@@ -84431,6 +85370,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 25.02
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 25.02
                 }
               ],
               "change": 0.0,
@@ -84653,6 +85596,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 390.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 390.0
                 }
               ],
@@ -84877,6 +85824,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 29.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 29.0
                 }
               ],
               "change": 0.0,
@@ -85067,6 +86018,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 23.66
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 23.66
                 }
               ],
@@ -85291,6 +86246,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 350.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 350.0
                 }
               ],
               "change": 0.0,
@@ -85477,6 +86436,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 53.63
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 53.63
                 }
               ],
@@ -85700,6 +86663,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 18.88
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 18.88
                 }
               ],
@@ -86047,6 +87014,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 45.76
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 45.76
                 }
               ],
               "change": 0.0,
@@ -86269,6 +87240,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 308.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 308.0
                 }
               ],
@@ -86493,6 +87468,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 29.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 29.0
                 }
               ],
               "change": 0.0,
@@ -86715,6 +87694,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 117.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 117.0
                 }
               ],
@@ -86962,6 +87945,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 31.7
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 31.7
                 }
               ],
               "change": 0.0,
@@ -87185,6 +88172,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 28.8
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 28.8
                 }
               ],
               "change": 0.0,
@@ -87407,6 +88398,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 25.8
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 25.8
                 }
               ],
@@ -87754,6 +88749,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 5.7
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 5.7
                 }
               ],
               "change": 0.0,
@@ -87976,6 +88975,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 14.9
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 14.9
                 }
               ],
@@ -88200,6 +89203,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 330.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 330.0
                 }
               ],
               "change": 0.0,
@@ -88342,6 +89349,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 139.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 139.0
                 }
               ],
@@ -88565,6 +89576,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 35.5
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 35.5
                 }
               ],
@@ -89203,6 +90218,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 28.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 28.0
                 }
               ],
               "change": 0.0,
@@ -89426,6 +90445,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 25.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 25.0
                 }
               ],
               "change": 0.0,
@@ -89548,6 +90571,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 135.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 135.0
                 }
               ],
@@ -89772,6 +90799,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 22.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 22.0
                 }
               ],
               "change": 0.0,
@@ -89994,6 +91025,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 21.58
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 21.58
                 }
               ],
@@ -90218,6 +91253,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 330.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 330.0
                 }
               ],
               "change": 0.0,
@@ -90441,6 +91480,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 14.53
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 14.53
                 }
               ],
               "change": 0.0,
@@ -90659,6 +91702,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 39.43
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 39.43
                 }
               ],
@@ -90883,6 +91930,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 119.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 119.0
                 }
               ],
               "change": 0.0,
@@ -91101,6 +92152,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 330.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 330.0
                 }
               ],
@@ -91325,6 +92380,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 314.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 314.0
                 }
               ],
               "change": 0.0,
@@ -91547,6 +92606,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 22.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 22.0
                 }
               ],
@@ -91771,6 +92834,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 41.5
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 41.5
                 }
               ],
               "change": 0.0,
@@ -91993,6 +93060,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 25.32
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 25.32
                 }
               ],
@@ -92217,6 +93288,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 36.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 36.0
                 }
               ],
               "change": 0.0,
@@ -92403,6 +93478,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 40.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 40.0
                 }
               ],
@@ -92627,6 +93706,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 330.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 330.0
                 }
               ],
               "change": 0.0,
@@ -92850,6 +93933,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 330.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 330.0
                 }
               ],
               "change": 0.0,
@@ -93072,6 +94159,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 600.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 600.0
                 }
               ],
@@ -93308,6 +94399,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 330.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 330.0
                 }
               ],
               "change": 0.0,
@@ -93531,6 +94626,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 18.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 18.0
                 }
               ],
               "change": 0.0,
@@ -93749,6 +94848,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 25.8
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 25.8
                 }
               ],
@@ -93973,6 +95076,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 16.6
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 16.6
                 }
               ],
               "change": 0.0,
@@ -94195,6 +95302,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 143.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 143.0
                 }
               ],
@@ -94419,6 +95530,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 80.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 80.0
                 }
               ],
               "change": 0.0,
@@ -94641,6 +95756,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 36.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 36.0
                 }
               ],
@@ -94865,6 +95984,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 330.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 330.0
                 }
               ],
               "change": 0.0,
@@ -95087,6 +96210,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 35.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 35.0
                 }
               ],
@@ -95518,6 +96645,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 280.54
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 280.54
                 }
               ],
               "change": 0.0,
@@ -95740,6 +96871,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 29.8
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 29.8
                 }
               ],
@@ -95964,6 +97099,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 49.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 49.0
                 }
               ],
               "change": 0.0,
@@ -96187,6 +97326,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 303.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 303.0
                 }
               ],
               "change": 0.0,
@@ -96409,6 +97552,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 357.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 357.0
                 }
               ],
@@ -96744,6 +97891,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 42.9
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 42.9
                 }
               ],
               "change": 0.0,
@@ -96966,6 +98117,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 184.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 184.0
                 }
               ],
@@ -97190,6 +98345,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 316.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 316.0
                 }
               ],
               "change": 0.0,
@@ -97412,6 +98571,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 304.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 304.0
                 }
               ],
@@ -97636,6 +98799,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 29.8
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 29.8
                 }
               ],
               "change": 0.0,
@@ -97858,6 +99025,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 330.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 330.0
                 }
               ],
@@ -98082,6 +99253,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 390.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 390.0
                 }
               ],
               "change": 0.0,
@@ -98296,6 +99471,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 139.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 139.0
                 }
               ],
@@ -98519,6 +99698,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 70.14
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 70.14
                 }
               ],
@@ -98950,6 +100133,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 330.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 330.0
                 }
               ],
               "change": 0.0,
@@ -99152,6 +100339,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 35.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 35.0
                 }
               ],
@@ -99578,6 +100769,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 59.01
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 59.01
                 }
               ],
               "change": 0.0,
@@ -99863,6 +101058,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 58.5
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 58.5
                 }
               ],
               "change": 0.0,
@@ -100056,6 +101255,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-08",
+                  "price": 105.9
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 105.9
                 }
               ],
@@ -101039,6 +102242,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-15",
                   "price": 25.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 25.0
                 }
               ],
               "change": 0.0,
@@ -101146,6 +102353,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 612.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 612.0
                 }
               ],
               "change": 0.0,
@@ -101172,6 +102383,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 34.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 34.0
                 }
               ],
@@ -101238,6 +102453,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 41.5
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 41.5
                 }
               ],
               "change": 0.0,
@@ -101265,6 +102484,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 332.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 332.0
                 }
               ],
               "change": 0.0,
@@ -101291,6 +102514,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 45.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 45.0
                 }
               ],
@@ -101326,6 +102553,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 58.5
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 58.5
                 }
               ],
               "change": 0.0,
@@ -101341,6 +102572,36 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-15",
                   "price": 25.8
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "300779",
+              "brand": "新亚·SHINYE",
+              "name": "新亚 标准型方丝弓带环 5121-20B-21 .022\" 第一磨牙 21#",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/1495090627580.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=300779",
+              "history": [
+                {
+                  "date": "2026-10-19",
+                  "price": 15.2
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "316692",
+              "brand": "新亚·SHINYE",
+              "name": "新亚  标准型直丝弓带环（S系列）  第二磨牙4*1  5212-20B-28",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/42a51da71c3e4f5eb1779e456d84d77b.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=316692",
+              "history": [
+                {
+                  "date": "2026-10-19",
+                  "price": 25.5
                 }
               ],
               "change": 0,
@@ -111934,6 +113195,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 25.8
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 25.8
                 }
               ],
               "change": 0.0,
@@ -112044,6 +113309,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 34.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 34.0
                 }
               ],
@@ -112156,6 +113425,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 25.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 25.0
                 }
               ],
               "change": 0.0,
@@ -112266,6 +113539,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 142.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 142.0
                 }
               ],
@@ -112378,6 +113655,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 72.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 72.0
                 }
               ],
               "change": 0.0,
@@ -112488,6 +113769,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 25.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 25.0
                 }
               ],
@@ -112600,6 +113885,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 119.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 119.0
                 }
               ],
               "change": 0.0,
@@ -112710,6 +113999,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 38.8
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 38.8
                 }
               ],
@@ -112822,6 +114115,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 35.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 35.0
                 }
               ],
               "change": 0.0,
@@ -112933,6 +114230,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 45.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 45.0
                 }
               ],
               "change": 0.0,
@@ -113035,6 +114336,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 43.9
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 43.9
                 }
               ],
@@ -113146,6 +114451,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 105.9
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 105.9
                 }
               ],
@@ -113341,6 +114650,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 25.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 25.0
                 }
               ],
               "change": 0.0,
@@ -113451,6 +114764,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 35.9
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 35.9
                 }
               ],
@@ -113563,6 +114880,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 25.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 25.0
                 }
               ],
               "change": 0.0,
@@ -113674,6 +114995,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 48.2
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 48.2
                 }
               ],
               "change": 0.0,
@@ -113784,6 +115109,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 71.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 71.0
                 }
               ],
@@ -113943,6 +115272,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 4.9
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 4.9
                 }
               ],
               "change": 0.0,
@@ -114012,6 +115345,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 341.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 341.0
                 }
               ],
               "change": 0.0,
@@ -114050,9 +115387,13 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 304.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 304.0
                 }
               ],
-              "change": 0,
+              "change": 0.0,
               "ever_changed": false
             }
           ]
@@ -114350,6 +115691,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 14.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 14.0
                 }
               ],
@@ -114681,6 +116026,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 490.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 490.0
                 }
               ],
               "change": 0.0,
@@ -114739,6 +116088,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-08-26",
+                  "price": 490.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 490.0
                 }
               ],
@@ -114970,6 +116323,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 108.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 108.0
                 }
               ],
@@ -115206,6 +116563,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 22.5
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 22.5
                 }
               ],
               "change": 0.0,
@@ -115416,6 +116777,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 1200.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 1200.0
                 }
               ],
@@ -115773,6 +117138,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 490.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 490.0
                 }
               ],
               "change": 0.0,
@@ -115842,6 +117211,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 399.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 399.0
                 }
               ],
@@ -116658,6 +118031,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 15.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 15.0
                 }
               ],
               "change": 0.0,
@@ -116892,6 +118269,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 35.2
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 35.2
                 }
               ],
@@ -117128,6 +118509,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 15.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 15.0
                 }
               ],
               "change": 0.0,
@@ -117362,6 +118747,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 15.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 15.0
                 }
               ],
@@ -117598,6 +118987,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 15.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 15.0
                 }
               ],
               "change": 0.0,
@@ -117833,6 +119226,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 1100.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 1100.0
                 }
               ],
               "change": 0.0,
@@ -118067,6 +119464,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 3.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 3.0
                 }
               ],
@@ -118514,6 +119915,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 15.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 15.0
                 }
               ],
               "change": 0.0,
@@ -118748,6 +120153,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 40.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 40.0
                 }
               ],
@@ -118984,6 +120393,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 120.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 120.0
                 }
               ],
               "change": 0.0,
@@ -119218,6 +120631,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 14.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 14.0
                 }
               ],
@@ -119454,6 +120871,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 15.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 15.0
                 }
               ],
               "change": 0.0,
@@ -119688,6 +121109,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 15.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 15.0
                 }
               ],
@@ -119924,6 +121349,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 14.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 14.0
                 }
               ],
               "change": 0.0,
@@ -120159,6 +121588,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 97.94
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 97.94
                 }
               ],
               "change": 0.0,
@@ -120393,6 +121826,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 350.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 350.0
                 }
               ],
@@ -120783,6 +122220,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 900.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 900.0
                 }
               ],
               "change": 0.0,
@@ -121149,6 +122590,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 450.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 450.0
                 }
               ],
               "change": 0.0,
@@ -121383,6 +122828,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 19.5
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 19.5
                 }
               ],
@@ -121619,6 +123068,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 300.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 300.0
                 }
               ],
               "change": 0.0,
@@ -121853,6 +123306,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 15.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 15.0
                 }
               ],
@@ -122089,6 +123546,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 15.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 15.0
                 }
               ],
               "change": 0.0,
@@ -122323,6 +123784,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 40.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 40.0
                 }
               ],
@@ -122559,6 +124024,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 40.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 40.0
                 }
               ],
               "change": 0.0,
@@ -122793,6 +124262,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 50.0
                 }
               ],
@@ -123029,6 +124502,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 18.5
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 18.5
                 }
               ],
               "change": 0.0,
@@ -123263,6 +124740,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 29.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 29.0
                 }
               ],
@@ -123499,6 +124980,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 15.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 15.0
                 }
               ],
               "change": 0.0,
@@ -123733,6 +125218,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 22.5
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 22.5
                 }
               ],
@@ -123969,6 +125458,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 15.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 15.0
                 }
               ],
               "change": 0.0,
@@ -124203,6 +125696,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 30.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 30.0
                 }
               ],
@@ -124439,6 +125936,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 350.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 350.0
                 }
               ],
               "change": 0.0,
@@ -124665,6 +126166,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 240.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 240.0
                 }
               ],
@@ -124901,6 +126406,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 175.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 175.0
                 }
               ],
               "change": 0.0,
@@ -125135,6 +126644,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 300.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 300.0
                 }
               ],
@@ -125371,6 +126884,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 800.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 800.0
                 }
               ],
               "change": 0.0,
@@ -125605,6 +127122,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 1397.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 1397.0
                 }
               ],
@@ -125841,6 +127362,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 470.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 470.0
                 }
               ],
               "change": 0.0,
@@ -126075,6 +127600,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 39.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 39.0
                 }
               ],
@@ -126311,6 +127840,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 17.5
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 17.5
                 }
               ],
               "change": 0.0,
@@ -126545,6 +128078,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 120.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 120.0
                 }
               ],
@@ -126923,6 +128460,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 100.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 100.0
                 }
               ],
               "change": 0.0,
@@ -127137,6 +128678,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 15.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 15.0
                 }
               ],
@@ -127373,6 +128918,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 96.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 96.0
                 }
               ],
               "change": 0.0,
@@ -127607,6 +129156,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 16.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 16.0
                 }
               ],
@@ -127843,6 +129396,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 300.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 300.0
                 }
               ],
               "change": 0.0,
@@ -128073,6 +129630,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 35.2
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 35.2
                 }
               ],
@@ -128339,6 +129900,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 162.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 162.0
                 }
               ],
@@ -128694,6 +130259,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 15.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 15.0
                 }
               ],
               "change": 0.0,
@@ -128816,6 +130385,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 30.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 30.0
                 }
               ],
@@ -128979,6 +130552,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 235.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 235.0
                 }
               ],
               "change": 0.0,
@@ -129097,6 +130674,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 35.2
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 35.2
                 }
               ],
@@ -129500,6 +131081,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 30.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 30.0
                 }
               ],
@@ -130171,6 +131756,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 705.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 705.0
                 }
               ],
               "change": 0.0,
@@ -130442,6 +132031,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 40.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 40.0
                 }
               ],
               "change": 0.0,
@@ -130484,6 +132077,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 180.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 180.0
                 }
               ],
               "change": 0.0,
@@ -130511,6 +132108,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 40.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 40.0
                 }
               ],
               "change": 0.0,
@@ -130537,6 +132138,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 90.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 90.0
                 }
               ],
@@ -130569,6 +132174,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 300.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 300.0
                 }
               ],
               "change": 0.0,
@@ -130591,6 +132200,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 46.99
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 46.99
                 }
               ],
@@ -130619,6 +132232,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 450.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 450.0
                 }
               ],
               "change": 0.0,
@@ -130634,9 +132251,13 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 400.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 400.0
                 }
               ],
-              "change": 0,
+              "change": 0.0,
               "ever_changed": false
             },
             {
@@ -162160,125 +163781,6 @@ window.DASHBOARD_DATA = {
           "count": 32,
           "products": [
             {
-              "sku": "14741",
-              "brand": "普特",
-              "name": "普特 螺丝起Ⅱ型（内六角 支抗钉配件）用于唇侧 直径1.4mm~2.0mm，1根/袋",
-              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/15784%2F46a8c0e3b75a508753f4bf06aa7dab23.png?x-oss-process=image/resize,h_300,w_300,m_lfit",
-              "product_url": "https://linkedcarefuture.com/#/search/list?text=普特",
-              "history": [
-                {
-                  "date": "2026-06-28",
-                  "price": 88.2
-                },
-                {
-                  "date": "2026-06-29",
-                  "price": 88.2
-                },
-                {
-                  "date": "2026-06-30",
-                  "price": 88.2
-                },
-                {
-                  "date": "2026-07-01",
-                  "price": 88.2
-                },
-                {
-                  "date": "2026-07-02",
-                  "price": 88.2
-                },
-                {
-                  "date": "2026-07-04",
-                  "price": 68.0
-                },
-                {
-                  "date": "2026-07-05",
-                  "price": 68.0
-                },
-                {
-                  "date": "2026-07-06",
-                  "price": 88.2
-                },
-                {
-                  "date": "2026-07-07",
-                  "price": 88.2
-                },
-                {
-                  "date": "2026-07-08",
-                  "price": 68.0
-                },
-                {
-                  "date": "2026-07-09",
-                  "price": 68.0
-                },
-                {
-                  "date": "2026-07-10",
-                  "price": 88.2
-                },
-                {
-                  "date": "2026-07-11",
-                  "price": 88.2
-                },
-                {
-                  "date": "2026-07-12",
-                  "price": 88.2
-                },
-                {
-                  "date": "2026-07-13",
-                  "price": 88.2
-                },
-                {
-                  "date": "2026-07-14",
-                  "price": 88.2
-                },
-                {
-                  "date": "2026-07-16",
-                  "price": 88.2
-                },
-                {
-                  "date": "2026-07-17",
-                  "price": 88.2
-                },
-                {
-                  "date": "2026-07-20",
-                  "price": 88.2
-                },
-                {
-                  "date": "2026-07-21",
-                  "price": 88.2
-                },
-                {
-                  "date": "2026-07-22",
-                  "price": 88.2
-                },
-                {
-                  "date": "2026-07-23",
-                  "price": 88.2
-                },
-                {
-                  "date": "2026-08-04",
-                  "price": 88.2
-                },
-                {
-                  "date": "2026-08-06",
-                  "price": 88.2
-                },
-                {
-                  "date": "2026-08-07",
-                  "price": 88.2
-                },
-                {
-                  "date": "2026-09-01",
-                  "price": 88.2
-                },
-                {
-                  "date": "2026-10-18",
-                  "price": 79.0
-                }
-              ],
-              "change": -9.2,
-              "ever_changed": true
-            },
-            {
               "sku": "16330",
               "brand": "普特",
               "name": "普特 PT 5 PLUS 自锁正畸托槽 C类自锁高转矩托槽（MBT 0.022 3#带钩 单幅装 含颊面管*8，不含弓丝）",
@@ -162395,6 +163897,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 399.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 399.0
                 }
               ],
@@ -162519,6 +164025,133 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 14.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 14.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": true
+            },
+            {
+              "sku": "14741",
+              "brand": "普特",
+              "name": "普特 螺丝起Ⅱ型（内六角 支抗钉配件）用于唇侧 直径1.4mm~2.0mm，1根/袋",
+              "image_url": "https://cdn-mall.linkedcare.cn/etrade/product/sku_img/15784%2F46a8c0e3b75a508753f4bf06aa7dab23.png?x-oss-process=image/resize,h_300,w_300,m_lfit",
+              "product_url": "https://linkedcarefuture.com/#/search/list?text=普特",
+              "history": [
+                {
+                  "date": "2026-06-28",
+                  "price": 88.2
+                },
+                {
+                  "date": "2026-06-29",
+                  "price": 88.2
+                },
+                {
+                  "date": "2026-06-30",
+                  "price": 88.2
+                },
+                {
+                  "date": "2026-07-01",
+                  "price": 88.2
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 88.2
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 68.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 68.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 88.2
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 88.2
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 68.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 68.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 88.2
+                },
+                {
+                  "date": "2026-07-11",
+                  "price": 88.2
+                },
+                {
+                  "date": "2026-07-12",
+                  "price": 88.2
+                },
+                {
+                  "date": "2026-07-13",
+                  "price": 88.2
+                },
+                {
+                  "date": "2026-07-14",
+                  "price": 88.2
+                },
+                {
+                  "date": "2026-07-16",
+                  "price": 88.2
+                },
+                {
+                  "date": "2026-07-17",
+                  "price": 88.2
+                },
+                {
+                  "date": "2026-07-20",
+                  "price": 88.2
+                },
+                {
+                  "date": "2026-07-21",
+                  "price": 88.2
+                },
+                {
+                  "date": "2026-07-22",
+                  "price": 88.2
+                },
+                {
+                  "date": "2026-07-23",
+                  "price": 88.2
+                },
+                {
+                  "date": "2026-08-04",
+                  "price": 88.2
+                },
+                {
+                  "date": "2026-08-06",
+                  "price": 88.2
+                },
+                {
+                  "date": "2026-08-07",
+                  "price": 88.2
+                },
+                {
+                  "date": "2026-09-01",
+                  "price": 88.2
+                },
+                {
+                  "date": "2026-10-18",
+                  "price": 79.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 79.0
                 }
               ],
               "change": 0.0,
@@ -162549,6 +164182,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 4.8
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 4.8
                 }
               ],
@@ -162673,6 +164310,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 705.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 705.0
                 }
               ],
               "change": 0.0,
@@ -162795,6 +164436,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 465.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 465.0
                 }
               ],
@@ -162919,6 +164564,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 3.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 3.0
                 }
               ],
               "change": 0.0,
@@ -163042,6 +164691,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 15.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 15.0
                 }
               ],
               "change": 0.0,
@@ -163164,6 +164817,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 15.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 15.0
                 }
               ],
@@ -163383,6 +165040,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 15.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 15.0
                 }
               ],
               "change": 0.0,
@@ -163505,6 +165166,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 120.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 120.0
                 }
               ],
@@ -163629,6 +165294,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 15.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 15.0
                 }
               ],
               "change": 0.0,
@@ -163751,6 +165420,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 50.0
                 }
               ],
@@ -163875,6 +165548,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 30.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 30.0
                 }
               ],
               "change": 0.0,
@@ -163993,6 +165670,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 350.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 350.0
                 }
               ],
@@ -164117,6 +165798,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 235.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 235.0
                 }
               ],
               "change": 0.0,
@@ -164235,6 +165920,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 30.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 30.0
                 }
               ],
@@ -164544,6 +166233,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 1100.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 1100.0
                 }
               ],
               "change": 0.0,
@@ -164606,6 +166299,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 96.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 96.0
                 }
               ],
@@ -164750,9 +166447,13 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 97.94
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 97.94
                 }
               ],
-              "change": 0,
+              "change": 0.0,
               "ever_changed": false
             }
           ]
@@ -165687,6 +167388,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-10-18",
                   "price": 388.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 388.0
                 }
               ],
               "change": 0.0,
@@ -165809,6 +167514,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 239.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 239.0
                 }
               ],
@@ -166019,6 +167728,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-18",
+                  "price": 999.0
+                },
+                {
+                  "date": "2026-10-19",
                   "price": 999.0
                 }
               ],
