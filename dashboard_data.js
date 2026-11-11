@@ -1,6 +1,6 @@
 window.DASHBOARD_DATA = {
-  "generated_at": "2026-11-10 12:52:35",
-  "latest_date": "2026-11-10",
+  "generated_at": "2026-11-11 10:57:52",
+  "latest_date": "2026-11-11",
   "tree": [
     {
       "keyword": "3M (3M Unitek)",
@@ -274,6 +274,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 199.0
                 }
               ],
@@ -558,6 +562,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 149.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 149.0
                 }
               ],
               "change": 0.0,
@@ -841,6 +849,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 649.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 649.0
                 }
               ],
               "change": 0.0,
@@ -1075,6 +1087,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 199.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 199.0
                 }
               ],
@@ -1311,6 +1327,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 729.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 729.0
                 }
               ],
               "change": 0.0,
@@ -1546,6 +1566,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 5.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 5.0
                 }
               ],
               "change": 0.0,
@@ -1773,6 +1797,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 1109.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 1109.0
                 }
               ],
               "change": 0.0,
@@ -1947,6 +1975,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 441.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 441.0
                 }
               ],
@@ -2218,6 +2250,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 81.94
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 81.94
                 }
               ],
@@ -2502,6 +2538,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 3495.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 3495.0
                 }
               ],
               "change": 0.0,
@@ -2784,6 +2824,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 1799.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 1799.0
                 }
               ],
@@ -3068,6 +3112,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 1499.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 1499.0
                 }
               ],
               "change": 0.0,
@@ -3346,6 +3394,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 134.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 134.0
                 }
               ],
@@ -3630,6 +3682,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 161.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 161.0
                 }
               ],
               "change": 0.0,
@@ -3912,6 +3968,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 266.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 266.0
                 }
               ],
@@ -4331,6 +4391,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 266.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 266.0
                 }
               ],
               "change": 0.0,
@@ -4613,6 +4677,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 215.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 215.0
                 }
               ],
@@ -5000,6 +5068,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 215.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 215.0
                 }
               ],
               "change": 0.0,
@@ -5283,6 +5355,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 76.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 76.0
                 }
               ],
               "change": 0.0,
@@ -5562,6 +5638,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 7500.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 7500.0
                 }
               ],
               "change": 0.0,
@@ -5833,6 +5913,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 78.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 78.0
                 }
               ],
               "change": 0.0,
@@ -6102,6 +6186,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 1958.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 1958.0
                 }
               ],
@@ -6408,6 +6496,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 850.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 850.0
                 }
               ],
@@ -6867,6 +6959,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 618.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 618.0
                 }
               ],
               "change": 0.0,
@@ -7102,6 +7198,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 1568.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 1568.0
                 }
               ],
               "change": 0.0,
@@ -7264,6 +7364,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-09",
+                  "price": 197.6
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 197.6
                 }
               ],
@@ -7563,6 +7667,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 252.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 252.0
                 }
               ],
               "change": 0.0,
@@ -7721,6 +7829,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 215.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 215.0
                 }
               ],
@@ -7911,6 +8023,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 266.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 266.0
                 }
               ],
               "change": 0.0,
@@ -8074,6 +8190,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 210.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 210.0
                 }
               ],
               "change": 0.0,
@@ -8096,6 +8216,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 662.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 662.0
                 }
               ],
@@ -9054,6 +9178,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 210
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 210
                 }
               ],
               "change": 0,
@@ -9320,6 +9448,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 649
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 649
                 }
               ],
@@ -9731,6 +9863,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 139
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 139
                 }
               ],
               "change": 0,
@@ -9997,6 +10133,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 50
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 50
                 }
               ],
@@ -10265,6 +10405,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 1210
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 1210
                 }
               ],
               "change": 0,
@@ -10528,6 +10672,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 93
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 93
                 }
               ],
               "change": 0,
@@ -10790,6 +10938,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 95
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 95
                 }
               ],
@@ -11169,6 +11321,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 65
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 65
                 }
               ],
               "change": 0,
@@ -11379,6 +11535,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 184
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 184
                 }
               ],
@@ -11595,6 +11755,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 759
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 759
                 }
               ],
               "change": 0,
@@ -11738,6 +11902,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 186
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 186
                 }
               ],
               "change": 0,
@@ -11864,6 +12032,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 184
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 184
                 }
               ],
@@ -12047,6 +12219,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 9.9
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 9.9
                 }
               ],
@@ -12270,6 +12446,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 159
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 159
                 }
               ],
               "change": 0,
@@ -12433,6 +12613,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 1899
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 1899
                 }
               ],
               "change": 0,
@@ -12495,6 +12679,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 59
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 59
                 }
               ],
@@ -12809,6 +12997,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 385
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 385
                 }
               ],
               "change": 0,
@@ -13076,6 +13268,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 41.5
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 41.5
                 }
               ],
               "change": 0.0,
@@ -13234,6 +13430,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 52
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 52
                 }
               ],
@@ -13485,6 +13685,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 151
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 151
                 }
               ],
@@ -13740,6 +13944,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 79
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 79
                 }
               ],
@@ -14008,6 +14216,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 31
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 31
                 }
               ],
               "change": 0,
@@ -14274,6 +14486,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 31
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 31
                 }
               ],
@@ -14542,6 +14758,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 215
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 215
                 }
               ],
               "change": 0,
@@ -14809,6 +15029,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 220
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 220
                 }
               ],
               "change": 0,
@@ -15075,6 +15299,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 294
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 294
                 }
               ],
@@ -15605,6 +15833,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 96
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 96
                 }
               ],
               "change": 0,
@@ -15815,6 +16047,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 641
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 641
                 }
               ],
@@ -16083,6 +16319,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 690
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 690
                 }
               ],
               "change": 0,
@@ -16349,6 +16589,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 1465
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 1465
                 }
               ],
@@ -16617,6 +16861,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 920
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 920
                 }
               ],
               "change": 0,
@@ -16883,6 +17131,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 324
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 324
                 }
               ],
@@ -17338,6 +17590,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 39
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 39
                 }
               ],
               "change": 0,
@@ -17567,6 +17823,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 168
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 168
                 }
               ],
@@ -17830,6 +18090,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 120
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 120
                 }
               ],
@@ -18160,6 +18424,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 535
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 535
                 }
               ],
@@ -18682,6 +18950,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 750
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 750
                 }
               ],
               "change": 0,
@@ -18904,6 +19176,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 136
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 136
                 }
               ],
@@ -19167,6 +19443,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 135
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 135
                 }
               ],
@@ -19597,6 +19877,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 95
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 95
                 }
               ],
@@ -20621,6 +20905,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 240
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 240
                 }
               ],
               "change": 0,
@@ -20887,6 +21175,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 61
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 61
                 }
               ],
@@ -21155,6 +21447,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 63
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 63
                 }
               ],
               "change": 0,
@@ -21414,6 +21710,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 169
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 169
                 }
               ],
               "change": 0,
@@ -21672,6 +21972,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 45
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 45
                 }
               ],
@@ -21936,6 +22240,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 17.8
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 17.8
                 }
               ],
               "change": 0.0,
@@ -22199,6 +22507,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 50
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 50
                 }
               ],
               "change": 0,
@@ -22414,6 +22726,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 274
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 274
                 }
               ],
               "change": 0,
@@ -22628,6 +22944,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 189
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 189
                 }
               ],
@@ -23039,6 +23359,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 276
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 276
                 }
               ],
               "change": 0,
@@ -23254,6 +23578,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 346
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 346
                 }
               ],
               "change": 0,
@@ -23456,6 +23784,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 351
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 351
                 }
               ],
@@ -23672,6 +24004,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 325
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 325
                 }
               ],
               "change": 0,
@@ -23887,6 +24223,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 9999
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 9999
                 }
               ],
               "change": 0,
@@ -24101,6 +24441,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 804
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 804
                 }
               ],
@@ -24503,6 +24847,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 80
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 80
                 }
               ],
               "change": 0,
@@ -24645,6 +24993,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 27.9
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 27.9
                 }
               ],
@@ -24887,6 +25239,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 85
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 85
                 }
               ],
@@ -25261,6 +25617,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 10.8
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 10.8
                 }
               ],
               "change": 0.0,
@@ -25367,6 +25727,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 175
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 175
                 }
               ],
@@ -25562,6 +25926,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 35
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 35
                 }
               ],
@@ -26043,6 +26411,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 467.9
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 467.9
                 }
               ],
               "change": 0.0,
@@ -26245,6 +26617,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 320
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 320
                 }
               ],
@@ -26465,6 +26841,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 747
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 747
                 }
               ],
               "change": 0,
@@ -26659,6 +27039,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 369
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 369
                 }
               ],
@@ -26871,6 +27255,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 9.9
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 9.9
                 }
               ],
               "change": 0.0,
@@ -27081,6 +27469,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 176
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 176
                 }
               ],
@@ -27363,6 +27755,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 62
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 62
                 }
               ],
               "change": 0,
@@ -27457,6 +27853,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 266
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 266
                 }
               ],
@@ -27572,6 +27972,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 450
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 450
                 }
               ],
@@ -27695,6 +28099,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 795
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 795
                 }
               ],
@@ -27822,6 +28230,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 96
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 96
                 }
               ],
@@ -28701,6 +29113,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 365
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 365
                 }
               ],
@@ -29802,6 +30218,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-03",
                   "price": 68
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 68
                 }
               ],
               "change": 0,
@@ -29868,6 +30288,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 650
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 650
                 }
               ],
@@ -29936,6 +30360,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 982
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 982
                 }
               ],
               "change": 0,
@@ -29990,6 +30418,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 3
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 3
                 }
               ],
@@ -30058,6 +30490,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 139
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 139
                 }
               ],
               "change": 0,
@@ -30108,6 +30544,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 555
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 555
                 }
               ],
@@ -30302,6 +30742,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 44
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 44
                 }
               ],
               "change": 0,
@@ -30364,6 +30808,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 210
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 210
                 }
               ],
@@ -30458,6 +30906,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 39
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 39
                 }
               ],
@@ -30569,6 +31021,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 158
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 158
                 }
               ],
               "change": 0,
@@ -30631,6 +31087,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 329
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 329
                 }
               ],
@@ -30794,6 +31254,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 11.2
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 11.2
                 }
               ],
               "change": 0.0,
@@ -30924,6 +31388,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 15
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 15
                 }
               ],
               "change": 0,
@@ -31006,6 +31474,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 300
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 300
                 }
               ],
@@ -31101,6 +31573,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 1147
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 1147
                 }
               ],
@@ -31233,6 +31709,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 488
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 488
                 }
               ],
               "change": 0,
@@ -31283,6 +31763,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 717
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 717
                 }
               ],
@@ -31338,6 +31822,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 288
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 288
                 }
               ],
@@ -31409,6 +31897,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 176
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 176
                 }
               ],
@@ -31484,6 +31976,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 288
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 288
                 }
               ],
@@ -32234,6 +32730,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 820
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 820
                 }
               ],
               "change": 0,
@@ -32824,6 +33324,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 31
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 31
                 }
               ],
               "change": 0,
@@ -32871,6 +33375,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 159
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 159
                 }
               ],
               "change": 0,
@@ -32913,6 +33421,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 28
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 28
                 }
               ],
@@ -33128,6 +33640,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 1179
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 1179
                 }
               ],
               "change": 0,
@@ -33171,6 +33687,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 297
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 297
                 }
               ],
               "change": 0,
@@ -33198,6 +33718,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 2399
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 2399
                 }
               ],
               "change": 0,
@@ -33220,6 +33744,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 32
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 32
                 }
               ],
@@ -33256,6 +33784,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 299
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 299
                 }
               ],
               "change": 0,
@@ -33286,9 +33818,13 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 115.8
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 115.8
                 }
               ],
-              "change": 0,
+              "change": 0.0,
               "ever_changed": false
             },
             {
@@ -33300,6 +33836,10 @@ window.DASHBOARD_DATA = {
               "history": [
                 {
                   "date": "2026-11-10",
+                  "price": 439
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 439
                 }
               ],
@@ -33315,6 +33855,10 @@ window.DASHBOARD_DATA = {
               "history": [
                 {
                   "date": "2026-11-10",
+                  "price": 550
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 550
                 }
               ],
@@ -33350,6 +33894,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 278
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 278
                 }
               ],
@@ -34143,6 +34691,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 370.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 370.0
                 }
               ],
               "change": 0.0,
@@ -34796,6 +35348,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 252.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 252.0
                 }
               ],
               "change": 0.0,
@@ -35042,6 +35598,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 1169.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 1169.0
                 }
               ],
@@ -35290,6 +35850,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 449.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 449.0
                 }
               ],
               "change": 0.0,
@@ -35532,6 +36096,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 347.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 347.0
                 }
               ],
@@ -35779,6 +36347,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 1799.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 1799.0
                 }
               ],
@@ -39808,7 +40380,7 @@ window.DASHBOARD_DATA = {
       "platforms": [
         {
           "name": "励齿",
-          "count": 123,
+          "count": 124,
           "products": [
             {
               "sku": "ZH100445",
@@ -40115,6 +40687,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 420.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 420.0
                 }
               ],
               "change": 0.0,
@@ -40389,6 +40965,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 412.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 412.0
                 }
               ],
@@ -40673,6 +41253,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 169.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 169.0
                 }
               ],
               "change": 0.0,
@@ -40951,6 +41535,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 575.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 575.0
                 }
               ],
@@ -41231,6 +41819,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 255.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 255.0
                 }
               ],
               "change": 0.0,
@@ -41509,6 +42101,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 139.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 139.0
                 }
               ],
@@ -41793,6 +42389,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 168.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 168.0
                 }
               ],
               "change": 0.0,
@@ -42075,6 +42675,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 172.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 172.0
                 }
               ],
@@ -42359,6 +42963,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 367.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 367.0
                 }
               ],
               "change": 0.0,
@@ -42642,6 +43250,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 688.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 688.0
                 }
               ],
               "change": 0.0,
@@ -42921,6 +43533,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 157.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 157.0
                 }
               ],
               "change": 0.0,
@@ -43127,6 +43743,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 139.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 139.0
                 }
               ],
@@ -43411,6 +44031,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 456.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 456.0
                 }
               ],
               "change": 0.0,
@@ -43694,6 +44318,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 982.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 982.0
                 }
               ],
               "change": 0.0,
@@ -43924,6 +44552,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 22.2
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 22.2
                 }
               ],
@@ -44159,6 +44791,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 65.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 65.0
                 }
               ],
@@ -44418,6 +45054,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 1210.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 1210.0
                 }
               ],
@@ -44785,6 +45425,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 1729.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 1729.0
                 }
               ],
               "change": 0.0,
@@ -45063,6 +45707,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 68.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 68.0
                 }
               ],
@@ -45347,6 +45995,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 312.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 312.0
                 }
               ],
               "change": 0.0,
@@ -45629,6 +46281,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 690.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 690.0
                 }
               ],
@@ -45913,6 +46569,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 690.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 690.0
                 }
               ],
               "change": 0.0,
@@ -46195,6 +46855,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 223.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 223.0
                 }
               ],
@@ -46510,6 +47174,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 210.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 210.0
                 }
               ],
               "change": 0.0,
@@ -46704,6 +47372,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 470.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 470.0
                 }
               ],
@@ -46984,6 +47656,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 245.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 245.0
                 }
               ],
               "change": 0.0,
@@ -47262,6 +47938,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 346.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 346.0
                 }
               ],
@@ -47542,6 +48222,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 5999.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 5999.0
                 }
               ],
               "change": 0.0,
@@ -47784,6 +48468,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 517.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 517.0
                 }
               ],
@@ -48064,6 +48752,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 108.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 108.0
                 }
               ],
               "change": 0.0,
@@ -48343,6 +49035,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 758.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 758.0
                 }
               ],
               "change": 0.0,
@@ -48617,6 +49313,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 9999.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 9999.0
                 }
               ],
@@ -48897,6 +49597,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 274.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 274.0
                 }
               ],
               "change": 0.0,
@@ -49175,6 +49879,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 266.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 266.0
                 }
               ],
@@ -49455,6 +50163,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 276.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 276.0
                 }
               ],
               "change": 0.0,
@@ -49733,6 +50445,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 249.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 249.0
                 }
               ],
@@ -50013,6 +50729,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 4500.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 4500.0
                 }
               ],
               "change": 0.0,
@@ -50291,6 +51011,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 282.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 282.0
                 }
               ],
@@ -50571,6 +51295,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 133.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 133.0
                 }
               ],
               "change": 0.0,
@@ -50850,6 +51578,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 745.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 745.0
                 }
               ],
               "change": 0.0,
@@ -51128,6 +51860,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 1399.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 1399.0
                 }
               ],
@@ -51412,6 +52148,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 356.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 356.0
                 }
               ],
               "change": 0.0,
@@ -51694,6 +52434,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 294.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 294.0
                 }
               ],
@@ -51978,6 +52722,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 324.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 324.0
                 }
               ],
               "change": 0.0,
@@ -52260,6 +53008,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 641.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 641.0
                 }
               ],
@@ -52544,6 +53296,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 96.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 96.0
                 }
               ],
               "change": 0.0,
@@ -52826,6 +53582,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 27.9
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 27.9
                 }
               ],
@@ -53257,6 +54017,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 159.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 159.0
                 }
               ],
               "change": 0.0,
@@ -53540,6 +54304,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 39.9
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 39.9
                 }
               ],
               "change": 0.0,
@@ -53818,6 +54586,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 346.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 346.0
                 }
               ],
@@ -54102,6 +54874,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 1465.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 1465.0
                 }
               ],
               "change": 0.0,
@@ -54384,6 +55160,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 929.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 929.0
                 }
               ],
@@ -54668,6 +55448,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 79.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 79.0
                 }
               ],
               "change": 0.0,
@@ -54950,6 +55734,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 55.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 55.0
                 }
               ],
@@ -55234,6 +56022,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 804.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 804.0
                 }
               ],
               "change": 0.0,
@@ -55516,6 +56308,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 820.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 820.0
                 }
               ],
@@ -55800,6 +56596,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 296.7
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 296.7
                 }
               ],
               "change": 0.0,
@@ -56083,6 +56883,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 920.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 920.0
                 }
               ],
               "change": 0.0,
@@ -56362,6 +57166,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 1091.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 1091.0
                 }
               ],
               "change": 0.0,
@@ -56597,6 +57405,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 599.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 599.0
                 }
               ],
               "change": 0.0,
@@ -56828,6 +57640,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 400.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 400.0
                 }
               ],
               "change": 0.0,
@@ -57055,6 +57871,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 1199.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 1199.0
                 }
               ],
               "change": 0.0,
@@ -57281,6 +58101,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 469.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 469.0
                 }
               ],
@@ -57616,6 +58440,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 207.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 207.0
                 }
               ],
               "change": 0.0,
@@ -57846,6 +58674,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 11.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 11.0
                 }
               ],
@@ -58082,6 +58914,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 135.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 135.0
                 }
               ],
               "change": 0.0,
@@ -58312,6 +59148,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-09",
+                  "price": 39.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 39.0
                 }
               ],
@@ -58695,6 +59535,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 85.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 85.0
                 }
               ],
               "change": 0.0,
@@ -58921,6 +59765,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-09",
+                  "price": 618.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 618.0
                 }
               ],
@@ -59157,6 +60005,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 2370.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 2370.0
                 }
               ],
               "change": 0.0,
@@ -59383,6 +60235,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-09",
+                  "price": 288.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 288.0
                 }
               ],
@@ -59619,6 +60475,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 670.38
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 670.38
                 }
               ],
               "change": 0.0,
@@ -59845,6 +60705,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-09",
+                  "price": 115.8
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 115.8
                 }
               ],
@@ -60239,6 +61103,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-09-14",
+                  "price": 249.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 249.0
                 }
               ],
@@ -60698,6 +61566,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 759.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 759.0
                 }
               ],
               "change": 0.0,
@@ -60820,6 +61692,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-09",
+                  "price": 185.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 185.0
                 }
               ],
@@ -61056,6 +61932,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 130.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 130.0
                 }
               ],
               "change": 0.0,
@@ -61290,6 +62170,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 2489.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 2489.0
                 }
               ],
@@ -61526,6 +62410,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 1300.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 1300.0
                 }
               ],
               "change": 0.0,
@@ -61760,6 +62648,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 1200.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 1200.0
                 }
               ],
@@ -61996,6 +62888,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 1399.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 1399.0
                 }
               ],
               "change": 0.0,
@@ -62231,6 +63127,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 29.88
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 29.88
                 }
               ],
               "change": 0.0,
@@ -62449,6 +63349,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-09",
+                  "price": 2999.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 2999.0
                 }
               ],
@@ -62684,6 +63588,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 352.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 352.0
                 }
               ],
@@ -63011,6 +63919,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-09",
                   "price": 297.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 297.0
                 }
               ],
               "change": 0.0,
@@ -63246,6 +64158,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 3185.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 3185.0
                 }
               ],
               "change": 0.0,
@@ -63476,6 +64392,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 351.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 351.0
                 }
               ],
@@ -63712,6 +64632,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 10086.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 10086.0
                 }
               ],
               "change": 0.0,
@@ -63946,6 +64870,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 294.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 294.0
                 }
               ],
@@ -64632,6 +65560,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-06",
                   "price": 151.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 151.0
                 }
               ],
               "change": 0.0,
@@ -64841,6 +65773,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 133.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 133.0
                 }
               ],
               "change": 0.0,
@@ -64983,6 +65919,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 3390.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 3390.0
                 }
               ],
@@ -65339,6 +66279,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 888.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 888.0
                 }
               ],
               "change": 0.0,
@@ -65464,6 +66408,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 537.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 537.0
                 }
               ],
@@ -65721,6 +66669,25 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 1360.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 1360.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "322256",
+              "brand": "3M ESPE",
+              "name": "3M ESPE 不锈钢预制临时牙冠 乳磨牙补充装 零配 第二乳磨牙 右上 E-UR-3 5只/盒",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/898ec6773e0041b48ce76d6ddd34bc76.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=322256",
+              "history": [
+                {
+                  "date": "2026-11-11",
+                  "price": 195.0
                 }
               ],
               "change": 0,
@@ -66018,6 +66985,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 157
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 157
                 }
               ],
@@ -66361,6 +67332,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 929
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 929
                 }
               ],
               "change": 0,
@@ -66575,6 +67550,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 1729
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 1729
                 }
               ],
@@ -66791,6 +67770,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 650
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 650
                 }
               ],
               "change": 0,
@@ -67005,6 +67988,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 2489
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 2489
                 }
               ],
@@ -67221,6 +68208,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 4500
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 4500
                 }
               ],
               "change": 0,
@@ -67436,6 +68427,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 468
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 468
                 }
               ],
               "change": 0,
@@ -67542,6 +68537,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 302
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 302
                 }
               ],
@@ -70906,7 +71905,7 @@ window.DASHBOARD_DATA = {
       "platforms": [
         {
           "name": "励齿",
-          "count": 24,
+          "count": 26,
           "products": [
             {
               "sku": "337564",
@@ -71253,6 +72252,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 233.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 233.0
                 }
               ],
               "change": 0.0,
@@ -71535,6 +72538,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 137.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 137.0
                 }
               ],
@@ -71819,6 +72826,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 320.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 320.0
                 }
               ],
               "change": 0.0,
@@ -72005,6 +73016,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 80.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 80.0
                 }
               ],
@@ -72456,6 +73471,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 180.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 180.0
                 }
               ],
               "change": 0.0,
@@ -72738,6 +73757,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 570.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 570.0
                 }
               ],
@@ -73080,6 +74103,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 600.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 600.0
                 }
               ],
@@ -73675,6 +74702,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 310.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 310.0
                 }
               ],
               "change": 0.0,
@@ -73762,6 +74793,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 148.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 148.0
                 }
               ],
               "change": 0.0,
@@ -73824,6 +74859,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 330.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 330.0
                 }
               ],
@@ -73902,6 +74941,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 729.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 729.0
                 }
               ],
               "change": 0.0,
@@ -73938,6 +74981,36 @@ window.DASHBOARD_DATA = {
               "ever_changed": false
             },
             {
+              "sku": "307964",
+              "brand": "奥美科·Ormco",
+              "name": "奥美科 Damon Peerless不锈钢正畸颊面管 342-5213 右下7",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/1597118329458.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=307964",
+              "history": [
+                {
+                  "date": "2026-11-11",
+                  "price": 336.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
+              "sku": "303810",
+              "brand": "奥美科·Ormco",
+              "name": "奥美科 Damon不锈钢丝 正畸丝 227-1071 .019\"*.025\"",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/303810_1.png?version=1788164189886",
+              "product_url": "https://www.lichidental.com/product/detail?sku=303810",
+              "history": [
+                {
+                  "date": "2026-11-11",
+                  "price": 63.0
+                }
+              ],
+              "change": 0,
+              "ever_changed": false
+            },
+            {
               "sku": "307958",
               "brand": "奥美科·Ormco",
               "name": "奥美科 Damon Peerless不锈钢正畸颊面管 342-2111 左下6",
@@ -73958,93 +75031,6 @@ window.DASHBOARD_DATA = {
           "name": "梅苗苗",
           "count": 56,
           "products": [
-            {
-              "sku": "ORMCO/奥美科 Damon Q 金属自锁托槽 正畸 （不含颊面管） 740-1503(标准转矩，5-5，不带钩)",
-              "brand": "ORMCO",
-              "name": "ORMCO/奥美科 Damon Q 金属自锁托槽 正畸 （不含颊面管） 740-1503(标准转矩，5-5，不带钩)",
-              "image_url": "",
-              "product_url": "https://www.mmm920.com/products?keyword=奥美科",
-              "history": [
-                {
-                  "date": "2026-09-08",
-                  "price": 1699
-                },
-                {
-                  "date": "2026-09-09",
-                  "price": 1699
-                },
-                {
-                  "date": "2026-09-10",
-                  "price": 1699
-                },
-                {
-                  "date": "2026-09-11",
-                  "price": 1699
-                },
-                {
-                  "date": "2026-09-14",
-                  "price": 1699
-                },
-                {
-                  "date": "2026-10-08",
-                  "price": 1699
-                },
-                {
-                  "date": "2026-10-12",
-                  "price": 1699
-                },
-                {
-                  "date": "2026-10-15",
-                  "price": 1699
-                },
-                {
-                  "date": "2026-10-18",
-                  "price": 1699
-                },
-                {
-                  "date": "2026-10-21",
-                  "price": 1699
-                },
-                {
-                  "date": "2026-10-27",
-                  "price": 1699
-                },
-                {
-                  "date": "2026-10-28",
-                  "price": 1699
-                },
-                {
-                  "date": "2026-10-29",
-                  "price": 1699
-                },
-                {
-                  "date": "2026-10-30",
-                  "price": 1699
-                },
-                {
-                  "date": "2026-11-02",
-                  "price": 1599
-                },
-                {
-                  "date": "2026-11-03",
-                  "price": 1599
-                },
-                {
-                  "date": "2026-11-04",
-                  "price": 1599
-                },
-                {
-                  "date": "2026-11-06",
-                  "price": 1599
-                },
-                {
-                  "date": "2026-11-10",
-                  "price": 1399
-                }
-              ],
-              "change": -200,
-              "ever_changed": true
-            },
             {
               "sku": "ORMCO/奥美科 GRENGLOO 光凝套装 绿胶 / 正畸托槽粘接剂套装/双变色粘结剂 740-0320（新老包装混发） 740-0320",
               "brand": "ORMCO",
@@ -74211,9 +75197,13 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 489
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 599
                 }
               ],
-              "change": -110,
+              "change": 110,
               "ever_changed": true
             },
             {
@@ -74736,6 +75726,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 169
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 169
                 }
               ],
               "change": 0,
@@ -74906,6 +75900,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 199
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 199
                 }
               ],
@@ -75357,6 +76355,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 195
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 195
                 }
               ],
               "change": 0,
@@ -75624,6 +76626,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 330
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 330
                 }
               ],
               "change": 0,
@@ -75890,6 +76896,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 330
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 330
                 }
               ],
@@ -76548,6 +77558,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 72
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 72
                 }
               ],
               "change": 0,
@@ -76803,6 +77817,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 176
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 176
                 }
               ],
               "change": 0,
@@ -77048,6 +78066,97 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-09-10",
                   "price": 21
+                }
+              ],
+              "change": 0,
+              "ever_changed": true
+            },
+            {
+              "sku": "ORMCO/奥美科 Damon Q 金属自锁托槽 正畸 （不含颊面管） 740-1503(标准转矩，5-5，不带钩)",
+              "brand": "ORMCO",
+              "name": "ORMCO/奥美科 Damon Q 金属自锁托槽 正畸 （不含颊面管） 740-1503(标准转矩，5-5，不带钩)",
+              "image_url": "",
+              "product_url": "https://www.mmm920.com/products?keyword=奥美科",
+              "history": [
+                {
+                  "date": "2026-09-08",
+                  "price": 1699
+                },
+                {
+                  "date": "2026-09-09",
+                  "price": 1699
+                },
+                {
+                  "date": "2026-09-10",
+                  "price": 1699
+                },
+                {
+                  "date": "2026-09-11",
+                  "price": 1699
+                },
+                {
+                  "date": "2026-09-14",
+                  "price": 1699
+                },
+                {
+                  "date": "2026-10-08",
+                  "price": 1699
+                },
+                {
+                  "date": "2026-10-12",
+                  "price": 1699
+                },
+                {
+                  "date": "2026-10-15",
+                  "price": 1699
+                },
+                {
+                  "date": "2026-10-18",
+                  "price": 1699
+                },
+                {
+                  "date": "2026-10-21",
+                  "price": 1699
+                },
+                {
+                  "date": "2026-10-27",
+                  "price": 1699
+                },
+                {
+                  "date": "2026-10-28",
+                  "price": 1699
+                },
+                {
+                  "date": "2026-10-29",
+                  "price": 1699
+                },
+                {
+                  "date": "2026-10-30",
+                  "price": 1699
+                },
+                {
+                  "date": "2026-11-02",
+                  "price": 1599
+                },
+                {
+                  "date": "2026-11-03",
+                  "price": 1599
+                },
+                {
+                  "date": "2026-11-04",
+                  "price": 1599
+                },
+                {
+                  "date": "2026-11-06",
+                  "price": 1599
+                },
+                {
+                  "date": "2026-11-10",
+                  "price": 1399
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 1399
                 }
               ],
               "change": 0,
@@ -77546,6 +78655,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 122
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 122
                 }
               ],
               "change": 0,
@@ -77813,6 +78926,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 94.9
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 94.9
                 }
               ],
               "change": 0.0,
@@ -78079,6 +79196,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 179
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 179
                 }
               ],
@@ -78558,6 +79679,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 103
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 103
                 }
               ],
               "change": 0,
@@ -78824,6 +79949,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 63
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 63
                 }
               ],
@@ -79092,6 +80221,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 52
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 52
                 }
               ],
               "change": 0,
@@ -79350,6 +80483,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 233
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 233
                 }
               ],
@@ -79618,6 +80755,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 137
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 137
                 }
               ],
               "change": 0,
@@ -79884,6 +81025,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 600
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 600
                 }
               ],
@@ -80406,6 +81551,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 230
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 230
                 }
               ],
               "change": 0,
@@ -80661,6 +81810,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 2380
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 2380
                 }
               ],
               "change": 0,
@@ -80915,6 +82068,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 2380
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 2380
                 }
               ],
@@ -81297,6 +82454,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 2380
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 2380
                 }
               ],
@@ -81804,6 +82965,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 1632
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 1632
                 }
               ],
               "change": 0,
@@ -81879,6 +83044,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 1599
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 1599
                 }
               ],
               "change": 0,
@@ -81941,6 +83110,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 55
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 55
                 }
               ],
@@ -82016,6 +83189,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 2370
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 2370
                 }
               ],
@@ -82184,6 +83361,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 320
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 320
                 }
               ],
               "change": 0,
@@ -82231,6 +83412,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 16.9
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 16.9
                 }
               ],
               "change": 0.0,
@@ -82277,6 +83462,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 59.8
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 59.8
                 }
               ],
@@ -82374,6 +83563,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 1800
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 1800
                 }
               ],
@@ -82917,6 +84110,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 1699.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 1699.0
                 }
               ],
               "change": 0.0,
@@ -83171,6 +84368,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 1599.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 1599.0
                 }
               ],
@@ -83427,6 +84628,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 1599.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 1599.0
                 }
               ],
               "change": 0.0,
@@ -83657,6 +84862,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 2845.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 2845.0
                 }
               ],
@@ -83908,6 +85117,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 1599.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 1599.0
                 }
               ],
@@ -84164,6 +85377,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 1599.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 1599.0
                 }
               ],
               "change": 0.0,
@@ -84419,6 +85636,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 1599.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 1599.0
                 }
               ],
               "change": 0.0,
@@ -84673,6 +85894,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 1599.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 1599.0
                 }
               ],
@@ -85670,6 +86895,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 33.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 33.0
                 }
               ],
               "change": 0.0,
@@ -86402,6 +87631,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 2290.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 2290.0
                 }
               ],
@@ -87860,6 +89093,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 63.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 63.0
                 }
               ],
               "change": 0.0,
@@ -88090,6 +89327,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 60.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 60.0
                 }
               ],
@@ -88322,6 +89563,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 1599.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 1599.0
                 }
               ],
               "change": 0.0,
@@ -88552,6 +89797,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 2299.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 2299.0
                 }
               ],
@@ -88784,6 +90033,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 21.5
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 21.5
                 }
               ],
               "change": 0.0,
@@ -89014,6 +90267,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 18.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 18.0
                 }
               ],
@@ -89246,6 +90503,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 18.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 18.0
                 }
               ],
               "change": 0.0,
@@ -89476,6 +90737,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 13.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 13.0
                 }
               ],
@@ -89708,6 +90973,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 13.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 13.0
                 }
               ],
               "change": 0.0,
@@ -89930,6 +91199,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 550.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 550.0
                 }
               ],
@@ -93466,8 +94739,207 @@ window.DASHBOARD_DATA = {
       "platforms": [
         {
           "name": "励齿",
-          "count": 152,
+          "count": 153,
           "products": [
+            {
+              "sku": "301239",
+              "brand": "新亚·SHINYE",
+              "name": "新亚 口角拉钩 正畸辅助器械 7112-100 儿童 可高温高压消毒",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/1487815308373.JPG",
+              "product_url": "https://www.lichidental.com/product/detail?sku=301239",
+              "history": [
+                {
+                  "date": "2026-07-01",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-07-02",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-07-03",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-07-04",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-07-05",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-07-06",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-07-07",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-07-08",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-07-09",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-07-10",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-07-11",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-07-12",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-07-13",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-07-14",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-07-15",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-07-16",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-07-17",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-07-20",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-07-21",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-07-22",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-07-24",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-07-29",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-07-30",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-07-31",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-08-03",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-08-04",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-08-05",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-08-06",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-08-07",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-08-11",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-08-12",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-10-12",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-10-15",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-10-18",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-10-19",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-10-20",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-10-21",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-10-28",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-10-29",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-10-30",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-11-02",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-11-03",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-11-04",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-11-06",
+                  "price": 49.0
+                },
+                {
+                  "date": "2026-11-09",
+                  "price": 49.0
+                },
+                {
+                  "date": "2026-11-10",
+                  "price": 49.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 49.0
+                }
+              ],
+              "change": 0.0,
+              "ever_changed": true
+            },
             {
               "sku": "316779",
               "brand": "新亚·SHINYE",
@@ -93734,201 +95206,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 71.0
-                }
-              ],
-              "change": 2.0,
-              "ever_changed": true
-            },
-            {
-              "sku": "301239",
-              "brand": "新亚·SHINYE",
-              "name": "新亚 口角拉钩 正畸辅助器械 7112-100 儿童 可高温高压消毒",
-              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/1487815308373.JPG",
-              "product_url": "https://www.lichidental.com/product/detail?sku=301239",
-              "history": [
-                {
-                  "date": "2026-07-01",
-                  "price": 50.0
                 },
                 {
-                  "date": "2026-07-02",
-                  "price": 50.0
-                },
-                {
-                  "date": "2026-07-03",
-                  "price": 50.0
-                },
-                {
-                  "date": "2026-07-04",
-                  "price": 50.0
-                },
-                {
-                  "date": "2026-07-05",
-                  "price": 50.0
-                },
-                {
-                  "date": "2026-07-06",
-                  "price": 50.0
-                },
-                {
-                  "date": "2026-07-07",
-                  "price": 50.0
-                },
-                {
-                  "date": "2026-07-08",
-                  "price": 50.0
-                },
-                {
-                  "date": "2026-07-09",
-                  "price": 50.0
-                },
-                {
-                  "date": "2026-07-10",
-                  "price": 50.0
-                },
-                {
-                  "date": "2026-07-11",
-                  "price": 50.0
-                },
-                {
-                  "date": "2026-07-12",
-                  "price": 50.0
-                },
-                {
-                  "date": "2026-07-13",
-                  "price": 50.0
-                },
-                {
-                  "date": "2026-07-14",
-                  "price": 50.0
-                },
-                {
-                  "date": "2026-07-15",
-                  "price": 50.0
-                },
-                {
-                  "date": "2026-07-16",
-                  "price": 50.0
-                },
-                {
-                  "date": "2026-07-17",
-                  "price": 50.0
-                },
-                {
-                  "date": "2026-07-20",
-                  "price": 50.0
-                },
-                {
-                  "date": "2026-07-21",
-                  "price": 50.0
-                },
-                {
-                  "date": "2026-07-22",
-                  "price": 50.0
-                },
-                {
-                  "date": "2026-07-24",
-                  "price": 50.0
-                },
-                {
-                  "date": "2026-07-29",
-                  "price": 50.0
-                },
-                {
-                  "date": "2026-07-30",
-                  "price": 50.0
-                },
-                {
-                  "date": "2026-07-31",
-                  "price": 50.0
-                },
-                {
-                  "date": "2026-08-03",
-                  "price": 50.0
-                },
-                {
-                  "date": "2026-08-04",
-                  "price": 50.0
-                },
-                {
-                  "date": "2026-08-05",
-                  "price": 50.0
-                },
-                {
-                  "date": "2026-08-06",
-                  "price": 50.0
-                },
-                {
-                  "date": "2026-08-07",
-                  "price": 50.0
-                },
-                {
-                  "date": "2026-08-11",
-                  "price": 50.0
-                },
-                {
-                  "date": "2026-08-12",
-                  "price": 50.0
-                },
-                {
-                  "date": "2026-10-12",
-                  "price": 50.0
-                },
-                {
-                  "date": "2026-10-15",
-                  "price": 50.0
-                },
-                {
-                  "date": "2026-10-18",
-                  "price": 50.0
-                },
-                {
-                  "date": "2026-10-19",
-                  "price": 50.0
-                },
-                {
-                  "date": "2026-10-20",
-                  "price": 50.0
-                },
-                {
-                  "date": "2026-10-21",
-                  "price": 50.0
-                },
-                {
-                  "date": "2026-10-28",
-                  "price": 50.0
-                },
-                {
-                  "date": "2026-10-29",
-                  "price": 50.0
-                },
-                {
-                  "date": "2026-10-30",
-                  "price": 50.0
-                },
-                {
-                  "date": "2026-11-02",
-                  "price": 50.0
-                },
-                {
-                  "date": "2026-11-03",
-                  "price": 50.0
-                },
-                {
-                  "date": "2026-11-04",
-                  "price": 50.0
-                },
-                {
-                  "date": "2026-11-06",
-                  "price": 49.0
-                },
-                {
-                  "date": "2026-11-09",
-                  "price": 49.0
-                },
-                {
-                  "date": "2026-11-10",
-                  "price": 49.0
+                  "date": "2026-11-11",
+                  "price": 71.0
                 }
               ],
               "change": 0.0,
@@ -94199,6 +95480,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 67.5
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 67.5
                 }
               ],
@@ -94471,6 +95756,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 104.8
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 104.8
                 }
               ],
               "change": 0.0,
@@ -94645,6 +95934,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 104.8
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 104.8
                 }
               ],
@@ -94917,6 +96210,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 28.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 28.0
                 }
               ],
               "change": 0.0,
@@ -95187,6 +96484,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 14.9
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 14.9
                 }
               ],
@@ -95459,6 +96760,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 198.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 198.0
                 }
               ],
               "change": 0.0,
@@ -95710,6 +97015,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 31.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 31.0
                 }
               ],
               "change": 0.0,
@@ -95756,6 +97065,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 129.8
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 129.8
                 }
               ],
@@ -96028,6 +97341,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 63.5
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 63.5
                 }
               ],
               "change": 0.0,
@@ -96298,6 +97615,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 250.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 250.0
                 }
               ],
@@ -96570,6 +97891,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 355.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 355.0
                 }
               ],
               "change": 0.0,
@@ -96840,6 +98165,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 330.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 330.0
                 }
               ],
@@ -97112,6 +98441,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 613.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 613.0
                 }
               ],
               "change": 0.0,
@@ -97382,6 +98715,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 303.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 303.0
                 }
               ],
@@ -97654,6 +98991,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 350.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 350.0
                 }
               ],
               "change": 0.0,
@@ -97924,6 +99265,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 330.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 330.0
                 }
               ],
@@ -98196,6 +99541,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 28.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 28.0
                 }
               ],
               "change": 0.0,
@@ -98466,6 +99815,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 41.9
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 41.9
                 }
               ],
@@ -98738,6 +100091,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 340.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 340.0
                 }
               ],
               "change": 0.0,
@@ -99008,6 +100365,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 31.8
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 31.8
                 }
               ],
@@ -99280,6 +100641,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 330.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 330.0
                 }
               ],
               "change": 0.0,
@@ -99550,6 +100915,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 328.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 328.0
                 }
               ],
@@ -99822,6 +101191,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 21.5
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 21.5
                 }
               ],
               "change": 0.0,
@@ -100093,6 +101466,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 321.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 321.0
                 }
               ],
               "change": 0.0,
@@ -100359,6 +101736,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 35.9
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 35.9
                 }
               ],
@@ -100631,6 +102012,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 25.8
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 25.8
                 }
               ],
               "change": 0.0,
@@ -100825,6 +102210,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-04",
+                  "price": 34.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 34.0
                 }
               ],
@@ -101163,6 +102552,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 28.64
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 28.64
                 }
               ],
               "change": 0.0,
@@ -101257,6 +102650,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 58.5
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 58.5
                 }
               ],
@@ -101660,6 +103057,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 25.02
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 25.02
                 }
               ],
               "change": 0.0,
@@ -101931,6 +103332,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 390.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 390.0
                 }
               ],
               "change": 0.0,
@@ -102201,6 +103606,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 29.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 29.0
                 }
               ],
@@ -102708,6 +104117,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 350.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 350.0
                 }
               ],
               "change": 0.0,
@@ -103194,6 +104607,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 18.88
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 18.88
                 }
               ],
               "change": 0.0,
@@ -103608,6 +105025,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 45.76
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 45.76
                 }
               ],
               "change": 0.0,
@@ -103879,6 +105300,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 308.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 308.0
                 }
               ],
               "change": 0.0,
@@ -104149,6 +105574,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 29.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 29.0
                 }
               ],
@@ -104444,6 +105873,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 31.7
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 31.7
                 }
               ],
               "change": 0.0,
@@ -104714,6 +106147,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 28.8
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 28.8
                 }
               ],
@@ -104986,6 +106423,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 25.8
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 25.8
                 }
               ],
               "change": 0.0,
@@ -105248,6 +106689,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 5.7
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 5.7
                 }
               ],
@@ -105520,6 +106965,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 14.9
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 14.9
                 }
               ],
               "change": 0.0,
@@ -105791,6 +107240,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 330.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 330.0
                 }
               ],
               "change": 0.0,
@@ -105981,6 +107434,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 139.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 139.0
                 }
               ],
@@ -106252,6 +107709,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 35.5
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 35.5
                 }
               ],
@@ -106938,6 +108399,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 28.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 28.0
                 }
               ],
               "change": 0.0,
@@ -107208,6 +108673,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 25.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 25.0
                 }
               ],
@@ -107639,6 +109108,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 22.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 22.0
                 }
               ],
               "change": 0.0,
@@ -107909,6 +109382,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 21.58
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 21.58
                 }
               ],
@@ -108181,6 +109658,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 330.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 330.0
                 }
               ],
               "change": 0.0,
@@ -108452,6 +109933,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 14.53
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 14.53
                 }
               ],
               "change": 0.0,
@@ -108718,6 +110203,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 39.43
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 39.43
                 }
               ],
@@ -109257,6 +110746,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 330.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 330.0
                 }
               ],
               "change": 0.0,
@@ -109527,6 +111020,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 314.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 314.0
                 }
               ],
@@ -109799,6 +111296,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 22.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 22.0
                 }
               ],
               "change": 0.0,
@@ -110069,6 +111570,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 41.5
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 41.5
                 }
               ],
@@ -110341,6 +111846,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 25.32
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 25.32
                 }
               ],
               "change": 0.0,
@@ -110611,6 +112120,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 36.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 36.0
                 }
               ],
@@ -111110,6 +112623,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 330.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 330.0
                 }
               ],
               "change": 0.0,
@@ -111381,6 +112898,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 330.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 330.0
                 }
               ],
               "change": 0.0,
@@ -111651,6 +113172,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 600.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 600.0
                 }
               ],
@@ -111935,6 +113460,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 330.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 330.0
                 }
               ],
               "change": 0.0,
@@ -112205,6 +113734,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 18.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 18.0
                 }
               ],
@@ -112708,6 +114241,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 16.6
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 16.6
                 }
               ],
               "change": 0.0,
@@ -112978,6 +114515,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 143.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 143.0
                 }
               ],
@@ -113250,6 +114791,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 80.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 80.0
                 }
               ],
               "change": 0.0,
@@ -113520,6 +115065,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 36.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 36.0
                 }
               ],
@@ -113792,6 +115341,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 330.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 330.0
                 }
               ],
               "change": 0.0,
@@ -114062,6 +115615,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 35.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 35.0
                 }
               ],
@@ -114541,6 +116098,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 29.8
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 29.8
                 }
               ],
               "change": 0.0,
@@ -114811,6 +116372,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 49.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 49.0
                 }
               ],
@@ -115083,6 +116648,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 303.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 303.0
                 }
               ],
               "change": 0.0,
@@ -115353,6 +116922,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 357.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 357.0
                 }
               ],
@@ -115736,6 +117309,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 42.9
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 42.9
                 }
               ],
               "change": 0.0,
@@ -116006,6 +117583,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 184.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 184.0
                 }
               ],
@@ -116278,6 +117859,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 316.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 316.0
                 }
               ],
               "change": 0.0,
@@ -116548,6 +118133,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 304.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 304.0
                 }
               ],
@@ -116820,6 +118409,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 29.8
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 29.8
                 }
               ],
               "change": 0.0,
@@ -117091,6 +118684,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 330.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 330.0
                 }
               ],
               "change": 0.0,
@@ -117361,6 +118958,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 390.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 390.0
                 }
               ],
@@ -117868,6 +119469,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 70.14
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 70.14
                 }
               ],
               "change": 0.0,
@@ -118346,6 +119951,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 330.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 330.0
                 }
               ],
               "change": 0.0,
@@ -118692,6 +120301,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 15.2
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 15.2
                 }
               ],
               "change": 0.0,
@@ -118858,6 +120471,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 59.01
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 59.01
                 }
               ],
@@ -119200,6 +120817,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 58.5
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 58.5
                 }
               ],
               "change": 0.0,
@@ -119525,6 +121146,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 135.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 135.0
                 }
               ],
               "change": 0.0,
@@ -119797,6 +121422,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 23.66
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 23.66
                 }
               ],
               "change": 0.0,
@@ -120021,6 +121650,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-09",
                   "price": 53.63
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 53.63
                 }
               ],
               "change": 0.0,
@@ -120146,6 +121779,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 40.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 40.0
                 }
               ],
               "change": 0.0,
@@ -120216,6 +121853,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 612.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 612.0
                 }
               ],
@@ -120401,6 +122042,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 58.5
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 58.5
                 }
               ],
               "change": 0.0,
@@ -120475,6 +122120,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 332.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 332.0
                 }
               ],
@@ -120551,6 +122200,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 45.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 45.0
                 }
               ],
               "change": 0.0,
@@ -120625,6 +122278,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 41.5
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 41.5
                 }
               ],
@@ -120932,6 +122589,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 25.8
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 25.8
                 }
               ],
               "change": 0.0,
@@ -120954,6 +122615,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-09",
+                  "price": 25.5
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 25.5
                 }
               ],
@@ -120981,6 +122646,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 25.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 25.0
                 }
               ],
@@ -121031,6 +122700,21 @@ window.DASHBOARD_DATA = {
                 }
               ],
               "change": 0.0,
+              "ever_changed": false
+            },
+            {
+              "sku": "306567",
+              "brand": "新亚·SHINYE",
+              "name": "新亚 第二磨牙PIM单管网底直丝弓颊面管 62BS-20J-37",
+              "image_url": "https://lichish-pro-image.oss-cn-shanghai.aliyuncs.com/proSubPic/1571376068457.jpg",
+              "product_url": "https://www.lichidental.com/product/detail?sku=306567",
+              "history": [
+                {
+                  "date": "2026-11-11",
+                  "price": 119.0
+                }
+              ],
+              "change": 0,
               "ever_changed": false
             },
             {
@@ -121435,6 +123119,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 36
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 36
                 }
               ],
               "change": 0,
@@ -121689,6 +123377,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 104.8
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 104.8
                 }
               ],
@@ -121945,6 +123637,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 67.5
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 67.5
                 }
               ],
               "change": 0.0,
@@ -122199,6 +123895,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 31
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 31
                 }
               ],
@@ -122455,6 +124155,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 46.6
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 46.6
                 }
               ],
               "change": 0.0,
@@ -122709,6 +124413,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 49
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 49
                 }
               ],
@@ -122965,6 +124673,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 96.8
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 96.8
                 }
               ],
               "change": 0.0,
@@ -123219,6 +124931,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 123
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 123
                 }
               ],
@@ -123475,6 +125191,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 104.8
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 104.8
                 }
               ],
               "change": 0.0,
@@ -123729,6 +125449,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 28
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 28
                 }
               ],
@@ -123985,6 +125709,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 24.5
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 24.5
                 }
               ],
               "change": 0.0,
@@ -124119,6 +125847,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 288
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 288
                 }
               ],
@@ -124302,6 +126034,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-10-30",
+                  "price": 35.9
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 35.9
                 }
               ],
@@ -124775,6 +126511,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 34
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 34
                 }
               ],
               "change": 0,
@@ -125030,6 +126770,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 25.8
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 25.8
                 }
               ],
               "change": 0.0,
@@ -125248,6 +126992,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 5.7
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 5.7
                 }
               ],
@@ -125504,6 +127252,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 31.7
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 31.7
                 }
               ],
               "change": 0.0,
@@ -125758,6 +127510,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 119
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 119
                 }
               ],
@@ -126014,6 +127770,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 25
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 25
                 }
               ],
               "change": 0,
@@ -126269,6 +128029,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 35.9
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 35.9
                 }
               ],
               "change": 0.0,
@@ -126523,6 +128287,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 15.2
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 15.2
                 }
               ],
@@ -126974,6 +128742,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 22.5
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 22.5
                 }
               ],
               "change": 0.0,
@@ -127227,6 +128999,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 52.9
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 52.9
                 }
               ],
               "change": 0.0,
@@ -127410,6 +129186,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 18
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 18
                 }
               ],
               "change": 0,
@@ -127520,6 +129300,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 58.5
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 58.5
                 }
               ],
@@ -127694,6 +129478,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-04",
+                  "price": 98
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 98
                 }
               ],
@@ -128158,6 +129946,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 27
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 27
                 }
               ],
               "change": 0,
@@ -128292,6 +130084,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 40
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 40
                 }
               ],
               "change": 0,
@@ -128350,6 +130146,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 25
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 25
                 }
               ],
@@ -128484,6 +130284,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 34
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 34
                 }
               ],
@@ -136033,6 +137837,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 14.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 14.0
                 }
               ],
               "change": 0.0,
@@ -136411,6 +138219,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 490.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 490.0
                 }
               ],
               "change": 0.0,
@@ -136517,6 +138329,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 490.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 490.0
                 }
               ],
@@ -136796,6 +138612,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 108.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 108.0
                 }
               ],
@@ -137080,6 +138900,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 22.5
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 22.5
                 }
               ],
               "change": 0.0,
@@ -137338,6 +139162,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 1200.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 1200.0
                 }
               ],
@@ -137743,6 +139571,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 490.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 490.0
                 }
               ],
               "change": 0.0,
@@ -137813,6 +139645,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 399.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 399.0
                 }
               ],
@@ -138724,6 +140560,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 15.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 15.0
                 }
               ],
               "change": 0.0,
@@ -139006,6 +140846,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 35.2
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 35.2
                 }
               ],
@@ -139290,6 +141134,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 15.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 15.0
                 }
               ],
               "change": 0.0,
@@ -139572,6 +141420,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 15.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 15.0
                 }
               ],
@@ -139856,6 +141708,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 15.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 15.0
                 }
               ],
               "change": 0.0,
@@ -140139,6 +141995,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 1100.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 1100.0
                 }
               ],
               "change": 0.0,
@@ -140421,6 +142281,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 3.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 3.0
                 }
               ],
@@ -140916,6 +142780,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 15.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 15.0
                 }
               ],
               "change": 0.0,
@@ -141198,6 +143066,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 40.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 40.0
                 }
               ],
@@ -141482,6 +143354,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 120.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 120.0
                 }
               ],
               "change": 0.0,
@@ -141764,6 +143640,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 14.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 14.0
                 }
               ],
@@ -142048,6 +143928,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 15.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 15.0
                 }
               ],
               "change": 0.0,
@@ -142330,6 +144214,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 15.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 15.0
                 }
               ],
@@ -142614,6 +144502,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 14.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 14.0
                 }
               ],
               "change": 0.0,
@@ -142897,6 +144789,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 97.94
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 97.94
                 }
               ],
               "change": 0.0,
@@ -143179,6 +145075,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 350.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 350.0
                 }
               ],
@@ -143617,6 +145517,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 900.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 900.0
                 }
               ],
               "change": 0.0,
@@ -144031,6 +145935,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 450.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 450.0
                 }
               ],
               "change": 0.0,
@@ -144313,6 +146221,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 19.5
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 19.5
                 }
               ],
@@ -144597,6 +146509,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 300.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 300.0
                 }
               ],
               "change": 0.0,
@@ -144879,6 +146795,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 15.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 15.0
                 }
               ],
@@ -145163,6 +147083,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 15.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 15.0
                 }
               ],
               "change": 0.0,
@@ -145445,6 +147369,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 40.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 40.0
                 }
               ],
@@ -145729,6 +147657,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 40.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 40.0
                 }
               ],
               "change": 0.0,
@@ -146011,6 +147943,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 50.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 50.0
                 }
               ],
@@ -146295,6 +148231,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 18.5
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 18.5
                 }
               ],
               "change": 0.0,
@@ -146577,6 +148517,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 29.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 29.0
                 }
               ],
@@ -146861,6 +148805,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 15.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 15.0
                 }
               ],
               "change": 0.0,
@@ -147143,6 +149091,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 22.5
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 22.5
                 }
               ],
@@ -147427,6 +149379,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 15.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 15.0
                 }
               ],
               "change": 0.0,
@@ -147709,6 +149665,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 30.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 30.0
                 }
               ],
@@ -147993,6 +149953,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 350.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 350.0
                 }
               ],
               "change": 0.0,
@@ -148267,6 +150231,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 240.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 240.0
                 }
               ],
@@ -148551,6 +150519,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 175.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 175.0
                 }
               ],
               "change": 0.0,
@@ -148833,6 +150805,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 300.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 300.0
                 }
               ],
@@ -149117,6 +151093,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 800.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 800.0
                 }
               ],
               "change": 0.0,
@@ -149399,6 +151379,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 1397.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 1397.0
                 }
               ],
@@ -149683,6 +151667,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 470.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 470.0
                 }
               ],
               "change": 0.0,
@@ -149965,6 +151953,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 39.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 39.0
                 }
               ],
@@ -150249,6 +152241,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 17.5
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 17.5
                 }
               ],
               "change": 0.0,
@@ -150531,6 +152527,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 120.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 120.0
                 }
               ],
@@ -150965,6 +152965,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 100.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 100.0
                 }
               ],
               "change": 0.0,
@@ -151227,6 +153231,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 15.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 15.0
                 }
               ],
@@ -151511,6 +153519,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 96.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 96.0
                 }
               ],
               "change": 0.0,
@@ -151793,6 +153805,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 16.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 16.0
                 }
               ],
@@ -152077,6 +154093,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 300.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 300.0
                 }
               ],
               "change": 0.0,
@@ -152355,6 +154375,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 35.2
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 35.2
                 }
               ],
@@ -152670,6 +154694,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 162.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 162.0
                 }
               ],
               "change": 0.0,
@@ -152828,6 +154856,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 35.2
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 35.2
                 }
               ],
@@ -153108,6 +155140,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 15.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 15.0
                 }
               ],
               "change": 0.0,
@@ -153258,6 +155294,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 30.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 30.0
                 }
               ],
@@ -153468,6 +155508,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 235.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 235.0
                 }
               ],
@@ -153682,6 +155726,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 180.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 180.0
                 }
               ],
@@ -154062,6 +156110,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 30.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 30.0
                 }
               ],
@@ -154816,6 +156868,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 40.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 40.0
                 }
               ],
               "change": 0.0,
@@ -154931,6 +156987,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 705.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 705.0
                 }
               ],
               "change": 0.0,
@@ -154993,6 +157053,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 400.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 400.0
                 }
               ],
@@ -155068,6 +157132,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 90.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 90.0
                 }
               ],
@@ -155148,6 +157216,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 300.0
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 300.0
                 }
               ],
               "change": 0.0,
@@ -155218,6 +157290,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 46.99
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 46.99
                 }
               ],
@@ -155293,6 +157369,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 450.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 450.0
                 }
               ],
@@ -155376,6 +157456,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 40.0
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 40.0
                 }
               ],
@@ -156103,6 +158187,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 9.9
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 9.9
                 }
               ],
               "change": 0.0,
@@ -156369,6 +158457,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 9.9
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 9.9
                 }
               ],
@@ -156637,6 +158729,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 9.9
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 9.9
                 }
               ],
               "change": 0.0,
@@ -156904,6 +159000,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 35.2
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 35.2
                 }
               ],
               "change": 0.0,
@@ -157094,6 +159194,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 399
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 399
                 }
               ],
@@ -157361,6 +159465,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 35.2
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 35.2
                 }
               ],
@@ -157768,6 +159876,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 16
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 16
                 }
               ],
               "change": 0,
@@ -158034,6 +160146,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 30
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 30
                 }
               ],
@@ -158302,6 +160418,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 35.2
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 35.2
                 }
               ],
               "change": 0.0,
@@ -158568,6 +160688,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 67.5
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 67.5
                 }
               ],
@@ -158836,6 +160960,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 490
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 490
                 }
               ],
               "change": 0,
@@ -159102,6 +161230,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 489
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 489
                 }
               ],
@@ -159505,6 +161637,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 490
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 490
                 }
               ],
               "change": 0,
@@ -159725,6 +161861,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 90
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 90
                 }
               ],
@@ -159984,6 +162124,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 3
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 3
                 }
               ],
@@ -160459,6 +162603,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 3.6
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 3.6
                 }
               ],
               "change": 0.0,
@@ -160829,6 +162977,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 3.6
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 3.6
                 }
               ],
               "change": 0.0,
@@ -161095,6 +163247,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 15
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 15
                 }
               ],
@@ -161693,6 +163849,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 120
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 120
                 }
               ],
               "change": 0,
@@ -161960,6 +164120,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 35
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 35
                 }
               ],
               "change": 0,
@@ -162226,6 +164390,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 140
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 140
                 }
               ],
@@ -162673,6 +164841,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 3.6
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 3.6
                 }
               ],
               "change": 0.0,
@@ -163031,6 +165203,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 705
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 705
                 }
               ],
               "change": 0,
@@ -163273,6 +165449,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 120
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 120
                 }
               ],
@@ -163627,6 +165807,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 16
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 16
                 }
               ],
@@ -164106,6 +166290,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 16
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 16
                 }
               ],
               "change": 0,
@@ -164372,6 +166560,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 18.5
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 18.5
                 }
               ],
@@ -164819,6 +167011,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 15
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 15
                 }
               ],
               "change": 0,
@@ -165085,6 +167281,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 15
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 15
                 }
               ],
@@ -165353,6 +167553,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 15
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 15
                 }
               ],
               "change": 0,
@@ -165619,6 +167823,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 10
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 10
                 }
               ],
@@ -165887,6 +168095,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 30
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 30
                 }
               ],
               "change": 0,
@@ -166065,6 +168277,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 400
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 400
                 }
               ],
@@ -166476,6 +168692,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 100
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 100
                 }
               ],
               "change": 0,
@@ -166742,6 +168962,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 15
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 15
                 }
               ],
@@ -167010,6 +169234,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 350
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 350
                 }
               ],
               "change": 0,
@@ -167276,6 +169504,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 30
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 30
                 }
               ],
@@ -167711,6 +169943,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 19.5
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 19.5
                 }
               ],
               "change": 0.0,
@@ -167978,6 +170214,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 61.8
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 61.8
                 }
               ],
               "change": 0.0,
@@ -168236,6 +170476,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 12.5
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 12.5
                 }
               ],
@@ -168504,6 +170748,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 30
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 30
                 }
               ],
               "change": 0,
@@ -168770,6 +171018,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 50
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 50
                 }
               ],
@@ -169038,6 +171290,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 29
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 29
                 }
               ],
               "change": 0,
@@ -169305,6 +171561,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 30
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 30
                 }
               ],
               "change": 0,
@@ -169571,6 +171831,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 17.5
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 17.5
                 }
               ],
@@ -169886,6 +172150,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 14
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 14
                 }
               ],
               "change": 0,
@@ -170080,6 +172348,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 300
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 300
                 }
               ],
@@ -170348,6 +172620,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 40
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 40
                 }
               ],
               "change": 0,
@@ -170614,6 +172890,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 17.5
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 17.5
                 }
               ],
@@ -170882,6 +173162,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 15
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 15
                 }
               ],
               "change": 0,
@@ -171148,6 +173432,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 6
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 6
                 }
               ],
@@ -171416,6 +173704,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 14
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 14
                 }
               ],
               "change": 0,
@@ -171683,6 +173975,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 15
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 15
                 }
               ],
               "change": 0,
@@ -171949,6 +174245,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 470
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 470
                 }
               ],
@@ -172424,6 +174724,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 14
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 14
                 }
               ],
               "change": 0,
@@ -172691,6 +174995,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 35
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 35
                 }
               ],
               "change": 0,
@@ -172953,6 +175261,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 13.9
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 13.9
                 }
               ],
@@ -173221,6 +175533,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 12.5
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 12.5
                 }
               ],
               "change": 0.0,
@@ -173484,6 +175800,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 67.5
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 67.5
                 }
               ],
               "change": 0.0,
@@ -173746,6 +176066,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 22.5
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 22.5
                 }
               ],
@@ -174013,6 +176337,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 15
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 15
                 }
               ],
@@ -174412,6 +176740,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 350
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 350
                 }
               ],
               "change": 0,
@@ -174663,6 +176995,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 17
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 17
                 }
               ],
               "change": 0,
@@ -174853,6 +177189,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 480
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 480
                 }
               ],
@@ -175117,6 +177457,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 500
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 500
                 }
               ],
               "change": 0,
@@ -175379,6 +177723,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 6
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 6
                 }
               ],
@@ -175643,6 +177991,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 40
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 40
                 }
               ],
               "change": 0,
@@ -175905,6 +178257,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 14
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 14
                 }
               ],
@@ -176169,6 +178525,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 67.5
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 67.5
                 }
               ],
               "change": 0.0,
@@ -176431,6 +178791,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 37
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 37
                 }
               ],
@@ -176695,6 +179059,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 97.5
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 97.5
                 }
               ],
               "change": 0.0,
@@ -176957,6 +179325,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 14
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 14
                 }
               ],
@@ -177221,6 +179593,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 10
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 10
                 }
               ],
               "change": 0,
@@ -177483,6 +179859,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 14
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 14
                 }
               ],
@@ -177862,6 +180242,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 40
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 40
                 }
               ],
               "change": 0,
@@ -178125,6 +180509,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 2400
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 2400
                 }
               ],
               "change": 0,
@@ -178387,6 +180775,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 175
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 175
                 }
               ],
@@ -178846,6 +181238,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 15
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 15
                 }
               ],
               "change": 0,
@@ -179108,6 +181504,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 300
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 300
                 }
               ],
@@ -179372,6 +181772,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 500
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 500
                 }
               ],
               "change": 0,
@@ -179622,6 +182026,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 14
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 14
                 }
               ],
@@ -179886,6 +182294,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 14
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 14
                 }
               ],
               "change": 0,
@@ -180149,6 +182561,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 300
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 300
                 }
               ],
               "change": 0,
@@ -180411,6 +182827,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 14
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 14
                 }
               ],
@@ -181280,6 +183700,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 34
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 34
                 }
               ],
               "change": 0,
@@ -181730,6 +184154,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 175
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 175
                 }
               ],
               "change": 0,
@@ -181928,6 +184356,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 300
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 300
                 }
               ],
@@ -182187,6 +184619,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 5000
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 5000
                 }
               ],
@@ -182450,6 +184886,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 600
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 600
                 }
               ],
@@ -182861,6 +185301,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 600
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 600
                 }
               ],
               "change": 0,
@@ -183124,6 +185568,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 900
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 900
                 }
               ],
               "change": 0,
@@ -183386,6 +185834,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 240
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 240
                 }
               ],
@@ -183765,6 +186217,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 174
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 174
                 }
               ],
               "change": 0,
@@ -184028,6 +186484,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 175
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 175
                 }
               ],
               "change": 0,
@@ -184182,6 +186642,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 465
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 465
                 }
               ],
@@ -184453,6 +186917,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 800
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 800
                 }
               ],
               "change": 0,
@@ -184688,6 +187156,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 15
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 15
                 }
               ],
               "change": 0,
@@ -184878,6 +187350,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 5000
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 5000
                 }
               ],
@@ -185764,6 +188240,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 61.8
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 61.8
                 }
               ],
               "change": 0.0,
@@ -185810,6 +188290,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 3.6
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 3.6
                 }
               ],
@@ -185881,6 +188365,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 79
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 79
                 }
               ],
@@ -185977,6 +188465,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 235
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 235
                 }
               ],
               "change": 0,
@@ -186044,6 +188536,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 10
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 10
                 }
               ],
               "change": 0,
@@ -186110,6 +188606,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 17.5
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 17.5
                 }
               ],
@@ -186253,6 +188753,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 10
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 10
                 }
               ],
               "change": 0,
@@ -186379,6 +188883,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 120
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 120
                 }
               ],
               "change": 0,
@@ -186445,6 +188953,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 11.5
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 11.5
                 }
               ],
@@ -186608,6 +189120,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 140
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 140
                 }
               ],
               "change": 0,
@@ -186715,6 +189231,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 450
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 450
                 }
               ],
               "change": 0,
@@ -186781,6 +189301,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 115
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 115
                 }
               ],
@@ -186889,6 +189413,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 490
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 490
                 }
               ],
               "change": 0,
@@ -186955,6 +189483,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 40
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 40
                 }
               ],
@@ -187340,6 +189872,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 38
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 38
                 }
               ],
               "change": 0,
@@ -187394,6 +189930,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 666
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 666
                 }
               ],
@@ -187475,6 +190015,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 9
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 9
                 }
               ],
@@ -187584,6 +190128,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 15
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 15
                 }
               ],
               "change": 0,
@@ -187603,6 +190151,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 17.5
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 17.5
                 }
               ],
               "change": 0.0,
@@ -187621,6 +190173,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 18
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 18
                 }
               ],
@@ -187648,6 +190204,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 480
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 480
                 }
               ],
@@ -195832,6 +198392,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 388
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 388
                 }
               ],
               "change": 0,
@@ -196099,6 +198663,10 @@ window.DASHBOARD_DATA = {
                 {
                   "date": "2026-11-10",
                   "price": 559
+                },
+                {
+                  "date": "2026-11-11",
+                  "price": 559
                 }
               ],
               "change": 0,
@@ -196347,6 +198915,10 @@ window.DASHBOARD_DATA = {
                 },
                 {
                   "date": "2026-11-10",
+                  "price": 239
+                },
+                {
+                  "date": "2026-11-11",
                   "price": 239
                 }
               ],
